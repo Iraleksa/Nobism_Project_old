@@ -1,0 +1,613 @@
+,Blood pressure (high),Blood pressure (low),Date,Date/Time,Description,Duration,Group,Intensity,Name,Quantity,Tag,Time,Unit
+0,,,02/05/2019 ,02/05/2019 07:10:00, , ,me, ,oxygen,15,oxygen-101meen,07:10:00 ,l/m
+1,,,02/05/2019 ,02/05/2019 07:09:18, ,00:14:00,sy,2,Cluster headache, ,cluster-headache-14syen,07:09:18 , 
+2,,,02/05/2019 ,02/05/2019 04:24:54, , ,me, ,oxygen,15,oxygen-101meen,04:24:54 ,l/m
+3,,,02/05/2019 ,02/05/2019 04:23:16, ,00:24:00,sy,4,Cluster headache, ,cluster-headache-14syen,04:23:16 , 
+4,,,26/04/2019 ,26/04/2019 16:37:45, ,00:04:00,sy,5,Cluster headache, ,cluster-headache-14syen,16:37:45 , 
+5,,,26/04/2019 ,26/04/2019 16:37:22, , ,me, ,oxygen,15,oxygen-101meen,16:37:22 ,l/m
+6,,,15/04/2019 ,15/04/2019 15:41:02, ,00:05:00,sy,3,Cluster headache, ,cluster-headache-14syen,15:41:02 , 
+7,,,15/04/2019 ,15/04/2019 15:40:42, , ,me, ,oxygen,15,oxygen-101meen,15:40:42 ,l/m
+8,,,15/04/2019 ,15/04/2019 09:18:03, , ,me, ,oxygen,15,oxygen-101meen,09:18:03 ,l/m
+9,,,15/04/2019 ,15/04/2019 09:18:00, ,00:15:00,sy,2,Cluster headache, ,cluster-headache-14syen,09:18:00 , 
+10,,,04/04/2019 ,04/04/2019 21:08:01, ,00:10:00,sy,3,Cluster headache, ,cluster-headache-14syen,21:08:01 , 
+11,,,04/04/2019 ,04/04/2019 21:07:50, , ,me, ,oxygen,15,oxygen-101meen,21:07:50 ,l/m
+12,,,04/04/2019 ,04/04/2019 21:07:46, , ,vi, ,vitamin-d,10,vitamin-d-11vien,21:07:46 ,iu
+13,,,03/04/2019 ,03/04/2019 23:02:39, ,00:04:00,sy,3,Cluster headache, ,cluster-headache-14syen,23:02:39 , 
+14,,,03/04/2019 ,03/04/2019 20:03:24, , ,me, ,oxygen,13,oxygen-101meen,20:03:24 ,l/m
+15,,,27/03/2019,27/03/2019 09:42:00,,00:14:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,09:42:00,
+16,,,27/03/2019,27/03/2019 07:19:00,,00:10:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,07:19:00,
+17,,,23/03/2019,23/03/2019 04:50:00,,00:20:00,sy,6,Cluster headache,,clusterhoofdpijn-14synl,04:50:00,
+18,,,23/03/2019,23/03/2019 01:25:00,,00:22:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,01:25:00,
+19,,,17/03/2019,17/03/2019 23:50:00,,,ma,,magic-mushrooms,2500,magic-mushrooms-12manl,23:50:00,mg
+20,,,16/03/2019,16/03/2019 23:39:00,,,me,,zuurstof,15,oxygen-101meen,23:39:00,l/m
+21,,,16/03/2019,16/03/2019 23:38:00,,00:35:00,sy,7,Cluster headache,,clusterhoofdpijn-14synl,23:38:00,
+22,,,16/03/2019,16/03/2019 23:01:00,,00:12:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,23:01:00,
+23,,,15/03/2019,15/03/2019 23:24:00,,00:16:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,23:24:00,
+24,,,15/03/2019,15/03/2019 23:23:00,,,ma,,magic-mushrooms,1600,magic-mushrooms-12manl,23:23:00,mg
+25,,,15/03/2019,15/03/2019 06:35:00,,,me,,zuurstof,15,oxygen-101meen,06:35:00,l/m
+26,,,15/03/2019,15/03/2019 06:35:00,,00:18:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,06:35:00,
+27,,,08/03/2019,08/03/2019 06:45:00,,,me,,zuurstof,15,oxygen-101meen,06:45:00,l/m
+28,,,08/03/2019,08/03/2019 06:45:00,,00:13:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,06:45:00,
+29,,,08/03/2019,08/03/2019 04:23:00,,00:18:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,04:23:00,
+30,,,08/03/2019,08/03/2019 02:03:00,,,me,,zuurstof,15,oxygen-101meen,02:03:00,l/m
+31,,,07/03/2019,07/03/2019 21:23:00,,,ma,,magic-mushrooms,900,magic-mushrooms-12manl,21:23:00,mg
+32,,,07/03/2019,07/03/2019 09:30:00,,00:20:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,09:30:00,
+33,,,07/03/2019,07/03/2019 04:53:00,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,04:53:00,
+34,,,06/03/2019,06/03/2019 22:02:00,,,ma,,magic-mushrooms,1600,magic-mushrooms-12manl,22:02:00,mg
+35,,,05/03/2019,05/03/2019 22:09:00,,,ma,,magic-mushrooms,1350,magic-mushrooms-12manl,22:09:00,mg
+36,,,05/03/2019,05/03/2019 08:22:00,,,me,,zuurstof,15,oxygen-101meen,08:22:00,l/m
+37,,,05/03/2019,05/03/2019 08:22:00,,00:16:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,08:22:00,
+38,,,05/03/2019,05/03/2019 05:03:00,,,me,,zuurstof,15,oxygen-101meen,05:03:00,l/m
+39,,,05/03/2019,05/03/2019 05:03:00,,00:15:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,05:03:00,
+40,,,03/03/2019,03/03/2019 08:26:00,,,me,,zuurstof,15,oxygen-101meen,08:26:00,l/m
+41,,,03/03/2019,03/03/2019 08:26:00,,00:21:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,08:26:00,
+42,,,27/02/2019,27/02/2019 07:39:00,,,me,,zuurstof,15,oxygen-101meen,07:39:00,l/m
+43,,,27/02/2019,27/02/2019 07:39:00,,00:10:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,07:39:00,
+44,,,25/02/2019,25/02/2019 23:42:00,,,me,,oxygen,15,oxygen-101meen,23:42:00,l/m
+45,,,25/02/2019,25/02/2019 23:41:00,,,me,,zuurstof,15,oxygen-101meen,23:41:00,l/m
+46,,,18/02/2019,18/02/2019 04:58:00,,,me,,zuurstof,15,oxygen-101meen,04:58:00,l/m
+47,,,18/02/2019,18/02/2019 04:58:00,,00:20:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,04:58:00,
+48,,,18/02/2019,18/02/2019 00:31,,,me,,Oxygen,15,zuurstof-101menl,00:31:00,l/m
+49,,,18/02/2019,18/02/2019 00:31,,00:18:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,00:31:00,
+50,,,11/02/2019,11/02/2019 08:09,,00:21:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,08:09:00,
+51,,,11/02/2019,11/02/2019 02:45,,00:20:00,sy,7,Cluster headache,,clusterhoofdpijn-14synl,02:45:00,
+52,,,08/02/2019,08/02/2019 14:20,,00:15:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,14:20:00,
+53,,,07/02/2019,07/02/2019 06:50,,,me,,Oxygen,15,zuurstof-101menl,06:50:00,l/m
+54,,,07/02/2019,07/02/2019 06:50,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,06:50:00,
+55,,,06/02/2019,06/02/2019 18:28,,,me,,Oxygen,15,zuurstof-101menl,18:28:00,l/m
+56,,,06/02/2019,06/02/2019 18:26,,00:24:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,18:26:00,
+57,,,05/02/2019,05/02/2019 17:21,,00:25:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,17:21:00,
+58,,,05/02/2019,05/02/2019 11:24,,00:30:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,11:24:00,
+59,,,05/02/2019,05/02/2019 03:00,,00:20:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,03:00:00,
+60,,,04/02/2019,04/02/2019 01:15,,,me,,Oxygen,15,zuurstof-101menl,01:15:00,l/m
+61,,,04/02/2019,04/02/2019 01:15,,00:16:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,01:15:00,
+62,,,01/02/2019,01/02/2019 19:29,,,me,,Oxygen,15,zuurstof-101menl,19:29:00,l/m
+63,,,01/02/2019,01/02/2019 19:29,,00:25:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,19:29:00,
+64,,,31/01/2019,31/01/2019 13:35,,,me,,sumatriptan-injection,6,sumatriptan-injectie-54menl,13:35:00,mg
+65,,,31/01/2019,31/01/2019 13:35,,00:21:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,13:35:00,
+66,,,31/01/2019,31/01/2019 01:31,,,ma,,Oxygen,15,zuurstof-16manl,01:31:00,l/m
+67,,,31/01/2019,31/01/2019 01:30,,00:20:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,01:30:00,
+68,,,30/01/2019,30/01/2019 23:03,,,ma,,magic-mushrooms,900,magic-mushrooms-12manl,23:03:00,mg
+69,,,30/01/2019,30/01/2019 22:00,,00:16:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,22:00:00,
+70,,,30/01/2019,30/01/2019 04:57,,00:35:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,04:57:00,
+71,,,30/01/2019,30/01/2019 02:16,,,ma,,magic-mushrooms,1300,magic-mushrooms-12manl,02:16:00,mg
+72,,,30/01/2019,30/01/2019 02:16,,00:30:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,02:16:00,
+73,,,28/01/2019,28/01/2019 01:34,,,sp,,To bed,,to-bed-33spen,01:34:00,
+74,,,27/01/2019,27/01/2019 05:08,,00:20:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,05:08:00,
+75,,,27/01/2019,27/01/2019 02:59,,,sp,,To bed,,to-bed-33spen,02:59:00,
+76,,,27/01/2019,27/01/2019 02:51,,00:26:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,02:51:00,
+77,,,27/01/2019,27/01/2019 02:50,,,ma,,Oxygen,15,zuurstof-16manl,02:50:00,l/m
+78,,,27/01/2019,27/01/2019 02:27,,,ma,,Oxygen,15,zuurstof-16manl,02:27:00,l/m
+79,,,27/01/2019,27/01/2019 02:27,,00:20:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,02:27:00,
+80,,,27/01/2019,27/01/2019 01:08,,,sp,,To bed,,to-bed-33spen,01:08:00,
+81,,,26/01/2019,26/01/2019 19:38,,00:20:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,19:38:00,
+82,,,26/01/2019,26/01/2019 03:25,,,sp,,To bed,,to-bed-33spen,03:25:00,
+83,,,26/01/2019,26/01/2019 03:24,,00:15:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,03:24:00,
+84,,,26/01/2019,26/01/2019 02:24,,,sp,,To bed,,to-bed-33spen,02:24:00,
+85,,,26/01/2019,26/01/2019 01:58,,00:25:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,01:58:00,
+86,,,24/01/2019,24/01/2019 08:53,,00:30:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,08:53:00,
+87,,,21/01/2019,21/01/2019 04:07,,00:36:00,sy,8,Cluster headache,,clusterhoofdpijn-14synl,04:07:00,
+88,,,12/01/2019,12/01/2019 22:57:00,,00:20:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,22:57:00,
+89,,,10/01/2019,10/01/2019 01:32:00,,,sp,,To bed,,To-bed-33spen,01:32:00,
+90,,,07/01/2019,07/01/2019 01:11:00,,,sp,,To bed,,To-bed-33spen,01:11:00,
+91,,,05/01/2019,05/01/2019 01:28:00,,,sp,,To bed,,To-bed-33spen,01:28:00,
+92,,,02/01/2019,02/01/2019 09:01:00,,00:30:00,sy,6,Cluster headache,,clusterhoofdpijn-14synl,09:01:00,
+93,,,02/01/2019,02/01/2019 01:50:00,,,sp,,To bed,,To-bed-33spen,01:50:00,
+94,,,26/12/2018,26/12/2018 01:14:00,,,sp,,To bed,,To-bed-33spen,01:14:00,
+95,,,25/12/2018,25/12/2018 02:01:00,,,sp,,To bed,,To-bed-33spen,02:01:00,
+96,,,24/12/2018,24/12/2018 01:19:00,,,sp,,To bed,,To-bed-33spen,01:19:00,
+97,,,23/12/2018,23/12/2018 01:50:00,,,sp,,To bed,,To-bed-33spen,01:50:00,
+98,,,21/12/2018,21/12/2018 04:30:00,,,sp,,To bed,,To-bed-33spen,04:30:00,
+99,,,20/12/2018,20/12/2018 01:49:00,,,sp,,To bed,,To-bed-33spen,01:49:00,
+100,,,19/12/2018,19/12/2018 01:05:00,,,sp,,To bed,,To-bed-33spen,01:05:00,
+101,,,18/12/2018,18/12/2018 01:24:00,,,sp,,To bed,,To-bed-33spen,01:24:00,
+102,,,17/12/2018,17/12/2018 06:30:00,,00:15:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,06:30:00,
+103,,,17/12/2018,17/12/2018 02:00:00,,,sp,,To bed,,To-bed-33spen,02:00:00,
+104,,,16/12/2018,16/12/2018 01:53:00,,,sp,,To bed,,To-bed-33spen,01:53:00,
+105,,,15/12/2018,15/12/2018 03:11:00,,00:20:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,03:11:00,
+106,,,15/12/2018,15/12/2018 01:30:00,,,sp,,To bed,,To-bed-33spen,01:30:00,
+107,,,14/12/2018,14/12/2018 02:09:00,,,sp,,To bed,,To-bed-33spen,02:09:00,
+108,,,13/12/2018,13/12/2018 01:26:00,,,sp,,To bed,,To-bed-33spen,01:26:00,
+109,,,12/12/2018,12/12/2018 01:53:00,,,sp,,To bed,,To-bed-33spen,01:53:00,
+110,,,11/12/2018,11/12/2018 14:01:00,,00:10:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,14:01:00,
+111,,,11/12/2018,11/12/2018 00:14:00,,,sp,,To bed,,To-bed-33spen,00:14:00,
+112,,,10/12/2018,10/12/2018 09:16:00,,00:20:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,09:16:00,
+113,,,10/12/2018,10/12/2018 01:23:00,,,sp,,To bed,,To-bed-33spen,01:23:00,
+114,,,09/12/2018,09/12/2018 03:01:00,,,sp,,To bed,,To-bed-33spen,03:01:00,
+115,,,08/12/2018,08/12/2018 00:55:00,,,sp,,To bed,,To-bed-33spen,00:55:00,
+116,,,07/12/2018,07/12/2018 01:14:00,,,sp,,To bed,,To-bed-33spen,01:14:00,
+117,,,02/12/2018,02/12/2018 00:15:00,,,sp,,To bed,,To-bed-33spen,00:15:00,
+118,,,01/12/2018,01/12/2018 01:49:00,,,sp,,To bed,,To-bed-33spen,01:49:00,
+119,,,26/11/2018,26/11/2018 02:45:00,,00:15:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,02:45:00,
+120,,,17/11/2018,17/11/2018 04:20:00,,00:21:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,04:20:00,
+121,,,16/11/2018,16/11/2018 04:16:00,,00:15:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,04:16:00,
+122,,,14/11/2018,14/11/2018 07:45:00,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,07:45:00,
+123,,,14/11/2018,14/11/2018 04:35:00,,00:30:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,04:35:00,
+124,,,16/10/2018,16/10/2018 21:51:00,,00:11:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,21:51:00,
+125,,,16/10/2018,16/10/2018 21:51:00,,,ma,,Magic mushrooms,900,magic-mushrooms-12manl,21:51:00,mg
+126,,,11/10/2018,11/10/2018 03:36:00,,,ma,,Oxygen,15,zuurstof-16manl,03:36:00,l/m
+127,,,11/10/2018,11/10/2018 03:36:00,,00:35:00,sy,6,Cluster headache,,clusterhoofdpijn-14synl,03:36:00,
+128,,,25/09/2018,25/09/2018 15:43:00,,,ma,,Oxygen,15,zuurstof-16manl,15:43:00,l/m
+129,,,24/09/2018,24/09/2018 20:32:00,,01:00:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,20:32:00,
+130,,,24/09/2018,24/09/2018 05:30:00,,00:30:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,05:30:00,
+131,,,21/09/2018,21/09/2018 20:49:00,,00:15:00,sy,3,Cluster headache,,clusterhoofdpijn-14syn,20:49:00,
+132,,,15/09/2018,15/09/2018 16:55:00,,00:25:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,16:55:00,
+133,,,15/09/2018,15/09/2018 08:34:00,,00:21:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,08:34:00,
+134,,,15/09/2018,15/09/2018 04:35:00,,00:40:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,04:35:00,
+135,,,14/09/2018,14/09/2018 08:25:00,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,08:25:00,
+136,,,11/09/2018,11/09/2018 08:35:00,,00:30:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,08:35:00,
+137,,,05/09/2018,05/09/2018 23:01:00,,00:35:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,23:01:00,
+138,,,25/08/2018,25/08/2018 00:13:00,,,ma,,Magic mushrooms,900,Magic mushrooms-12manl,00:13:00,mg
+139,,,24/08/2018,24/08/2018 17:31:00,,00:25:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,17:31:00,
+140,,,24/08/2018,24/08/2018 12:19:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:19:00,ml
+141,,,24/08/2018,24/08/2018 11:08:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:08:00,ml
+142,,,24/08/2018,24/08/2018 10:18:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:18:00,ml
+143,,,24/08/2018,24/08/2018 09:08:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:08:00,ml
+144,,,22/08/2018,22/08/2018 23:29:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,23:29:00,ml
+145,,,22/08/2018,22/08/2018 20:37:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,20:37:00,ml
+146,,,22/08/2018,22/08/2018 15:57:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:57:00,ml
+147,,,21/08/2018,21/08/2018 15:58:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:58:00,ml
+148,,,21/08/2018,21/08/2018 11:22:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:22:00,ml
+149,,,21/08/2018,21/08/2018 09:15:00,,00:13:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,09:15:00,
+150,,,21/08/2018,21/08/2018 07:45:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,07:45:00,ml
+151,,,20/08/2018,20/08/2018 13:42:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,13:42:00,ml
+152,,,20/08/2018,20/08/2018 08:46:00,,00:35:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,08:46:00,
+153,,,20/08/2018,20/08/2018 04:28:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,04:28:00,ml
+154,,,19/08/2018,19/08/2018 18:55:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,18:55:00,ml
+155,,,19/08/2018,19/08/2018 18:53:00,,00:45:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,18:53:00,
+156,,,19/08/2018,19/08/2018 16:31:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:31:00,ml
+157,,,19/08/2018,19/08/2018 12:04:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:04:00,ml
+158,,,19/08/2018,19/08/2018 09:06:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:06:00,ml
+159,,,19/08/2018,19/08/2018 06:24:00,,00:20:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,06:24:00,
+160,,,17/08/2018,17/08/2018 16:05:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:05:00,ml
+161,,,17/08/2018,17/08/2018 13:22:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,13:22:00,ml
+162,,,17/08/2018,17/08/2018 11:30:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:30:00,ml
+163,,,17/08/2018,17/08/2018 09:00:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:00:00,ml
+164,,,17/08/2018,17/08/2018 07:48:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,07:48:00,ml
+165,,,16/08/2018,16/08/2018 20:40:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,20:40:00,ml
+166,,,16/08/2018,16/08/2018 17:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,17:10:00,ml
+167,,,16/08/2018,16/08/2018 09:42:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:42:00,ml
+168,,,16/08/2018,16/08/2018 08:20:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:20:00,ml
+169,,,15/08/2018,15/08/2018 19:31:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,19:31:00,ml
+170,,,15/08/2018,15/08/2018 15:25:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:25:00,ml
+171,,,15/08/2018,15/08/2018 13:22:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,13:22:00,ml
+172,,,15/08/2018,15/08/2018 11:02:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:02:00,ml
+173,,,15/08/2018,15/08/2018 09:32:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:32:00,ml
+174,,,15/08/2018,15/08/2018 08:15:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:15:00,ml
+175,,,14/08/2018,14/08/2018 23:20:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,23:20:00,ml
+176,,,14/08/2018,14/08/2018 18:44:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,18:44:00,ml
+177,,,14/08/2018,14/08/2018 12:27:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:27:00,ml
+178,,,14/08/2018,14/08/2018 10:37:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:37:00,ml
+179,,,14/08/2018,14/08/2018 09:42:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:42:00,ml
+180,,,14/08/2018,14/08/2018 08:31:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:31:00,ml
+181,,,13/08/2018,13/08/2018 22:12:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,22:12:00,ml
+182,,,13/08/2018,13/08/2018 17:37:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,17:37:00,ml
+183,,,13/08/2018,13/08/2018 16:15:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:15:00,ml
+184,,,13/08/2018,13/08/2018 15:01:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:01:00,ml
+185,,,13/08/2018,13/08/2018 10:47:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:47:00,ml
+186,,,13/08/2018,13/08/2018 10:00:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:00:00,ml
+187,,,12/08/2018,12/08/2018 22:40:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,22:40:00,ml
+188,,,12/08/2018,12/08/2018 21:09:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,21:09:00,ml
+189,,,12/08/2018,12/08/2018 18:17:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,18:17:00,ml
+190,,,12/08/2018,12/08/2018 16:09:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:09:00,ml
+191,,,12/08/2018,12/08/2018 09:49:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:49:00,ml
+192,,,12/08/2018,12/08/2018 09:04:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:04:00,ml
+193,,,11/08/2018,11/08/2018 10:19:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:19:00,ml
+194,,,10/08/2018,10/08/2018 16:16:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:16:00,ml
+195,,,10/08/2018,10/08/2018 09:50:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:50:00,ml
+196,,,10/08/2018,10/08/2018 08:50:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:50:00,ml
+197,,,09/08/2018,09/08/2018 16:42:00,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,16:42:00,
+198,,,09/08/2018,09/08/2018 16:41:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:41:00,ml
+199,,,09/08/2018,09/08/2018 12:14:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:14:00,ml
+200,,,09/08/2018,09/08/2018 11:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:10:00,ml
+201,,,09/08/2018,09/08/2018 10:00:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:00:00,ml
+202,,,09/08/2018,09/08/2018 08:34:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:34:00,ml
+203,,,08/08/2018,08/08/2018 12:59:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:59:00,ml
+204,,,08/08/2018,08/08/2018 11:01:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:01:00,ml
+205,,,08/08/2018,08/08/2018 09:44:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:44:00,ml
+206,,,08/08/2018,08/08/2018 08:28:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:28:00,ml
+207,,,07/08/2018,07/08/2018 16:36:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:36:00,ml
+208,,,07/08/2018,07/08/2018 14:00:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:00:00,ml
+209,,,07/08/2018,07/08/2018 11:14:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:14:00,ml
+210,,,07/08/2018,07/08/2018 10:37:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:37:00,ml
+211,,,07/08/2018,07/08/2018 09:14:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:14:00,ml
+212,,,06/08/2018,06/08/2018 08:44:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:44:00,ml
+213,,,05/08/2018,05/08/2018 11:32:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:32:00,ml
+214,,,05/08/2018,05/08/2018 10:01:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:01:00,ml
+215,,,03/08/2018,03/08/2018 13:26:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,13:26:00,ml
+216,,,03/08/2018,03/08/2018 12:47:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:47:00,ml
+217,,,03/08/2018,03/08/2018 11:56:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:56:00,ml
+218,,,03/08/2018,03/08/2018 10:40:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:40:00,ml
+219,,,02/08/2018,02/08/2018 21:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,21:10:00,ml
+220,,,02/08/2018,02/08/2018 14:18:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:18:00,ml
+221,,,02/08/2018,02/08/2018 11:50:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:50:00,ml
+222,,,02/08/2018,02/08/2018 08:47:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:47:00,ml
+223,,,02/08/2018,02/08/2018 08:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:10:00,ml
+224,,,01/08/2018,01/08/2018 20:02:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,20:02:00,ml
+225,,,01/08/2018,01/08/2018 13:29:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,13:29:00,ml
+226,,,01/08/2018,01/08/2018 10:11:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:11:00,ml
+227,,,01/08/2018,01/08/2018 09:47:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:47:00,ml
+228,,,01/08/2018,01/08/2018 08:05:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:05:00,ml
+229,,,31/07/2018,31/07/2018 19:24:00,,02:00:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,19:24:00,
+230,,,31/07/2018,31/07/2018 18:41:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,18:41:00,ml
+231,,,31/07/2018,31/07/2018 17:34:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,17:34:00,ml
+232,,,31/07/2018,31/07/2018 14:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:10:00,ml
+233,,,31/07/2018,31/07/2018 14:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:10:00,ml
+234,,,31/07/2018,31/07/2018 14:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:10:00,ml
+235,,,30/07/2018,30/07/2018 16:16:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,16:16:00,ml
+236,,,30/07/2018,30/07/2018 10:04:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:04:00,ml
+237,,,30/07/2018,30/07/2018 09:31:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:31:00,ml
+238,,,29/07/2018,29/07/2018 21:43:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,21:43:00,ml
+239,,,29/07/2018,29/07/2018 19:43:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,19:43:00,ml
+240,,,29/07/2018,29/07/2018 14:31:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:31:00,ml
+241,,,29/07/2018,29/07/2018 10:51:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:51:00,ml
+242,,,29/07/2018,29/07/2018 08:50:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:50:00,ml
+243,,,29/07/2018,29/07/2018 08:23:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:23:00,ml
+244,,,29/07/2018,29/07/2018 00:29:00,,00:30:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,00:29:00,
+245,,,28/07/2018,28/07/2018 21:40:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,21:40:00,ml
+246,,,28/07/2018,28/07/2018 10:36:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:36:00,ml
+247,,,28/07/2018,28/07/2018 07:56:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,07:56:00,ml
+248,,,27/07/2018,27/07/2018 16:50:00,,01:00:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,16:50:00,
+249,,,27/07/2018,27/07/2018 15:12:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:12:00,ml
+250,,,27/07/2018,27/07/2018 14:30:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,14:30:00,ml
+251,,,27/07/2018,27/07/2018 10:07:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:07:00,ml
+252,,,27/07/2018,27/07/2018 08:30:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:30:00,ml
+253,,,26/07/2018,26/07/2018 22:05:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,22:05:00,ml
+254,,,26/07/2018,26/07/2018 20:03:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,20:03:00,ml
+255,,,26/07/2018,26/07/2018 15:20:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:20:00,ml
+256,,,26/07/2018,26/07/2018 12:32:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:32:00,ml
+257,,,26/07/2018,26/07/2018 12:10:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:10:00,ml
+258,,,26/07/2018,26/07/2018 09:09:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:09:00,ml
+259,,,26/07/2018,26/07/2018 08:34:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:34:00,ml
+260,,,25/07/2018,25/07/2018 15:48:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:48:00,ml
+261,,,25/07/2018,25/07/2018 11:18:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,11:18:00,ml
+262,,,25/07/2018,25/07/2018 10:30:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,10:30:00,ml
+263,,,25/07/2018,25/07/2018 09:09:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,09:09:00,ml
+264,,,25/07/2018,25/07/2018 08:14:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,08:14:00,ml
+265,,,24/07/2018,24/07/2018 20:59:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,20:59:00,ml
+266,,,24/07/2018,24/07/2018 15:58:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,15:58:00,ml
+267,,,24/07/2018,24/07/2018 12:15:00,,,fo,,Coffee with milk,200,koffie-melk-11fonl,12:15:00,ml
+268,,,15/07/2018,15/07/2018 18:06:00,,00:10:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,18:06:00,
+269,,,09/07/2018,09/07/2018 21:26:00,,,sy,3,tinnitus,,oorsuizen-60synl,21:26:00,
+270,,,03/07/2018,03/07/2018 19:35:00,,00:10:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,19:35:00,
+271,,,01/07/2018,01/07/2018 00:14:00,,01:00:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,00:14:00,
+272,,,23/06/2018,23/06/2018 23:30:00,,,ma,,Magic mushrooms,900,Magic mushrooms-12manl,23:30:00,mg
+273,,,23/06/2018,23/06/2018 20:27:00,,00:05:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,20:27:00,
+274,,,21/06/2018,21/06/2018 12:27:00,,00:02:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,12:27:00,
+275,,,20/06/2018,20/06/2018 17:03:00,,00:01:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,17:03:00,
+276,,,18/06/2018,18/06/2018 14:31:00,,00:03:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,14:31:00,
+277,,,17/06/2018,17/06/2018 22:52:00,,,sy,7,tinnitus,,oorsuizen-60synl,22:52:00,
+278,,,16/06/2018,16/06/2018 14:41:00,,00:02:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,14:41:00,
+279,,,14/06/2018,14/06/2018 15:56:00,,,sy,6,tinnitus,,oorsuizen-60synl,15:56:00,
+280,,,14/06/2018,14/06/2018 11:05:00,,00:02:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,11:05:00,
+281,,,13/06/2018,13/06/2018 14:43:00,,00:02:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,14:43:00,
+282,,,11/06/2018,11/06/2018 12:07:00,,00:02:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,12:07:00,
+283,,,01/06/2018,01/06/2018 06:01:00,,00:18:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,06:01:00,
+284,,,31/05/2018,31/05/2018 22:11:00,,,sy,5,tinnitus,,oorsuizen-60synl,22:11:00,
+285,,,24/05/2018,24/05/2018 23:17:00,,,sy,8,Heartburn,,maagzuur-28synl,23:17:00,
+286,,,17/05/2018,17/05/2018 03:00:00,,,sy,8,Heartburn,,maagzuur-28synl,03:00:00,
+287,,,17/05/2018,17/05/2018 03:00:00,,00:16:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,03:00:00,
+288,,,07/05/2018,07/05/2018 20:55:00,,,sy,3,Heartburn,,maagzuur-28synl,20:55:00,
+289,,,04/05/2018,04/05/2018 22:25:00,,,sy,5,tinnitus,,oorsuizen-60synl,22:25:00,
+290,,,04/05/2018,04/05/2018 22:00:00,,,sy,8,Heartburn,,maagzuur-28synl,22:00:00,
+291,,,04/05/2018,04/05/2018 16:11:00,,,sy,7,Heartburn,,maagzuur-28synl,16:11:00,
+292,,,04/05/2018,04/05/2018 14:03:00,,,sy,8,Heartburn,,maagzuur-28synl,14:03:00,
+293,,,30/04/2018,30/04/2018 01:09:00,,,sy,6,tinnitus,,oorsuizen-60synl,01:09:00,
+294,,,25/04/2018,25/04/2018 02:14:00,,00:20:00,sy,10,Cluster headache,,clusterhoofdpijn-14synl,02:14:00,
+295,,,24/04/2018,24/04/2018 11:36:00,,,sy,3,tinnitus,,oorsuizen-60synl,11:36:00,
+296,,,24/04/2018,24/04/2018 02:29:00,,00:24:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,02:29:00,
+297,,,22/04/2018,22/04/2018 00:41:00,,,sy,6,tinnitus,,oorsuizen-60synl,00:41:00,
+298,,,22/04/2018,22/04/2018 00:30:00,,,sy,6,Heartburn,,maagzuur-28synl,00:30:00,
+299,,,12/04/2018,12/04/2018 09:33:00,,00:23:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,09:33:00,
+300,,,04/04/2018,04/04/2018 16:23:00,,00:15:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,16:23:00,
+301,,,04/04/2018,04/04/2018 09:43:00,,00:15:00,sy,1,Cluster headache,,cluster-headache-14syen,09:43:00,
+302,,,23/03/2018,23/03/2018 09:36:00,,,sy,4,tinnitus,,oorsuizen-60synl,09:36:00,
+303,,,21/03/2018,21/03/2018 19:27:00,,,sy,6,tinnitus,,oorsuizen-60synl,19:27:00,
+304,,,21/03/2018,21/03/2018 14:06:00,,00:12:00,sy,5,Cluster headache,,cluster-headache-14syen,14:06:00,
+305,,,21/03/2018,21/03/2018 12:34:00,,00:08:00,sy,5,Cluster headache,,cluster-headache-14syen,12:34:00,
+306,,,09/03/2018,09/03/2018 00:36:00,,,sy,4,tinnitus,,oorsuizen-60synl,00:36:00,
+307,,,28/02/2018,28/02/2018 16:15:00,,00:05:00,sy,1,Cluster headache,,cluster-headache-14syen,16:15:00,
+308,,,27/02/2018,27/02/2018 21:15:00,,00:05:00,sy,1,Cluster headache,,cluster-headache-14syen,21:15:00,
+309,,,25/02/2018,25/02/2018 16:18:00,,00:25:00,sy,3,Cluster headache,,cluster-headache-14syen,16:18:00,
+310,,,22/02/2018,22/02/2018 20:31:00,,,sy,3,tinnitus,,oorsuizen-60synl,20:31:00,
+311,,,21/02/2018,21/02/2018 11:46:00,,01:05:00,sy,5,Cluster headache,,cluster-headache-14syen,11:46:00,
+312,,,20/02/2018,20/02/2018 22:45:00,,00:35:00,sy,7,Cluster headache,,cluster-headache-14syen,22:45:00,
+313,,,26/01/2018, 26/01/2018 01:08:00,,,sy,6,Neck pain,, nekpijn-39synl,01:08:00,
+314,,,24/01/2018, 24/01/2018 07:45:00,,,fo,,Beer,330,beer-1foen,07:45:00,ml
+315,,,23/01/2018, 23/01/2018 09:47:00,,,fo,,Beer,330,beer-1foen,09:47:00,ml
+316,,,23/01/2018, 23/01/2018 08:44:00,,,fo,,Beer,330,beer-1foen,08:44:00,ml
+317,,,23/01/2018, 23/01/2018 05:41:00,,,,, Vliegtuig,,,05:41:00,
+318,,,23/01/2018, 23/01/2018 05:41:00,,00:25:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,05:41:00,
+319,,,23/01/2018, 23/01/2018 05:40:00,,,sy,5,Neck pain,, nekpijn-39synl,05:40:00,
+320,,,23/01/2018, 23/01/2018 05:40:00,,,sy,6,Stuffy nose,, verstopte-neus-55synl,05:40:00,
+321,,,21/01/2018, 21/01/2018 11:18:00,,,sy,6,Tinnitus,, oorsuizen-60synl,11:18:00,
+322,,,20/01/2018, 20/01/2018 01:21:00,,,sy,5,Neck pain,, nekpijn-39synl,01:21:00,
+323,,,06/01/2018, 06/01/2018 22:52:00,,,ma,,Magic mushrooms,900,magic-mushrooms-12maen,22:52:00,mg
+324,,,06/01/2018, 06/01/2018 01:52:00,,00:25:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,01:52:00,
+325,,,02/01/2018, 02/01/2018 09:46:00,,,sy,3,Tinnitus,, oorsuizen-60synl,09:46:00,
+326,,,02/01/2018, 02/01/2018 12:40:00,,,sy,2,Stuffy nose,, verstopte-neus-55synl,12:40:00,
+327,,,02/01/2018, 02/01/2018 12:40:00,,00:16:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,12:40:00,
+328,,,28/12/2017, 28/12/2017 08:19:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:19:00,ml
+329,,,20/12/2017, 20/12/2017 11:15:00,,,sy,5,Stuffy nose,, verstopte-neus-55synl,11:15:00,
+330,,,20/12/2017, 20/12/2017 11:15:00,,,sy,5,Tinnitus,, oorsuizen-60synl,11:15:00,
+331,,,20/12/2017, 20/12/2017 08:04:00,,00:10:00,sy,1,Cluster headache,,clusterhoofdpijn-14synl,08:04:00,
+332,,,19/12/2017, 19/12/2017 04:40:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:40:00,ml
+333,,,19/12/2017, 19/12/2017 08:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:59:00,ml
+334,,,19/12/2017, 19/12/2017 07:54:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:54:00,ml
+335,,,15/12/2017, 15/12/2017 06:35:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,06:35:00,ml
+336,,,15/12/2017, 15/12/2017 09:58:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:58:00,ml
+337,,,15/12/2017, 15/12/2017 09:23:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:23:00,ml
+338,,,15/12/2017, 15/12/2017 09:22:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:22:00,ml
+339,,,15/12/2017, 15/12/2017 08:44:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:44:00,ml
+340,,,14/12/2017, 14/12/2017 05:34:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,05:34:00,ml
+341,,,14/12/2017, 14/12/2017 01:04:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:04:00,ml
+342,,,14/12/2017, 14/12/2017 11:06:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:06:00,ml
+343,,,14/12/2017, 14/12/2017 10:03:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:03:00,ml
+344,,,14/12/2017, 14/12/2017 08:52:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:52:00,ml
+345,,,13/12/2017, 13/12/2017 23:19:00,,,ma,,Magic mushrooms,900,magic-mushrooms-12maen,23:19:00,mg
+346,,,13/12/2017, 13/12/2017 09:39:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:39:00,ml
+347,,,13/12/2017, 13/12/2017 06:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,06:02:00,ml
+348,,,13/12/2017, 13/12/2017 03:26:00,,,fo,,Thea,500,thee-17fonl,03:26:00,ml
+349,,,13/12/2017, 13/12/2017 11:39:00,,,fo,,Thea,500,thee-17fonl,11:39:00,ml
+350,,,13/12/2017, 13/12/2017 08:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:29:00,ml
+351,,,13/12/2017, 13/12/2017 05:28:00,,,me,,Oxygen,15,oxygen-101meen,05:28:00,l/m
+352,,,12/12/2017, 12/12/2017 03:20:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:20:00,ml
+353,,,12/12/2017, 12/12/2017 11:47:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:47:00,ml
+354,,,12/12/2017, 12/12/2017 10:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:29:00,ml
+355,,,12/12/2017, 12/12/2017 08:15:00,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,08:15:00,
+356,,,12/12/2017, 12/12/2017 08:15:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:15:00,ml
+357,,,12/12/2017, 12/12/2017 05:33:00,,00:15:00,sy,2,Cluster headache,,clusterhoofdpijn-14synl,05:33:00,
+358,,,11/12/2017, 11/12/2017 10:50:00,,,fo,,Thea,500,thee-17fonl,10:50:00,ml
+359,,,11/12/2017, 11/12/2017 03:01:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:01:00,ml
+360,,,11/12/2017, 11/12/2017 01:39:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:39:00,ml
+361,,,11/12/2017, 11/12/2017 11:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:02:00,ml
+362,,,11/12/2017, 11/12/2017 09:18:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:18:00,ml
+363,,,11/12/2017, 11/12/2017 08:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:02:00,ml
+364,,,11/12/2017, 11/12/2017 03:36:00,,00:19:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,03:36:00,
+365,,,11/12/2017, 11/12/2017 03:36:00,,,me,,Oxygen,15,oxygen-101meen,03:36:00,l/m
+366,,,11/12/2017, 11/12/2017 02:25:00,,,me,,Oxygen,15,oxygen-101meen,02:25:00,l/m
+367,,,11/12/2017, 11/12/2017 02:25:00,,00:23:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,02:25:00,
+368,,,10/12/2017, 10/12/2017 01:18:00,,,fo,,Thea,500,thee-17fonl,01:18:00,ml
+369,,,10/12/2017, 10/12/2017 10:48:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:48:00,ml
+370,,,10/12/2017, 10/12/2017 09:35:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:35:00,ml
+371,,,10/12/2017, 10/12/2017 08:19:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:19:00,ml
+372,,,09/12/2017, 09/12/2017 07:52:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:52:00,ml
+373,,,09/12/2017, 09/12/2017 06:18:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,06:18:00,ml
+374,,,09/12/2017, 09/12/2017 05:11:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,05:11:00,ml
+375,,,09/12/2017, 09/12/2017 11:25:00,,,fo,,Thea,500,thee-17fonl,11:25:00,ml
+376,,,09/12/2017, 09/12/2017 10:10:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:10:00,ml
+377,,,09/12/2017, 09/12/2017 09:22:00,,,me,,Oxygen,15,oxygen-101meen,09:22:00,l/m
+378,,,09/12/2017, 09/12/2017 09:22:00,,00:10:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,09:22:00,
+379,,,09/12/2017, 09/12/2017 09:15:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:15:00,ml
+380,,,09/12/2017, 09/12/2017 09:14:00,,,me,,Oxygen,15,oxygen-101meen,09:14:00,l/m
+381,,,09/12/2017, 09/12/2017 08:45:00,,00:10:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,08:45:00,
+382,,,09/12/2017, 09/12/2017 08:45:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:45:00,ml
+383,,,09/12/2017, 09/12/2017 08:45:00,,,me,,Oxygen,15,oxygen-101meen,08:45:00,l/m
+384,,,09/12/2017, 09/12/2017 07:25:00,,,me,,Oxygen,15,oxygen-101meen,07:25:00,l/m
+385,,,09/12/2017, 09/12/2017 07:25:00,,00:21:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,07:25:00,
+386,,,09/12/2017, 09/12/2017 06:09:00,,00:20:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,06:09:00,
+387,,,09/12/2017, 09/12/2017 06:09:00,,,me,,Oxygen,15,oxygen-101meen,06:09:00,l/m
+388,,,09/12/2017, 09/12/2017 04:50:00,,00:25:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,04:50:00,
+389,,,09/12/2017, 09/12/2017 04:50:00,,,me,,Oxygen,15,oxygen-101meen,04:50:00,l/m
+390,,,08/12/2017, 08/12/2017 23:31:00,,,ma,,Magic mushrooms,900,magic-mushrooms-12maen,23:31:00,mg
+391,,,08/12/2017, 08/12/2017 10:55:00,,,me,,Oxygen,15,oxygen-101meen,10:55:00,l/m
+392,,,08/12/2017, 08/12/2017 10:55:00,,00:11:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,10:55:00,
+393,,,08/12/2017, 08/12/2017 10:36:00,,00:02:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,10:36:00,
+394,,,08/12/2017, 08/12/2017 10:36:00,,,me,,Oxygen,15,oxygen-101meen,10:36:00,l/m
+395,,,08/12/2017, 08/12/2017 09:29:00,,,fo,,Thea,500,thee-17fonl,09:29:00,ml
+396,,,08/12/2017, 08/12/2017 11:18:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:18:00,ml
+397,,,08/12/2017, 08/12/2017 10:08:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:08:00,ml
+398,,,08/12/2017, 08/12/2017 08:45:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:45:00,ml
+399,,,08/12/2017, 08/12/2017 05:20:00,,,me,,Oxygen,15,oxygen-101meen,05:20:00,l/m
+400,,,08/12/2017, 08/12/2017 05:19:00,,00:25:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,05:19:00,
+401,,,07/12/2017, 07/12/2017 10:07:00,,,me,,Oxygen,12,oxygen-101meen,10:07:00,l/m
+402,,,07/12/2017, 07/12/2017 22:07:00,,,ma,,Magic mushrooms,900,magic-mushrooms-12maen,22:07:00,mg
+403,,,07/12/2017, 07/12/2017 09:00:00,,00:20:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,09:00:00,
+404,,,07/12/2017, 07/12/2017 08:33:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:33:00,ml
+405,,,07/12/2017, 07/12/2017 05:06:00,,,me,,Oxygen,12,oxygen-101meen,05:06:00,l/m
+406,,,07/12/2017, 07/12/2017 02:56:00,,,me,,Oxygen,12,oxygen-101meen,02:56:00,l/m
+407,,,07/12/2017, 07/12/2017 02:56:00,,00:15:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,02:56:00,
+408,,,07/12/2017, 07/12/2017 02:36:00,,00:28:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,02:36:00,
+409,,,07/12/2017, 07/12/2017 02:35:00,,,me,,Oxygen,12,oxygen-101meen,02:35:00,l/m
+410,,,07/12/2017, 07/12/2017 02:19:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:19:00,ml
+411,,,07/12/2017, 07/12/2017 12:24:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:24:00,ml
+412,,,07/12/2017, 07/12/2017 10:15:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:15:00,ml
+413,,,07/12/2017, 07/12/2017 08:17:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:17:00,ml
+414,,,07/12/2017, 07/12/2017 04:10:00,,,me,,Oxygen,12,oxygen-101meen,04:10:00,l/m
+415,,,07/12/2017, 07/12/2017 04:10:00,,00:20:00,sy,7,Cluster headache,,clusterhoofdpijn-14synl,04:10:00,
+416,,,06/12/2017, 06/12/2017 22:26:00,,,ma,,Magic mushrooms,900,magic-mushrooms-12maen,22:26:00,mg
+417,,,06/12/2017, 06/12/2017 07:24:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:24:00,ml
+418,,,06/12/2017, 06/12/2017 05:41:00,,,sy,3,Tinnitus,, oorsuizen-60synl,05:41:00,
+419,,,06/12/2017, 06/12/2017 05:41:00,,,sy,5,Stuffy nose,, verstopte-neus-55synl,05:41:00,
+420,,,06/12/2017, 06/12/2017 05:41:00,,,sy,4,Neck pain,, nekpijn-39synl,05:41:00,
+421,,,06/12/2017, 06/12/2017 01:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:59:00,ml
+422,,,06/12/2017, 06/12/2017 10:43:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:43:00,ml
+423,,,06/12/2017, 06/12/2017 09:23:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:23:00,ml
+424,,,06/12/2017, 06/12/2017 08:31:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:31:00,ml
+425,,,06/12/2017, 06/12/2017 07:18:00,,00:15:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,07:18:00,
+426,,,06/12/2017, 06/12/2017 05:50:00,,00:10:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,05:50:00,
+427,,,06/12/2017, 06/12/2017 05:21:00,,,me,,Oxygen,12,oxygen-101meen,05:21:00,l/m
+428,,,06/12/2017, 06/12/2017 05:19:00,,00:31:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,05:19:00,
+429,,,06/12/2017, 06/12/2017 03:13:00,,00:20:00,sy,4,Cluster headache,,clusterhoofdpijn-14synl,03:13:00,
+430,,,06/12/2017, 06/12/2017 03:13:00,,,me,,Oxygen,12,oxygen-101meen,03:13:00,l/m
+431,,,06/12/2017, 06/12/2017 12:05:00,,,fo,, Water,500,water-22foen,12:05:00,ml
+432,,,06/12/2017, 06/12/2017 12:05:00,,,sy,2,Stuffy nose,, verstopte-neus-55synl,12:05:00,
+433,,,06/12/2017, 06/12/2017 12:05:00,,,sy,3,Neck pain,, nekpijn-39synl,12:05:00,
+434,,,06/12/2017, 06/12/2017 12:05:00,,,sy,4,Tinnitus,, oorsuizen-60synl,12:05:00,
+435,,,05/12/2017, 05/12/2017 08:46:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:46:00,ml
+436,,,05/12/2017, 05/12/2017 03:58:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:58:00,ml
+437,,,05/12/2017, 05/12/2017 02:00:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:00:00,ml
+438,,,05/12/2017, 05/12/2017 01:08:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:08:00,ml
+439,,,05/12/2017, 05/12/2017 08:57:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:57:00,ml
+440,,,05/12/2017, 05/12/2017 08:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:02:00,ml
+441,,,05/12/2017, 05/12/2017 12:20:00,,,me,,Oxygen,12,oxygen-101meen,12:20:00,l/m
+442,,,05/12/2017, 05/12/2017 12:08:00,,00:15:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,12:08:00,
+443,,,05/12/2017, 05/12/2017 12:07:00,,,me,,Oxygen,12,oxygen-101meen,12:07:00,l/m
+444,,,04/12/2017, 04/12/2017 11:40:00,,,fo,, Water,500,water-22foen,11:40:00,ml
+445,,,04/12/2017, 04/12/2017 11:24:00,,,sy,5,Tinnitus,, oorsuizen-60synl,11:24:00,
+446,,,04/12/2017, 04/12/2017 11:23:00,,,sy,4,Stuffy nose,, verstopte-neus-55synl,11:23:00,
+447,,,04/12/2017, 04/12/2017 11:23:00,,,sy,4,Neck pain,, nekpijn-39synl,11:23:00,
+448,,,04/12/2017, 04/12/2017 02:20:00,,,sy,5,Stuffy nose,, verstopte-neus-55synl,02:20:00,
+449,,,04/12/2017, 04/12/2017 12:30:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:30:00,ml
+450,,,04/12/2017, 04/12/2017 09:55:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:55:00,ml
+451,,,04/12/2017, 04/12/2017 08:32:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:32:00,ml
+452,,,04/12/2017, 04/12/2017 06:13:00,,,me,,Oxygen,15,oxygen-101meen,06:13:00,l/m
+453,,,04/12/2017, 04/12/2017 06:04:00,,,sy,7,Stuffy nose,, verstopte-neus-55synl,06:04:00,
+454,,,04/12/2017, 04/12/2017 05:58:00,,00:20:00,sy,3,Cluster headache,,clusterhoofdpijn-14synl,05:58:00,
+455,,,04/12/2017, 04/12/2017 12:45:00,,,me,,Oxygen,15,oxygen-101meen,12:45:00,l/m
+456,,,03/12/2017, 03/12/2017 10:05:00,,,me,,Oxygen,15,oxygen-101meen,10:05:00,l/m
+457,,,03/12/2017, 03/12/2017 10:05:00,,,sy,10,Stuffy nose,, verstopte-neus-55synl,10:05:00,
+458,,,02/12/2017, 02/12/2017 09:24:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:24:00,ml
+459,,,02/12/2017, 02/12/2017 09:00:00,,,sy,3,Tinnitus,, oorsuizen-60synl,09:00:00,
+460,,,02/12/2017, 02/12/2017 09:00:00,,,sy,1,Neck pain,, nekpijn-39synl,09:00:00,
+461,,,02/12/2017, 02/12/2017 06:56:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,06:56:00,ml
+462,,,02/12/2017, 02/12/2017 02:18:00,,,sy,8,Stuffy nose,, verstopte-neus-55synl,02:18:00,
+463,,,02/12/2017, 02/12/2017 02:17:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:17:00,ml
+464,,,02/12/2017, 02/12/2017 12:14:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:14:00,ml
+465,,,02/12/2017, 02/12/2017 10:35:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:35:00,ml
+466,,,02/12/2017, 02/12/2017 08:35:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:35:00,ml
+467,,,01/12/2017, 01/12/2017 09:00:00,,,sy,2,Tinnitus,, oorsuizen-60synl,09:00:00,
+468,,,01/12/2017, 01/12/2017 02:22:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:22:00,ml
+469,,,01/12/2017, 01/12/2017 01:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:59:00,ml
+470,,,01/12/2017, 01/12/2017 01:59:00,,,sy,6,Stuffy nose,, verstopte-neus-55synl,01:59:00,
+471,,,01/12/2017, 01/12/2017 08:13:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:13:00,ml
+472,,,01/12/2017, 01/12/2017 08:05:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:05:00,ml
+473,,,30/11/2017, 30/11/2017 09:00:00,,,sy,3,Tinnitus,, oorsuizen-60synl,09:00:00,
+474,,,30/11/2017, 30/11/2017 09:00:00,,,sy,,Neck pain,, nekpijn-39synl,09:00:00,
+475,,,30/11/2017, 30/11/2017 03:02:00,,,fo,,Thea,300,thee-17fonl,03:02:00,ml
+476,,,30/11/2017, 30/11/2017 09:05:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:05:00,ml
+477,,,29/11/2017, 29/11/2017 10:16:00,,00:16:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,10:16:00,
+478,,,29/11/2017, 29/11/2017 04:27:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:27:00,ml
+479,,,29/11/2017, 29/11/2017 03:16:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:16:00,ml
+480,,,29/11/2017, 29/11/2017 01:42:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:42:00,ml
+481,,,29/11/2017, 29/11/2017 10:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:59:00,ml
+482,,,29/11/2017, 29/11/2017 08:40:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:40:00,ml
+483,,,28/11/2017, 28/11/2017 07:57:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:57:00,ml
+484,,,28/11/2017, 28/11/2017 06:11:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,06:11:00,ml
+485,,,28/11/2017, 28/11/2017 02:31:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:31:00,ml
+486,,,28/11/2017, 28/11/2017 10:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:29:00,ml
+487,,,28/11/2017, 28/11/2017 09:07:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:07:00,ml
+488,,,28/11/2017, 28/11/2017 08:19:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:19:00,ml
+489,,,27/11/2017, 27/11/2017 02:24:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:24:00,ml
+490,,,27/11/2017, 27/11/2017 12:15:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:15:00,ml
+491,,,27/11/2017, 27/11/2017 10:34:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:34:00,ml
+492,,,27/11/2017, 27/11/2017 09:55:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:55:00,ml
+493,,,27/11/2017, 27/11/2017 08:30:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:30:00,ml
+494,,,26/11/2017, 26/11/2017 10:01:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:01:00,ml
+495,,,26/11/2017, 26/11/2017 09:13:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:13:00,ml
+496,,,25/11/2017, 25/11/2017 03:46:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:46:00,ml
+497,,,25/11/2017, 25/11/2017 11:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:02:00,ml
+498,,,25/11/2017, 25/11/2017 10:01:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:01:00,ml
+499,,,25/11/2017, 25/11/2017 08:33:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:33:00,ml
+500,,,24/11/2017, 24/11/2017 10:18:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:18:00,ml
+501,,,24/11/2017, 24/11/2017 03:47:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:47:00,ml
+502,,,24/11/2017, 24/11/2017 10:40:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:40:00,ml
+503,,,24/11/2017, 24/11/2017 09:18:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:18:00,ml
+504,,,24/11/2017, 24/11/2017 08:26:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:26:00,ml
+505,,,23/11/2017, 23/11/2017 04:44:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:44:00,ml
+506,,,23/11/2017, 23/11/2017 03:07:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:07:00,ml
+507,,,23/11/2017, 23/11/2017 09:19:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:19:00,ml
+508,,,22/11/2017, 22/11/2017 10:13:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:13:00,ml
+509,,,22/11/2017, 22/11/2017 04:38:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:38:00,ml
+510,,,22/11/2017, 22/11/2017 01:47:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:47:00,ml
+511,,,22/11/2017, 22/11/2017 11:50:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:50:00,ml
+512,,,22/11/2017, 22/11/2017 09:51:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:51:00,ml
+513,,,22/11/2017, 22/11/2017 09:00:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:00:00,ml
+514,,,22/11/2017, 22/11/2017 08:14:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:14:00,ml
+515,,,21/11/2017, 21/11/2017 03:44:00,,,fo,,Thea,300,thee-17fonl,03:44:00,ml
+516,,,21/11/2017, 21/11/2017 12:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:59:00,ml
+517,,,21/11/2017, 21/11/2017 11:52:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:52:00,ml
+518,,,21/11/2017, 21/11/2017 10:32:00,,,sy,4,Tinnitus,, oorsuizen-60synl,10:32:00,
+519,,,21/11/2017, 21/11/2017 10:32:00,,,sy,,Neck pain,, nekpijn-39synl,10:32:00,
+520,,,21/11/2017, 21/11/2017 10:32:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:32:00,ml
+521,,,21/11/2017, 21/11/2017 09:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:29:00,ml
+522,,,21/11/2017, 21/11/2017 08:08:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:08:00,ml
+523,,,20/11/2017, 20/11/2017 02:17:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:17:00,ml
+524,,,20/11/2017, 20/11/2017 12:40:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:40:00,ml
+525,,,20/11/2017, 20/11/2017 11:27:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:27:00,ml
+526,,,20/11/2017, 20/11/2017 10:09:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:09:00,ml
+527,,,20/11/2017, 20/11/2017 09:01:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:01:00,ml
+528,,,20/11/2017, 20/11/2017 08:10:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:10:00,ml
+529,,,19/11/2017, 19/11/2017 02:16:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:16:00,ml
+530,,,19/11/2017, 19/11/2017 11:01:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:01:00,ml
+531,,,19/11/2017, 19/11/2017 10:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:02:00,ml
+532,,,19/11/2017, 19/11/2017 09:02:00,,,sy,4,Neck pain,, nekpijn-39synl,09:02:00,
+533,,,19/11/2017, 19/11/2017 08:08:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:08:00,ml
+534,,,18/11/2017, 18/11/2017 07:52:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:52:00,ml
+535,,,18/11/2017, 18/11/2017 07:51:00,,,fo,,Beer,330,beer-1foen,07:51:00,ml
+536,,,18/11/2017, 18/11/2017 04:33:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:33:00,ml
+537,,,18/11/2017, 18/11/2017 11:09:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:09:00,ml
+538,,,18/11/2017, 18/11/2017 10:13:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:13:00,ml
+539,,,17/11/2017, 17/11/2017 08:21:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:21:00,ml
+540,,,17/11/2017, 17/11/2017 03:44:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:44:00,ml
+541,,,17/11/2017, 17/11/2017 12:09:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:09:00,ml
+542,,,17/11/2017, 17/11/2017 10:39:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:39:00,ml
+543,,,17/11/2017, 17/11/2017 09:12:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:12:00,ml
+544,,,17/11/2017, 17/11/2017 08:09:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:09:00,ml
+545,,,16/11/2017, 16/11/2017 03:47:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:47:00,ml
+546,,,16/11/2017, 16/11/2017 03:06:00,,,sy,3,Tinnitus,, oorsuizen-60synl,03:06:00,
+547,,,16/11/2017, 16/11/2017 02:37:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:37:00,ml
+548,,,15/11/2017, 15/11/2017 02:21:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:21:00,ml
+549,,,15/11/2017, 15/11/2017 11:49:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:49:00,ml
+550,,,15/11/2017, 15/11/2017 09:40:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:40:00,ml
+551,,,15/11/2017, 15/11/2017 08:17:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:17:00,ml
+552,,,14/11/2017, 14/11/2017 08:33:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:33:00,ml
+553,,,14/11/2017, 14/11/2017 04:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:29:00,ml
+554,,,14/11/2017, 14/11/2017 03:28:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:28:00,ml
+555,,,14/11/2017, 14/11/2017 03:06:00,,,sy,4,Tinnitus,, oorsuizen-60synl,03:06:00,
+556,,,14/11/2017, 14/11/2017 01:53:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:53:00,ml
+557,,,14/11/2017, 14/11/2017 11:06:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:06:00,ml
+558,,,14/11/2017, 14/11/2017 09:30:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:30:00,ml
+559,,,14/11/2017, 14/11/2017 08:48:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:48:00,ml
+560,,,13/11/2017, 13/11/2017 10:57:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:57:00,ml
+561,,,13/11/2017, 13/11/2017 08:30:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:30:00,ml
+562,,,13/11/2017, 13/11/2017 07:11:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:11:00,ml
+563,,,13/11/2017, 13/11/2017 04:27:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:27:00,ml
+564,,,13/11/2017, 13/11/2017 02:15:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:15:00,ml
+565,,,13/11/2017, 13/11/2017 12:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:29:00,ml
+566,,,13/11/2017, 13/11/2017 11:08:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,11:08:00,ml
+567,,,13/11/2017, 13/11/2017 09:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:02:00,ml
+568,,,13/11/2017, 13/11/2017 08:27:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:27:00,ml
+569,,,12/11/2017, 12/11/2017 08:15:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:15:00,ml
+570,,,12/11/2017, 12/11/2017 07:23:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:23:00,ml
+571,,,12/11/2017, 12/11/2017 03:50:00,,,fo,,Thea,300,thee-17fonl,03:50:00,ml
+572,,,12/11/2017, 12/11/2017 02:13:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:13:00,ml
+573,,,12/11/2017, 12/11/2017 12:37:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:37:00,ml
+574,,,12/11/2017, 12/11/2017 09:19:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:19:00,ml
+575,,,12/11/2017, 12/11/2017 02:17:00,,,me,,Oxygen,15,oxygen-101meen,02:17:00,l/m
+576,,,12/11/2017, 12/11/2017 02:16:00,,00:35:00,sy,5,Cluster headache,,clusterhoofdpijn-14synl,02:16:00,
+577,,,10/11/2017, 10/11/2017 07:48:00,,,fo,, White wine,200,wine-white-23foen,07:48:00,ml
+578,,,10/11/2017, 10/11/2017 12:38:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:38:00,ml
+579,,,10/11/2017, 10/11/2017 09:49:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:49:00,ml
+580,,,10/11/2017, 10/11/2017 09:24:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:24:00,ml
+581,,,10/11/2017, 10/11/2017 08:27:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:27:00,ml
+582,,,09/11/2017, 09/11/2017 10:02:00,,,sy,4,Tinnitus,, oorsuizen-60synl,10:02:00,
+583,,,09/11/2017, 09/11/2017 07:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:29:00,ml
+584,,,08/11/2017, 08/11/2017 10:02:00,,,sy,3,Tinnitus,, oorsuizen-60synl,10:02:00,
+585,,,08/11/2017, 08/11/2017 09:31:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:31:00,ml
+586,,,08/11/2017, 08/11/2017 04:36:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:36:00,ml
+587,,,08/11/2017, 08/11/2017 01:58:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:58:00,ml
+588,,,08/11/2017, 08/11/2017 12:07:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:07:00,ml
+589,,,08/11/2017, 08/11/2017 09:04:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:04:00,ml
+590,,,08/11/2017, 08/11/2017 07:51:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:51:00,ml
+591,,,07/11/2017, 07/11/2017 10:02:00,,,sy,3,Tinnitus,, oorsuizen-60synl,10:02:00,
+592,,,07/11/2017, 07/11/2017 04:55:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,04:55:00,ml
+593,,,07/11/2017, 07/11/2017 03:50:00,,,sy,4,Tinnitus,, oorsuizen-60synl,03:50:00,
+594,,,07/11/2017, 07/11/2017 03:49:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:49:00,ml
+595,,,07/11/2017, 07/11/2017 01:49:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,01:49:00,ml
+596,,,07/11/2017, 07/11/2017 10:32:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:32:00,ml
+597,,,07/11/2017, 07/11/2017 09:05:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:05:00,ml
+598,,,07/11/2017, 07/11/2017 08:02:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,08:02:00,ml
+599,,,04/11/2017, 04/11/2017 10:21:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:21:00,ml
+600,,,04/11/2017, 04/11/2017 10:20:00,,,fo,,Beer,330,beer-1foen,10:20:00,ml
+601,,,04/11/2017, 04/11/2017 10:20:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,10:20:00,ml
+602,,,04/11/2017, 04/11/2017 07:52:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:52:00,ml
+603,,,04/11/2017, 04/11/2017 01:02:00,,,fo,,Beer,330,beer-1foen,01:02:00,ml
+604,,,04/11/2017, 04/11/2017 01:02:00,,,fo,,Beer,330,beer-1foen,01:02:00,ml
+605,,,03/11/2017, 03/11/2017 03:10:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:10:00,ml
+606,,,03/11/2017, 03/11/2017 12:29:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,12:29:00,ml
+607,,,03/11/2017, 03/11/2017 09:30:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,09:30:00,ml
+608,,,03/11/2017, 03/11/2017 07:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,07:59:00,ml
+609,,,02/11/2017, 02/11/2017 03:59:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,03:59:00,ml
+610,,,02/11/2017, 02/11/2017 02:18:00,,,fo,,Coffee with milk,300,koffie-melk-11fonl,02:18:00,ml
+611,,,09/08/2018,09/08/2018 05:28:00,,,me,,Oxygen,15,oxygen-101meen,05:28:00,l/m

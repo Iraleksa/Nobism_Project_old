@@ -1,0 +1,894 @@
+,Blood pressure (high),Blood pressure (low),Date,Date/Time,Description,Duration,Group,Id,Intensity,Last Modified,Name,Quantity,Tag,Time,Type,Unit
+0,,,08/05/2019 ,08/05/2019 19:14:18, ,03:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:14:18 ,, 
+1,,,08/05/2019 ,08/05/2019 19:14:02, , ,me,, ,,tramadol,50,tramadol-95menl,19:14:02 ,,mg
+2,,,08/05/2019 ,08/05/2019 19:14:01, , ,me,, ,,paracetamol,500,paracetamol-42menl,19:14:01 ,,mg
+3,,,08/05/2019 ,08/05/2019 08:21:45, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:21:45 ,,mg
+4,,,07/05/2019 ,07/05/2019 08:15:48, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:15:48 ,,mg
+5,,,06/05/2019 ,06/05/2019 08:30:45, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:30:45 ,,mg
+6,,,05/05/2019 ,05/05/2019 21:16:42, ,01:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:16:42 ,, 
+7,,,05/05/2019 ,05/05/2019 21:16:30, , ,me,, ,,paracetamol,500,paracetamol-42menl,21:16:30 ,,mg
+8,,,05/05/2019 ,05/05/2019 21:16:30, , ,me,, ,,tramadol,50,tramadol-95menl,21:16:30 ,,mg
+9,,,05/05/2019 ,05/05/2019 14:23:51, ,03:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:23:51 ,, 
+10,,,05/05/2019 ,05/05/2019 14:23:28, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,14:23:28 ,,mg
+11,,,05/05/2019 ,05/05/2019 08:45:13, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:45:13 ,,mg
+12,,,04/05/2019 ,04/05/2019 10:00:37, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,10:00:37 ,,mg
+13,,,03/05/2019 ,03/05/2019 16:00:13, ,05:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:00:13 ,, 
+14,,,03/05/2019 ,03/05/2019 08:29:33, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:29:33 ,,mg
+15,,,02/05/2019 ,02/05/2019 15:47:32, ,05:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:47:32 ,, 
+16,,,02/05/2019 ,02/05/2019 15:46:45, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,15:46:45 ,,mg
+17,,,02/05/2019 ,02/05/2019 08:27:56, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:27:56 ,,mg
+18,,,01/05/2019 ,01/05/2019 08:09:52, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:09:52 ,,mg
+19,,,30/04/2019 ,30/04/2019 16:24:04, ,01:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:24:04 ,, 
+20,,,30/04/2019 ,30/04/2019 16:23:48, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,16:23:48 ,,mg
+21,,,30/04/2019 ,30/04/2019 08:00:39, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:39 ,,mg
+22,,,29/04/2019 ,29/04/2019 07:35:34, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,07:35:34 ,,mg
+23,,,28/04/2019 ,28/04/2019 22:37:16, ,00:30:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:37:16 ,, 
+24,,,28/04/2019 ,28/04/2019 22:36:59, ,07:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:36:59 ,, 
+25,,,28/04/2019 ,28/04/2019 22:36:07, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,22:36:07 ,,mg
+26,,,28/04/2019 ,28/04/2019 08:46:35, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,08:46:35 ,,mg
+27,,,27/04/2019 ,27/04/2019 16:00:21, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,16:00:21 ,,mg
+28,,,27/04/2019 ,27/04/2019 15:52:23, ,00:30:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:52:23 ,, 
+29,,,27/04/2019 ,27/04/2019 15:37:53, ,02:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:37:53 ,, 
+30,,,27/04/2019 ,27/04/2019 11:52:25, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,11:52:25 ,,mg
+31,,,26/04/2019 ,26/04/2019 19:14:47, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,19:14:47 ,,mg
+32,,,26/04/2019 ,26/04/2019 19:14:45, ,02:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:14:45 ,, 
+33,,,26/04/2019 ,26/04/2019 08:00:22, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,08:00:22 ,,mg
+34,,,25/04/2019 ,25/04/2019 08:25:15, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,08:25:15 ,,mg
+35,,,24/04/2019 ,24/04/2019 13:26:40, ,02:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:26:40 ,, 
+36,,,24/04/2019 ,24/04/2019 08:05:33, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,08:05:33 ,,mg
+37,,,23/04/2019 ,23/04/2019 16:00:53, ,01:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:00:53 ,, 
+38,,,23/04/2019 ,23/04/2019 15:00:45, ,01:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:00:45 ,, 
+39,,,23/04/2019 ,23/04/2019 08:20:23, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,08:20:23 ,,mg
+40,,,22/04/2019 ,22/04/2019 16:25:14, ,02:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:25:14 ,, 
+41,,,22/04/2019 ,22/04/2019 10:36:37, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,10:36:37 ,,mg
+42,,,21/04/2019 ,21/04/2019 17:02:10, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,17:02:10 ,,mg
+43,,,21/04/2019 ,21/04/2019 17:00:20, ,02:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:00:20 ,, 
+44,,,21/04/2019 ,21/04/2019 11:13:46, , ,ma,, ,,magic-mushrooms,200,magic-mushrooms-12manl,11:13:46 ,,mg
+45,,,20/04/2019 ,20/04/2019 23:04:35, ,04:00:00,sy,,5,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:04:35 ,, 
+46,,,20/04/2019 ,20/04/2019 23:04:11, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,23:04:11 ,,mg
+47,,,20/04/2019 ,20/04/2019 22:40:15, , ,me,, ,,tramadol,50,tramadol-95menl,22:40:15 ,,mg
+48,,,20/04/2019 ,20/04/2019 22:40:14, , ,me,, ,,paracetamol,500,paracetamol-42menl,22:40:14 ,,mg
+49,,,20/04/2019 ,20/04/2019 22:30:43, , ,me,, ,,zuurstof,12,zuurstof-101menl,22:30:43 ,,l/m
+50,,,20/04/2019 ,20/04/2019 22:00:39, , ,me,, ,,zuurstof,12,zuurstof-101menl,22:00:39 ,,l/m
+51,,,20/04/2019 ,20/04/2019 00:26:28, , ,me,, ,,paracetamol,500,paracetamol-42menl,00:26:28 ,,mg
+52,,,20/04/2019 ,20/04/2019 00:26:27, , ,me,, ,,tramadol,50,tramadol-95menl,00:26:27 ,,mg
+53,,,20/04/2019 ,20/04/2019 00:26:20, ,03:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:26:20 ,, 
+54,,,13/04/2019 ,13/04/2019 09:00:54, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,09:00:54 ,,mg
+55,,,12/04/2019 ,12/04/2019 08:00:53, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:53 ,,mg
+56,,,11/04/2019 ,11/04/2019 07:46:44, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,07:46:44 ,,mg
+57,,,10/04/2019 ,10/04/2019 08:00:07, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:07 ,,mg
+58,,,09/04/2019 ,09/04/2019 08:00:34, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:34 ,,mg
+59,,,08/04/2019 ,08/04/2019 08:00:04, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:04 ,,mg
+60,,,08/04/2019 ,08/04/2019 07:46:31, , ,sy,,4,,Vermoeidheid, ,vermoeidheid-24synl,07:46:31 ,, 
+61,,,07/04/2019 ,07/04/2019 18:00:33, , ,sy,,8,,Vermoeidheid, ,vermoeidheid-24synl,18:00:33 ,, 
+62,,,07/04/2019 ,07/04/2019 16:28:21, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,16:28:21 ,,mg
+63,,,07/04/2019 ,07/04/2019 16:10:46, ,01:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:10:46 ,, 
+64,,,07/04/2019 ,07/04/2019 08:00:54, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:54 ,,mg
+65,,,06/04/2019 ,06/04/2019 08:30:49, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:30:49 ,,mg
+66,,,05/04/2019 ,05/04/2019 08:00:55, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:55 ,,mg
+67,,,04/04/2019 ,04/04/2019 18:00:36, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,18:00:36 ,,mg
+68,,,04/04/2019 ,04/04/2019 15:28:59, ,01:00:00,sy,,4,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:28:59 ,, 
+69,,,04/04/2019 ,04/04/2019 15:28:40, , ,me,, ,,tramadol,50,tramadol-95menl,15:28:40 ,,mg
+70,,,04/04/2019 ,04/04/2019 15:28:39, , ,me,, ,,paracetamol,500,paracetamol-42menl,15:28:39 ,,mg
+71,,,03/04/2019 ,03/04/2019 22:06:42, ,03:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:06:42 ,, 
+72,,,03/04/2019 ,03/04/2019 22:06:31, , ,me,, ,,tramadol,50,tramadol-95menl,22:06:31 ,,mg
+73,,,03/04/2019 ,03/04/2019 22:06:30, , ,me,, ,,paracetamol,500,paracetamol-42menl,22:06:30 ,,mg
+74,,,03/04/2019 ,03/04/2019 07:30:58, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,07:30:58 ,,mg
+75,,,02/04/2019 ,02/04/2019 08:00:01, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:01 ,,mg
+76,,,02/04/2019 ,02/04/2019 07:21:14, ,01:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,07:21:14 ,, 
+77,,,02/04/2019 ,02/04/2019 07:21:05, , ,me,, ,,tramadol,50,tramadol-95menl,07:21:05 ,,mg
+78,,,02/04/2019 ,02/04/2019 07:21:03, , ,me,, ,,paracetamol,500,paracetamol-42menl,07:21:03 ,,mg
+79,,,01/04/2019 ,01/04/2019 08:00:33, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:33 ,,mg
+80,,,31/03/2019 ,31/03/2019 17:50:48, ,04:00:00,sy,,3,,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:50:48 ,, 
+81,,,31/03/2019 ,31/03/2019 17:50:20, , ,me,, ,,tramadol,50,tramadol-95menl,17:50:20 ,,mg
+82,,,31/03/2019 ,31/03/2019 17:50:18, , ,me,, ,,paracetamol,500,paracetamol-42menl,17:50:18 ,,mg
+83,,,30/03/2019 ,30/03/2019 08:00:22, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:22 ,,mg
+84,,,29/03/2019 ,29/03/2019 08:00:19, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:19 ,,mg
+85,,,28/03/2019 ,28/03/2019 08:30:18, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:30:18 ,,mg
+86,,,27/03/2019 ,27/03/2019 08:00:16, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:00:16 ,,mg
+87,,,26/03/2019 ,26/03/2019 08:16:15, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:16:15 ,,mg
+88,,,25/03/2019 ,25/03/2019 07:30:29, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,07:30:29 ,,mg
+89,,,24/03/2019 ,24/03/2019 08:34:58, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:34:58 ,,mg
+90,,,23/03/2019 ,23/03/2019 08:16:24, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:16:24 ,,mg
+91,,,23/03/2019 ,23/03/2019 00:42:43, ,02:00:00,sy,,3,,Hoofdpijn, ,hoofdpijn-27synl,00:42:43 ,, 
+92,,,23/03/2019 ,23/03/2019 00:41:51, , ,me,, ,,tramadol,50,tramadol-95menl,00:41:51 ,,mg
+93,,,23/03/2019 ,23/03/2019 00:41:51, , ,me,, ,,paracetamol,500,paracetamol-42menl,00:41:51 ,,mg
+94,,,22/03/2019 ,22/03/2019 07:44:12, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,07:44:12 ,,mg
+95,,,21/03/2019 ,21/03/2019 08:30:14, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:30:14 ,,mg
+96,,,20/03/2019 ,20/03/2019 07:42:11, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,07:42:11 ,,mg
+97,,,18/03/2019 ,18/03/2019 08:45:14, , ,ma,, ,,magic-mushrooms,300,magic-mushrooms-12manl,08:45:14 ,,mg
+0,,,01/08/2019 ,01/08/2019 09:58:55, , ,ma,yr923m16, ,2019-08-01T09:58:55+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:58:55 ,altmedicine,mg
+1,,,31/07/2019 ,31/07/2019 23:18:24, , ,me,v29drzic, ,2019-07-31T23:18:24+02:00,zuurstof,25,zuurstof-101menl,23:18:24 ,medicine,l/m
+2,,,31/07/2019 ,31/07/2019 23:18:23, ,00:30:00,sy,pwoq0mwh,8,2019-07-31T23:18:23+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:18:23 ,symptom, 
+3,,,31/07/2019 ,31/07/2019 22:22:38, , ,me,k6bcsbs6, ,2019-07-31T22:22:38+02:00,zuurstof,25,zuurstof-101menl,22:22:38 ,medicine,l/m
+4,,,31/07/2019 ,31/07/2019 22:22:35, ,02:00:00,sy,d527nd1s,7,2019-07-31T22:22:35+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:22:35 ,symptom, 
+5,,,31/07/2019 ,31/07/2019 12:03:33, ,00:30:00,sy,xvqliw55,5,2019-07-31T12:03:33+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:03:33 ,symptom, 
+6,,,31/07/2019 ,31/07/2019 09:56:12, , ,ma,q2qiz3tx, ,2019-07-31T09:56:12+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:56:12 ,altmedicine,mg
+7,,,31/07/2019 ,31/07/2019 00:25:07, , ,me,cjly0zof, ,2019-07-31T00:25:07+02:00,tramadol,50,tramadol-95menl,00:25:07 ,medicine,mg
+8,,,31/07/2019 ,31/07/2019 00:25:05, , ,me,1l70yv0a, ,2019-07-31T00:25:05+02:00,tramadol,50,tramadol-95menl,00:25:05 ,medicine,mg
+9,,,30/07/2019 ,30/07/2019 21:52:12, , ,me,6ixf7vz9, ,2019-07-30T21:52:12+02:00,zuurstof,25,zuurstof-101menl,21:52:12 ,medicine,l/m
+10,,,30/07/2019 ,30/07/2019 21:21:36, , ,me,ytxyyxpf, ,2019-07-30T21:21:36+02:00,zuurstof,25,zuurstof-101menl,21:21:36 ,medicine,l/m
+11,,,30/07/2019 ,30/07/2019 20:36:03, , ,me,t5kbn1vy, ,2019-07-30T20:36:03+02:00,paracetamol,500,paracetamol-42menl,20:36:03 ,medicine,mg
+12,,,30/07/2019 ,30/07/2019 20:36:00, , ,me,0dyxjc77, ,2019-07-30T20:36:00+02:00,tramadol,50,tramadol-95menl,20:36:00 ,medicine,mg
+13,,,30/07/2019 ,30/07/2019 20:35:57, , ,me,if65lbmb, ,2019-07-30T20:35:57+02:00,tramadol,50,tramadol-95menl,20:35:57 ,medicine,mg
+14,,,30/07/2019 ,30/07/2019 20:35:55, ,02:00:00,sy,2x7xxxlx,8,2019-07-30T20:35:55+02:00,Hoofdpijn, ,hoofdpijn-27synl,20:35:55 ,symptom, 
+15,,,30/07/2019 ,30/07/2019 18:01:09, , ,me,5fdrdlkg, ,2019-07-30T18:01:09+02:00,paracetamol,500,paracetamol-42menl,18:01:09 ,medicine,mg
+16,,,30/07/2019 ,30/07/2019 18:01:09, , ,me,igcuuw39, ,2019-07-30T18:01:09+02:00,tramadol,50,tramadol-95menl,18:01:09 ,medicine,mg
+17,,,30/07/2019 ,30/07/2019 17:36:18, , ,me,3f4uj3tj, ,2019-07-30T17:36:18+02:00,zuurstof,25,zuurstof-101menl,17:36:18 ,medicine,l/m
+18,,,30/07/2019 ,30/07/2019 17:36:17, ,01:00:00,sy,u4hd9efk,8,2019-07-30T17:36:17+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:36:17 ,symptom, 
+19,,,30/07/2019 ,30/07/2019 13:04:49, , ,me,h9d3zff2, ,2019-07-30T13:04:49+02:00,tramadol,50,tramadol-95menl,13:04:49 ,medicine,mg
+20,,,30/07/2019 ,30/07/2019 13:04:47, , ,me,lr6o1ik3, ,2019-07-30T13:04:47+02:00,tramadol,50,tramadol-95menl,13:04:47 ,medicine,mg
+21,,,30/07/2019 ,30/07/2019 13:04:45, , ,sy,v5lr32gt,6,2019-07-30T13:04:45+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,13:04:45 ,symptom, 
+22,,,30/07/2019 ,30/07/2019 12:25:23, , ,me,fabx8xxq, ,2019-07-30T12:25:23+02:00,zuurstof,25,zuurstof-101menl,12:25:23 ,medicine,l/m
+23,,,30/07/2019 ,30/07/2019 12:25:21, ,01:00:00,sy,pdvc8n2u,7,2019-07-30T12:25:21+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:25:21 ,symptom, 
+24,,,30/07/2019 ,30/07/2019 09:51:12, , ,ma,sb070974, ,2019-07-30T09:51:29+02:00,magic-mushrooms,200,magic-mushrooms-12manl,09:51:12 ,altmedicine,mg
+25,,,30/07/2019 ,30/07/2019 06:18:28, , ,me,g0oijh19, ,2019-07-30T06:18:28+02:00,tramadol,50,tramadol-95menl,06:18:28 ,medicine,mg
+26,,,30/07/2019 ,30/07/2019 06:18:26, , ,me,rt5kocug, ,2019-07-30T06:18:26+02:00,tramadol,50,tramadol-95menl,06:18:26 ,medicine,mg
+27,,,30/07/2019 ,30/07/2019 06:18:23, , ,sy,9zhk11n4,6,2019-07-30T06:18:23+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,06:18:23 ,symptom, 
+28,,,30/07/2019 ,30/07/2019 00:38:48, , ,me,uudcz6f5, ,2019-07-30T00:38:48+02:00,tramadol,50,tramadol-95menl,00:38:48 ,medicine,mg
+29,,,30/07/2019 ,30/07/2019 00:38:47, , ,me,ca8vc5il, ,2019-07-30T00:38:47+02:00,tramadol,50,tramadol-95menl,00:38:47 ,medicine,mg
+30,,,29/07/2019 ,29/07/2019 23:00:41, , ,me,3h6jj7hd, ,2019-07-29T23:20:27+02:00,tramadol,50,tramadol-95menl,23:00:41 ,medicine,mg
+31,,,29/07/2019 ,29/07/2019 23:00:39, , ,me,7wu3tp31, ,2019-07-29T23:20:12+02:00,paracetamol,500,paracetamol-42menl,23:00:39 ,medicine,mg
+32,,,29/07/2019 ,29/07/2019 22:19:21, , ,me,vvfzqxe2, ,2019-07-29T22:19:21+02:00,zuurstof,25,zuurstof-101menl,22:19:21 ,medicine,l/m
+33,,,29/07/2019 ,29/07/2019 21:48:41, , ,me,i6j2hg2j, ,2019-07-29T21:48:41+02:00,zuurstof,25,zuurstof-101menl,21:48:41 ,medicine,l/m
+34,,,29/07/2019 ,29/07/2019 21:48:31, ,00:30:00,sy,3ii6jaap,8,2019-07-29T21:48:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:48:31 ,symptom, 
+35,,,29/07/2019 ,29/07/2019 20:08:41, , ,ma,5zofl74k, ,2019-07-29T20:08:55+02:00,magic-mushrooms,200,magic-mushrooms-12manl,20:08:41 ,altmedicine,mg
+36,,,29/07/2019 ,29/07/2019 16:04:50, , ,me,63jnc8ig, ,2019-07-29T16:04:50+02:00,zuurstof,25,zuurstof-101menl,16:04:50 ,medicine,l/m
+37,,,29/07/2019 ,29/07/2019 16:04:48, ,00:30:00,sy,mrvqvdbo,6,2019-07-29T16:04:48+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:04:48 ,symptom, 
+38,,,29/07/2019 ,29/07/2019 10:25:04, , ,ma,eh88v2qe, ,2019-07-29T10:25:17+02:00,magic-mushrooms,200,magic-mushrooms-12manl,10:25:04 ,altmedicine,mg
+39,,,28/07/2019 ,28/07/2019 21:43:26, , ,ma,4vn3tpyz, ,2019-07-28T21:43:40+02:00,magic-mushrooms,200,magic-mushrooms-12manl,21:43:26 ,altmedicine,mg
+40,,,28/07/2019 ,28/07/2019 20:06:50, , ,me,kxwagr8v, ,2019-07-28T20:06:50+02:00,zuurstof,25,zuurstof-101menl,20:06:50 ,medicine,l/m
+41,,,28/07/2019 ,28/07/2019 20:06:47, ,00:30:00,sy,uscjxh6h,8,2019-07-28T20:06:47+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:06:47 ,symptom, 
+42,,,28/07/2019 ,28/07/2019 10:51:05, , ,ma,yc9j194c, ,2019-07-28T10:51:05+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:51:05 ,altmedicine,mg
+43,,,27/07/2019 ,27/07/2019 20:45:08, , ,ma,uhjjxaan, ,2019-07-27T21:27:16+02:00,magic-mushrooms,200,magic-mushrooms-12manl,20:45:08 ,altmedicine,mg
+44,,,27/07/2019 ,27/07/2019 11:28:20, , ,ma,rxdm613i, ,2019-07-27T12:28:37+02:00,magic-mushrooms,300,magic-mushrooms-12manl,11:28:20 ,altmedicine,mg
+45,,,27/07/2019 ,27/07/2019 09:11:39, , ,me,hx1c75f5, ,2019-07-27T10:12:29+02:00,paracetamol,500,paracetamol-42menl,09:11:39 ,medicine,mg
+46,,,27/07/2019 ,27/07/2019 09:11:38, , ,me,cqsyq3ik, ,2019-07-27T10:12:17+02:00,tramadol,50,tramadol-95menl,09:11:38 ,medicine,mg
+47,,,27/07/2019 ,27/07/2019 09:11:36, ,02:00:00,sy,i2e0vetq,5,2019-07-27T10:12:00+02:00,Hoofdpijn, ,hoofdpijn-27synl,09:11:36 ,symptom, 
+48,,,26/07/2019 ,26/07/2019 22:43:01, , ,ma,q45y02p4, ,2019-07-26T22:43:16+02:00,magic-mushrooms,200,magic-mushrooms-12manl,22:43:01 ,altmedicine,mg
+49,,,26/07/2019 ,26/07/2019 17:27:16, , ,me,l530o835, ,2019-07-26T17:27:16+02:00,tramadol,50,tramadol-95menl,17:27:16 ,medicine,mg
+50,,,26/07/2019 ,26/07/2019 17:27:13, , ,me,ia1bkulo, ,2019-07-26T17:27:13+02:00,tramadol,50,tramadol-95menl,17:27:13 ,medicine,mg
+51,,,26/07/2019 ,26/07/2019 17:27:12, , ,me,ytp03hu9, ,2019-07-26T17:27:12+02:00,paracetamol,500,paracetamol-42menl,17:27:12 ,medicine,mg
+52,,,26/07/2019 ,26/07/2019 16:12:22, , ,me,hd3ai61a, ,2019-07-26T16:12:22+02:00,zuurstof,25,zuurstof-101menl,16:12:22 ,medicine,l/m
+53,,,26/07/2019 ,26/07/2019 16:12:20, ,00:30:00,sy,t97gnu8t,6,2019-07-26T16:12:20+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:12:20 ,symptom, 
+54,,,26/07/2019 ,26/07/2019 09:59:51, , ,sy,k87y3v62,4,2019-07-26T09:59:51+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,09:59:51 ,symptom, 
+55,,,26/07/2019 ,26/07/2019 09:59:12, , ,ma,fdld1p3l, ,2019-07-26T09:59:12+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:59:12 ,altmedicine,mg
+56,,,26/07/2019 ,26/07/2019 01:16:10, , ,me,lnzhoaaa, ,2019-07-26T01:16:10+02:00,tramadol,50,tramadol-95menl,01:16:10 ,medicine,mg
+57,,,26/07/2019 ,26/07/2019 01:16:07, , ,me,q80yvqoj, ,2019-07-26T01:16:07+02:00,tramadol,50,tramadol-95menl,01:16:07 ,medicine,mg
+58,,,26/07/2019 ,26/07/2019 01:16:05, , ,sy,lywe5azd,5,2019-07-26T01:16:05+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,01:16:05 ,symptom, 
+59,,,25/07/2019 ,25/07/2019 22:47:31, , ,me,7jl81v59, ,2019-07-25T22:47:31+02:00,tramadol,50,tramadol-95menl,22:47:31 ,medicine,mg
+60,,,25/07/2019 ,25/07/2019 22:47:29, , ,me,nzql8m2v, ,2019-07-25T22:47:29+02:00,tramadol,50,tramadol-95menl,22:47:29 ,medicine,mg
+61,,,25/07/2019 ,25/07/2019 22:11:07, , ,me,ti9mkuet, ,2019-07-25T22:11:07+02:00,zuurstof,25,zuurstof-101menl,22:11:07 ,medicine,l/m
+62,,,25/07/2019 ,25/07/2019 21:31:49, , ,me,1od33pbs, ,2019-07-25T21:31:49+02:00,zuurstof,25,zuurstof-101menl,21:31:49 ,medicine,l/m
+63,,,25/07/2019 ,25/07/2019 21:31:47, ,00:30:00,sy,y96bh7qh,7,2019-07-25T21:31:47+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:31:47 ,symptom, 
+64,,,25/07/2019 ,25/07/2019 19:59:26, , ,me,ozrfso6b, ,2019-07-25T19:59:26+02:00,zuurstof,25,zuurstof-101menl,19:59:26 ,medicine,l/m
+65,,,25/07/2019 ,25/07/2019 19:59:15, ,00:30:00,sy,qvgh6w27,7,2019-07-25T19:59:15+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:59:15 ,symptom, 
+66,,,25/07/2019 ,25/07/2019 19:35:59, , ,ma,zzh6cw33, ,2019-07-25T19:36:13+02:00,magic-mushrooms,200,magic-mushrooms-12manl,19:35:59 ,altmedicine,mg
+67,,,25/07/2019 ,25/07/2019 15:01:14, , ,me,iltot5w6, ,2019-07-25T15:01:14+02:00,zuurstof,25,zuurstof-101menl,15:01:14 ,medicine,l/m
+68,,,25/07/2019 ,25/07/2019 15:00:21, ,01:00:00,sy,049r1eox,7,2019-07-25T15:00:21+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:00:21 ,symptom, 
+69,,,25/07/2019 ,25/07/2019 14:50:57, , ,me,pbxazvue, ,2019-07-25T15:21:59+02:00,paracetamol,500,paracetamol-42menl,14:50:57 ,medicine,mg
+70,,,25/07/2019 ,25/07/2019 14:50:55, , ,me,8jjzb0h9, ,2019-07-25T15:21:42+02:00,tramadol,50,tramadol-95menl,14:50:55 ,medicine,mg
+71,,,25/07/2019 ,25/07/2019 14:22:42, , ,sy,jvyz2d2s,6,2019-07-25T15:23:04+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,14:22:42 ,symptom, 
+72,,,25/07/2019 ,25/07/2019 12:00:01, , ,me,qeygn929, ,2019-07-25T15:20:47+02:00,paracetamol,500,paracetamol-42menl,12:00:01 ,medicine,mg
+73,,,25/07/2019 ,25/07/2019 12:00:00, , ,me,1f08nrmy, ,2019-07-25T15:21:09+02:00,tramadol,50,tramadol-95menl,12:00:00 ,medicine,mg
+74,,,25/07/2019 ,25/07/2019 10:19:28, , ,sy,q6qu8wiy,5,2019-07-25T15:20:08+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:19:28 ,symptom, 
+75,,,25/07/2019 ,25/07/2019 10:00:15, , ,ma,atst2txv, ,2019-07-25T15:41:30+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:00:15 ,altmedicine,mg
+76,,,25/07/2019 ,25/07/2019 03:55:16, , ,me,xldi3etn, ,2019-07-25T03:55:16+02:00,zuurstof,25,zuurstof-101menl,03:55:16 ,medicine,l/m
+77,,,25/07/2019 ,25/07/2019 03:24:34, , ,me,okprenez, ,2019-07-25T03:24:34+02:00,zuurstof,25,zuurstof-101menl,03:24:34 ,medicine,l/m
+78,,,25/07/2019 ,25/07/2019 03:24:31, ,01:00:00,sy,u21q9ovt,9,2019-07-25T03:24:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,03:24:31 ,symptom, 
+79,,,24/07/2019 ,24/07/2019 23:38:07, , ,me,jqp8l05l, ,2019-07-24T23:38:07+02:00,zuurstof,25,zuurstof-101menl,23:38:07 ,medicine,l/m
+80,,,24/07/2019 ,24/07/2019 23:07:49, , ,me,blwdid5h, ,2019-07-24T23:07:49+02:00,zuurstof,25,zuurstof-101menl,23:07:49 ,medicine,l/m
+81,,,24/07/2019 ,24/07/2019 22:54:55, , ,me,gp0aegfd, ,2019-07-24T22:54:55+02:00,tramadol,50,tramadol-95menl,22:54:55 ,medicine,mg
+82,,,24/07/2019 ,24/07/2019 22:54:54, , ,me,dsdp88hk, ,2019-07-24T22:54:54+02:00,paracetamol,500,paracetamol-42menl,22:54:54 ,medicine,mg
+83,,,24/07/2019 ,24/07/2019 22:36:42, , ,me,div0xdlz, ,2019-07-24T22:36:42+02:00,zuurstof,25,zuurstof-101menl,22:36:42 ,medicine,l/m
+84,,,24/07/2019 ,24/07/2019 22:36:40, ,00:30:00,sy,9muz39q0,8,2019-07-24T22:36:40+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:36:40 ,symptom, 
+85,,,24/07/2019 ,24/07/2019 20:47:45, , ,me,c5m4wp0n, ,2019-07-24T20:47:45+02:00,zuurstof,25,zuurstof-101menl,20:47:45 ,medicine,l/m
+86,,,24/07/2019 ,24/07/2019 20:47:43, ,00:30:00,sy,1hox71bh,8,2019-07-24T20:47:43+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:47:43 ,symptom, 
+87,,,24/07/2019 ,24/07/2019 19:36:31, , ,me,26dpehtz, ,2019-07-24T19:36:31+02:00,zuurstof,25,zuurstof-101menl,19:36:31 ,medicine,l/m
+88,,,24/07/2019 ,24/07/2019 19:36:28, ,00:30:00,sy,ilumjqgh,8,2019-07-24T19:36:28+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:36:28 ,symptom, 
+89,,,24/07/2019 ,24/07/2019 10:13:53, , ,ma,pqeczjku, ,2019-07-24T10:13:53+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:13:53 ,altmedicine,mg
+90,,,24/07/2019 ,24/07/2019 05:25:36, , ,me,s1762i2j, ,2019-07-24T05:25:36+02:00,tramadol,50,tramadol-95menl,05:25:36 ,medicine,mg
+91,,,24/07/2019 ,24/07/2019 05:25:35, , ,me,9w7i6xrt, ,2019-07-24T05:25:35+02:00,paracetamol,500,paracetamol-42menl,05:25:35 ,medicine,mg
+92,,,24/07/2019 ,24/07/2019 04:44:51, , ,me,z57y3znc, ,2019-07-24T04:44:51+02:00,zuurstof,25,zuurstof-101menl,04:44:51 ,medicine,l/m
+93,,,24/07/2019 ,24/07/2019 04:14:26, , ,me,6os8gp0g, ,2019-07-24T04:14:26+02:00,zuurstof,25,zuurstof-101menl,04:14:26 ,medicine,l/m
+94,,,24/07/2019 ,24/07/2019 04:14:21, ,01:00:00,sy,buu4oyn8,9,2019-07-24T04:14:21+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,04:14:21 ,symptom, 
+95,,,24/07/2019 ,24/07/2019 02:00:08, , ,me,rpzx6p9m, ,2019-07-24T02:00:08+02:00,paracetamol,500,paracetamol-42menl,02:00:08 ,medicine,mg
+96,,,24/07/2019 ,24/07/2019 02:00:07, , ,me,wu2oyvnw, ,2019-07-24T02:00:07+02:00,tramadol,50,tramadol-95menl,02:00:07 ,medicine,mg
+97,,,23/07/2019 ,23/07/2019 23:58:26, , ,me,r1s5qmd2, ,2019-07-23T23:58:26+02:00,zuurstof,25,zuurstof-101menl,23:58:26 ,medicine,l/m
+98,,,23/07/2019 ,23/07/2019 23:27:50, ,00:30:00,sy,bmqrb6so,7,2019-07-23T23:27:50+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:27:50 ,symptom, 
+99,,,23/07/2019 ,23/07/2019 23:27:39, , ,me,8uk0fsya, ,2019-07-23T23:27:39+02:00,zuurstof,25,zuurstof-101menl,23:27:39 ,medicine,l/m
+100,,,23/07/2019 ,23/07/2019 23:27:36, , ,me,gtrsqb5l, ,2019-07-23T23:27:36+02:00,tramadol,50,tramadol-95menl,23:27:36 ,medicine,mg
+101,,,23/07/2019 ,23/07/2019 23:27:35, , ,me,p4kwfhvm, ,2019-07-23T23:27:35+02:00,paracetamol,500,paracetamol-42menl,23:27:35 ,medicine,mg
+102,,,23/07/2019 ,23/07/2019 22:23:56, , ,me,jv82tifm, ,2019-07-23T23:24:34+02:00,tramadol,50,tramadol-95menl,22:23:56 ,medicine,mg
+103,,,23/07/2019 ,23/07/2019 22:23:55, , ,me,upnn4g4y, ,2019-07-23T23:24:55+02:00,paracetamol,500,paracetamol-42menl,22:23:55 ,medicine,mg
+104,,,23/07/2019 ,23/07/2019 22:05:56, , ,me,kbkttomw, ,2019-07-23T22:21:25+02:00,zuurstof,25,zuurstof-101menl,22:05:56 ,medicine,l/m
+105,,,23/07/2019 ,23/07/2019 21:35:27, , ,me,jzimye2b, ,2019-07-23T21:35:27+02:00,zuurstof,25,zuurstof-101menl,21:35:27 ,medicine,l/m
+106,,,23/07/2019 ,23/07/2019 21:35:24, ,00:30:00,sy,cezrr8f0,7,2019-07-23T21:35:24+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:35:24 ,symptom, 
+107,,,23/07/2019 ,23/07/2019 17:13:36, , ,me,raz233pl, ,2019-07-23T17:13:36+02:00,zuurstof,25,zuurstof-101menl,17:13:36 ,medicine,l/m
+108,,,23/07/2019 ,23/07/2019 17:13:35, ,00:30:00,sy,a3m46eb0,7,2019-07-23T17:13:35+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:13:35 ,symptom, 
+109,,,23/07/2019 ,23/07/2019 15:39:32, , ,me,qz2ydqyn, ,2019-07-23T15:39:32+02:00,zuurstof,25,zuurstof-101menl,15:39:32 ,medicine,l/m
+110,,,23/07/2019 ,23/07/2019 15:39:29, ,00:30:00,sy,n52w3f1w,7,2019-07-23T15:39:29+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:39:29 ,symptom, 
+111,,,23/07/2019 ,23/07/2019 11:00:23, , ,me,9eipwyoj, ,2019-07-23T11:13:55+02:00,zuurstof,25,zuurstof-101menl,11:00:23 ,medicine,l/m
+112,,,23/07/2019 ,23/07/2019 11:00:17, ,00:30:00,sy,xd3q7wj4,8,2019-07-23T11:13:46+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:00:17 ,symptom, 
+113,,,23/07/2019 ,23/07/2019 09:00:34, , ,ma,1xlk27cd, ,2019-07-23T12:43:03+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:00:34 ,altmedicine,mg
+114,,,22/07/2019 ,22/07/2019 21:12:03, , ,me,i0gpoegw, ,2019-07-22T21:12:03+02:00,zuurstof,25,zuurstof-101menl,21:12:03 ,medicine,l/m
+115,,,22/07/2019 ,22/07/2019 21:12:01, , ,me,ab6tfd3n, ,2019-07-22T21:12:01+02:00,tramadol,50,tramadol-95menl,21:12:01 ,medicine,mg
+116,,,22/07/2019 ,22/07/2019 21:12:00, , ,me,7u4yg02i, ,2019-07-22T21:12:00+02:00,paracetamol,500,paracetamol-42menl,21:12:00 ,medicine,mg
+117,,,22/07/2019 ,22/07/2019 21:11:55, ,00:30:00,sy,93m1yaef,8,2019-07-22T21:11:55+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:11:55 ,symptom, 
+118,,,22/07/2019 ,22/07/2019 12:59:29, , ,me,crrsivad, ,2019-07-22T12:59:29+02:00,zuurstof,25,zuurstof-101menl,12:59:29 ,medicine,l/m
+119,,,22/07/2019 ,22/07/2019 12:59:25, ,00:30:00,sy,97wj3qeu,7,2019-07-22T12:59:25+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:59:25 ,symptom, 
+120,,,22/07/2019 ,22/07/2019 12:18:46, , ,me,u3021eo5, ,2019-07-22T12:18:46+02:00,tramadol,50,tramadol-95menl,12:18:46 ,medicine,mg
+121,,,22/07/2019 ,22/07/2019 12:18:46, , ,me,bw7rbslr, ,2019-07-22T12:18:46+02:00,paracetamol,500,paracetamol-42menl,12:18:46 ,medicine,mg
+122,,,22/07/2019 ,22/07/2019 10:27:01, , ,ma,gtsng2v1, ,2019-07-22T10:27:01+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:27:01 ,altmedicine,mg
+123,,,21/07/2019 ,21/07/2019 23:04:46, , ,me,e5vs9cnt, ,2019-07-21T23:04:46+02:00,tramadol,50,tramadol-95menl,23:04:46 ,medicine,mg
+124,,,21/07/2019 ,21/07/2019 23:04:43, , ,me,grn54xcs, ,2019-07-21T23:04:43+02:00,tramadol,50,tramadol-95menl,23:04:43 ,medicine,mg
+125,,,21/07/2019 ,21/07/2019 21:30:38, , ,me,oat2l60q, ,2019-07-21T21:30:38+02:00,zuurstof,25,zuurstof-101menl,21:30:38 ,medicine,l/m
+126,,,21/07/2019 ,21/07/2019 21:00:40, , ,me,0kui56ht, ,2019-07-21T21:00:40+02:00,zuurstof,25,zuurstof-101menl,21:00:40 ,medicine,l/m
+127,,,21/07/2019 ,21/07/2019 21:00:38, ,00:30:00,sy,vj04cwdn,8,2019-07-21T21:00:38+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:00:38 ,symptom, 
+128,,,21/07/2019 ,21/07/2019 20:51:43, , ,me,qtnyzgg6, ,2019-07-21T20:51:43+02:00,tramadol,50,tramadol-95menl,20:51:43 ,medicine,mg
+129,,,21/07/2019 ,21/07/2019 20:51:40, , ,me,660j1fva, ,2019-07-21T20:51:40+02:00,tramadol,50,tramadol-95menl,20:51:40 ,medicine,mg
+130,,,21/07/2019 ,21/07/2019 16:57:54, , ,me,muq5p9up, ,2019-07-21T16:57:54+02:00,tramadol,50,tramadol-95menl,16:57:54 ,medicine,mg
+131,,,21/07/2019 ,21/07/2019 16:57:51, , ,me,3vzmpamj, ,2019-07-21T16:57:51+02:00,tramadol,50,tramadol-95menl,16:57:51 ,medicine,mg
+132,,,21/07/2019 ,21/07/2019 16:20:03, , ,me,s3kky4qa, ,2019-07-21T16:39:21+02:00,zuurstof,25,zuurstof-101menl,16:20:03 ,medicine,l/m
+133,,,21/07/2019 ,21/07/2019 15:51:41, , ,me,qj6u3ecy, ,2019-07-21T15:51:41+02:00,zuurstof,25,zuurstof-101menl,15:51:41 ,medicine,l/m
+134,,,21/07/2019 ,21/07/2019 15:51:33, ,00:30:00,sy,zlenlaci,8,2019-07-21T16:39:34+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:51:33 ,symptom, 
+135,,,21/07/2019 ,21/07/2019 15:14:42, , ,me,30mr7y5r, ,2019-07-21T15:14:42+02:00,tramadol,50,tramadol-95menl,15:14:42 ,medicine,mg
+136,,,21/07/2019 ,21/07/2019 15:14:40, , ,me,gbjl09ic, ,2019-07-21T15:14:40+02:00,tramadol,50,tramadol-95menl,15:14:40 ,medicine,mg
+137,,,21/07/2019 ,21/07/2019 11:40:53, , ,me,4zkzhrro, ,2019-07-21T11:40:53+02:00,tramadol,50,tramadol-95menl,11:40:53 ,medicine,mg
+138,,,21/07/2019 ,21/07/2019 11:40:50, , ,me,4egc70r8, ,2019-07-21T11:40:50+02:00,tramadol,50,tramadol-95menl,11:40:50 ,medicine,mg
+139,,,21/07/2019 ,21/07/2019 11:40:48, , ,sy,sdehdfl8,4,2019-07-21T11:40:48+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:40:48 ,symptom, 
+140,,,21/07/2019 ,21/07/2019 11:00:54, , ,ma,pxxmc8ig, ,2019-07-21T11:47:14+02:00,magic-mushrooms,300,magic-mushrooms-12manl,11:00:54 ,altmedicine,mg
+141,,,21/07/2019 ,21/07/2019 06:40:54, , ,me,71bpqf0t, ,2019-07-21T07:01:14+02:00,zuurstof,25,zuurstof-101menl,06:40:54 ,medicine,l/m
+142,,,21/07/2019 ,21/07/2019 06:30:50, ,00:30:00,sy,7oen7s11,8,2019-07-21T07:01:37+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,06:30:50 ,symptom, 
+143,,,21/07/2019 ,21/07/2019 06:30:40, , ,me,6vcz49ul, ,2019-07-21T07:02:09+02:00,tramadol,50,tramadol-95menl,06:30:40 ,medicine,mg
+144,,,21/07/2019 ,21/07/2019 06:30:34, , ,me,wy5mrpns, ,2019-07-21T07:01:53+02:00,tramadol,50,tramadol-95menl,06:30:34 ,medicine,mg
+145,,,21/07/2019 ,21/07/2019 00:40:41, , ,me,ocpnj7qr, ,2019-07-21T00:40:41+02:00,tramadol,50,tramadol-95menl,00:40:41 ,medicine,mg
+146,,,21/07/2019 ,21/07/2019 00:40:40, , ,me,o1o3qp26, ,2019-07-21T00:40:40+02:00,paracetamol,500,paracetamol-42menl,00:40:40 ,medicine,mg
+147,,,20/07/2019 ,20/07/2019 23:50:54, , ,me,t6zktyz8, ,2019-07-21T00:11:20+02:00,zuurstof,25,zuurstof-101menl,23:50:54 ,medicine,l/m
+148,,,20/07/2019 ,20/07/2019 23:50:13, ,00:15:00,sy,2quyb7z5,8,2019-07-21T00:10:38+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:50:13 ,symptom, 
+149,,,20/07/2019 ,20/07/2019 23:23:18, , ,me,07rth7aj, ,2019-07-20T23:23:18+02:00,zuurstof,25,zuurstof-101menl,23:23:18 ,medicine,l/m
+150,,,20/07/2019 ,20/07/2019 23:23:15, ,00:30:00,sy,2yxduqc1,8,2019-07-20T23:23:15+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:23:15 ,symptom, 
+151,,,20/07/2019 ,20/07/2019 22:50:18, , ,me,i0t4sueo, ,2019-07-20T22:50:18+02:00,tramadol,50,tramadol-95menl,22:50:18 ,medicine,mg
+152,,,20/07/2019 ,20/07/2019 22:50:17, , ,me,bqg3scwp, ,2019-07-20T22:50:17+02:00,paracetamol,500,paracetamol-42menl,22:50:17 ,medicine,mg
+153,,,20/07/2019 ,20/07/2019 22:37:18, , ,me,rl2afdak, ,2019-07-20T22:37:18+02:00,zuurstof,25,zuurstof-101menl,22:37:18 ,medicine,l/m
+154,,,20/07/2019 ,20/07/2019 22:37:15, ,00:15:00,sy,zc6mqrim,6,2019-07-20T22:37:15+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:37:15 ,symptom, 
+155,,,20/07/2019 ,20/07/2019 21:45:45, , ,me,25na6nbh, ,2019-07-20T21:45:45+02:00,zuurstof,25,zuurstof-101menl,21:45:45 ,medicine,l/m
+156,,,20/07/2019 ,20/07/2019 21:45:42, ,00:30:00,sy,76v9dezd,7,2019-07-20T21:45:42+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:45:42 ,symptom, 
+157,,,20/07/2019 ,20/07/2019 20:05:27, , ,sy,bjtwzc8m,5,2019-07-20T20:05:27+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,20:05:27 ,symptom, 
+158,,,20/07/2019 ,20/07/2019 18:30:10, , ,me,5aw6rv5p, ,2019-07-20T18:44:27+02:00,zuurstof,25,zuurstof-101menl,18:30:10 ,medicine,l/m
+159,,,20/07/2019 ,20/07/2019 18:02:35, , ,me,vvdpjwf9, ,2019-07-20T18:02:35+02:00,zuurstof,25,zuurstof-101menl,18:02:35 ,medicine,l/m
+160,,,20/07/2019 ,20/07/2019 18:02:31, ,00:29:00,sy,god56eso,8,2019-07-20T18:02:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:02:31 ,symptom, 
+161,,,20/07/2019 ,20/07/2019 10:25:05, , ,ma,ma4obmza, ,2019-07-20T10:25:05+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:25:05 ,altmedicine,mg
+162,,,20/07/2019 ,20/07/2019 01:13:10, , ,me,8h69f0wl, ,2019-07-20T01:13:10+02:00,tramadol,50,tramadol-95menl,01:13:10 ,medicine,mg
+163,,,20/07/2019 ,20/07/2019 01:13:09, , ,me,e9vl7c8h, ,2019-07-20T01:13:09+02:00,paracetamol,500,paracetamol-42menl,01:13:09 ,medicine,mg
+164,,,20/07/2019 ,20/07/2019 00:17:37, , ,me,yu9t1no7, ,2019-07-20T00:17:37+02:00,zuurstof,25,zuurstof-101menl,00:17:37 ,medicine,l/m
+165,,,20/07/2019 ,20/07/2019 00:17:34, ,00:30:00,sy,ubmme0dr,7,2019-07-20T00:17:34+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:17:34 ,symptom, 
+166,,,19/07/2019 ,19/07/2019 22:21:53, , ,me,2rfqql16, ,2019-07-19T22:21:53+02:00,zuurstof,25,zuurstof-101menl,22:21:53 ,medicine,l/m
+167,,,19/07/2019 ,19/07/2019 21:53:32, , ,me,cxh9c9mb, ,2019-07-19T21:53:32+02:00,zuurstof,25,zuurstof-101menl,21:53:32 ,medicine,l/m
+168,,,19/07/2019 ,19/07/2019 21:53:30, ,00:30:00,sy,pyih40cy,8,2019-07-19T21:53:30+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:53:30 ,symptom, 
+169,,,19/07/2019 ,19/07/2019 20:15:53, , ,me,0pvlsn06, ,2019-07-19T20:33:14+02:00,zuurstof,25,zuurstof-101menl,20:15:53 ,medicine,l/m
+170,,,19/07/2019 ,19/07/2019 19:45:00, , ,me,bnrbt3ct, ,2019-07-19T19:45:00+02:00,zuurstof,25,zuurstof-101menl,19:45:00 ,medicine,l/m
+171,,,19/07/2019 ,19/07/2019 19:42:08, , ,me,c9gum4j9, ,2019-07-19T19:42:08+02:00,tramadol,50,tramadol-95menl,19:42:08 ,medicine,mg
+172,,,19/07/2019 ,19/07/2019 19:42:07, , ,me,6hqzmfad, ,2019-07-19T19:42:07+02:00,paracetamol,500,paracetamol-42menl,19:42:07 ,medicine,mg
+173,,,19/07/2019 ,19/07/2019 19:40:05, ,00:30:00,sy,9ltbxsa6,8,2019-07-19T20:07:50+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:40:05 ,symptom, 
+174,,,19/07/2019 ,19/07/2019 17:29:36, , ,me,0edhmo0f, ,2019-07-19T17:29:36+02:00,tramadol,50,tramadol-95menl,17:29:36 ,medicine,mg
+175,,,19/07/2019 ,19/07/2019 17:29:35, , ,me,8tc229zn, ,2019-07-19T17:29:35+02:00,paracetamol,500,paracetamol-42menl,17:29:35 ,medicine,mg
+176,,,19/07/2019 ,19/07/2019 17:29:29, ,07:00:00,sy,i40l1qco,4,2019-07-19T17:29:29+02:00,Hoofdpijn, ,hoofdpijn-27synl,17:29:29 ,symptom, 
+177,,,19/07/2019 ,19/07/2019 15:29:33, , ,me,60sznkwy, ,2019-07-19T17:29:51+02:00,tramadol,50,tramadol-95menl,15:29:33 ,medicine,mg
+178,,,19/07/2019 ,19/07/2019 15:29:32, , ,me,2onq3dnh, ,2019-07-19T17:30:06+02:00,paracetamol,500,paracetamol-42menl,15:29:32 ,medicine,mg
+179,,,19/07/2019 ,19/07/2019 11:50:34, , ,me,l4c08zsu, ,2019-07-19T11:50:34+02:00,zuurstof,25,zuurstof-101menl,11:50:34 ,medicine,l/m
+180,,,19/07/2019 ,19/07/2019 11:50:31, ,00:30:00,sy,ykpfxjgy,7,2019-07-19T11:50:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:50:31 ,symptom, 
+181,,,19/07/2019 ,19/07/2019 10:01:14, , ,ma,d5m830uv, ,2019-07-19T10:01:14+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:01:14 ,altmedicine,mg
+182,,,18/07/2019 ,18/07/2019 23:04:45, ,06:00:00,sy,5w4eszy7,6,2019-07-18T23:04:45+02:00,Hoofdpijn, ,hoofdpijn-27synl,23:04:45 ,symptom, 
+183,,,18/07/2019 ,18/07/2019 23:04:15, , ,me,ft0qqta8, ,2019-07-18T23:04:15+02:00,paracetamol,500,paracetamol-42menl,23:04:15 ,medicine,mg
+184,,,18/07/2019 ,18/07/2019 23:04:15, , ,me,x031auxx, ,2019-07-18T23:04:15+02:00,tramadol,50,tramadol-95menl,23:04:15 ,medicine,mg
+185,,,18/07/2019 ,18/07/2019 21:00:09, , ,me,mzda8w60, ,2019-07-18T21:21:42+02:00,zuurstof,25,zuurstof-101menl,21:00:09 ,medicine,l/m
+186,,,18/07/2019 ,18/07/2019 20:36:02, , ,me,5kzhvrk1, ,2019-07-18T20:36:02+02:00,zuurstof,25,zuurstof-101menl,20:36:02 ,medicine,l/m
+187,,,18/07/2019 ,18/07/2019 20:35:57, ,00:30:00,sy,t0doqle2,7,2019-07-18T20:35:57+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:35:57 ,symptom, 
+188,,,18/07/2019 ,18/07/2019 16:45:43, , ,me,qivnrn96, ,2019-07-18T16:59:01+02:00,zuurstof,25,zuurstof-101menl,16:45:43 ,medicine,l/m
+189,,,18/07/2019 ,18/07/2019 16:33:36, ,06:00:00,sy,5wi4xvta,6,2019-07-18T16:33:36+02:00,Hoofdpijn, ,hoofdpijn-27synl,16:33:36 ,symptom, 
+190,,,18/07/2019 ,18/07/2019 16:15:14, , ,me,l6atkcpq, ,2019-07-18T16:30:04+02:00,zuurstof,25,zuurstof-101menl,16:15:14 ,medicine,l/m
+191,,,18/07/2019 ,18/07/2019 15:50:10, ,00:30:00,sy,5mx1vlso,8,2019-07-18T16:29:49+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:50:10 ,symptom, 
+192,,,18/07/2019 ,18/07/2019 10:35:31, ,04:00:00,sy,t5rua37r,4,2019-07-18T10:35:31+02:00,Hoofdpijn, ,hoofdpijn-27synl,10:35:31 ,symptom, 
+193,,,18/07/2019 ,18/07/2019 10:35:10, , ,ma,p2a848og, ,2019-07-18T10:35:10+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:35:10 ,altmedicine,mg
+194,,,18/07/2019 ,18/07/2019 05:21:51, , ,me,ixp7vinn, ,2019-07-18T05:21:51+02:00,tramadol,50,tramadol-95menl,05:21:51 ,medicine,mg
+195,,,18/07/2019 ,18/07/2019 05:21:50, , ,me,5zvfrkny, ,2019-07-18T05:21:50+02:00,paracetamol,500,paracetamol-42menl,05:21:50 ,medicine,mg
+196,,,18/07/2019 ,18/07/2019 05:00:32, , ,me,qsgqask6, ,2019-07-18T05:17:45+02:00,zuurstof,25,zuurstof-101menl,05:00:32 ,medicine,l/m
+197,,,18/07/2019 ,18/07/2019 04:28:13, , ,me,if5wu88n, ,2019-07-18T04:28:13+02:00,zuurstof,25,zuurstof-101menl,04:28:13 ,medicine,l/m
+198,,,18/07/2019 ,18/07/2019 04:28:08, ,00:30:00,sy,ohoqi9u3,6,2019-07-18T04:28:08+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,04:28:08 ,symptom, 
+199,,,17/07/2019 ,17/07/2019 22:09:01, , ,ma,929a67j3, ,2019-07-17T22:09:01+02:00,magic-mushrooms,300,magic-mushrooms-12manl,22:09:01 ,altmedicine,mg
+200,,,17/07/2019 ,17/07/2019 20:46:57, , ,me,mqlyyrsh, ,2019-07-17T20:46:57+02:00,zuurstof,25,zuurstof-101menl,20:46:57 ,medicine,l/m
+201,,,17/07/2019 ,17/07/2019 20:46:53, ,00:30:00,sy,qnnq37pg,7,2019-07-17T20:46:53+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:46:53 ,symptom, 
+202,,,17/07/2019 ,17/07/2019 19:30:23, , ,me,ectzueas, ,2019-07-17T19:57:39+02:00,zuurstof,25,zuurstof-101menl,19:30:23 ,medicine,l/m
+203,,,17/07/2019 ,17/07/2019 18:51:46, , ,me,pgq7otvp, ,2019-07-17T19:57:49+02:00,zuurstof,25,zuurstof-101menl,18:51:46 ,medicine,l/m
+204,,,17/07/2019 ,17/07/2019 18:51:41, ,00:30:00,sy,ku0rv8rl,6,2019-07-17T18:51:41+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:51:41 ,symptom, 
+205,,,17/07/2019 ,17/07/2019 14:12:13, , ,me,x8ufrfbb, ,2019-07-17T19:58:00+02:00,zuurstof,25,zuurstof-101menl,14:12:13 ,medicine,l/m
+206,,,17/07/2019 ,17/07/2019 13:56:56, , ,me,oc460h32, ,2019-07-17T19:58:07+02:00,zuurstof,25,zuurstof-101menl,13:56:56 ,medicine,l/m
+207,,,17/07/2019 ,17/07/2019 13:56:50, ,00:30:00,sy,8v5xnmne,7,2019-07-17T13:56:50+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:56:50 ,symptom, 
+208,,,17/07/2019 ,17/07/2019 11:00:32, , ,ma,fabqv2wl, ,2019-07-17T14:30:55+02:00,magic-mushrooms,300,magic-mushrooms-12manl,11:00:32 ,altmedicine,mg
+209,,,17/07/2019 ,17/07/2019 10:09:21, , ,sy,am2xtoij,5,2019-07-17T10:09:21+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:09:21 ,symptom, 
+210,,,17/07/2019 ,17/07/2019 07:25:48, , ,me,x03wsxsk, ,2019-07-17T07:25:48+02:00,tramadol,50,tramadol-95menl,07:25:48 ,medicine,mg
+211,,,17/07/2019 ,17/07/2019 07:25:47, , ,me,8qgsczwn, ,2019-07-17T07:25:47+02:00,paracetamol,500,paracetamol-42menl,07:25:47 ,medicine,mg
+212,,,17/07/2019 ,17/07/2019 07:25:46, , ,sy,cp80iapz,5,2019-07-17T07:25:46+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,07:25:46 ,symptom, 
+213,,,16/07/2019 ,16/07/2019 17:38:14, , ,me,bjvw8b4g, ,2019-07-16T17:38:14+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,17:38:14 ,medicine,mg
+214,,,16/07/2019 ,16/07/2019 17:38:11, , ,me,rqlipjix, ,2019-07-16T17:38:11+02:00,tramadol,50,tramadol-95menl,17:38:11 ,medicine,mg
+215,,,16/07/2019 ,16/07/2019 17:38:10, , ,me,03xdy50r, ,2019-07-16T17:38:10+02:00,paracetamol,500,paracetamol-42menl,17:38:10 ,medicine,mg
+216,,,16/07/2019 ,16/07/2019 17:38:09, ,01:00:00,sy,vwt64u1t,6,2019-07-16T17:38:09+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:38:09 ,symptom, 
+217,,,16/07/2019 ,16/07/2019 16:25:41, ,01:30:00,sy,rkgdmkdd,6,2019-07-16T16:25:41+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:25:41 ,symptom, 
+218,,,16/07/2019 ,16/07/2019 09:55:30, , ,ma,1f5zb1td, ,2019-07-16T09:55:30+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:55:30 ,altmedicine,mg
+219,,,16/07/2019 ,16/07/2019 06:55:16, , ,me,t2hc93bf, ,2019-07-16T06:55:16+02:00,tramadol,50,tramadol-95menl,06:55:16 ,medicine,mg
+220,,,16/07/2019 ,16/07/2019 06:55:15, , ,me,hdsbo7n5, ,2019-07-16T06:55:15+02:00,paracetamol,500,paracetamol-42menl,06:55:15 ,medicine,mg
+221,,,16/07/2019 ,16/07/2019 06:55:14, , ,sy,bjb04wky,5,2019-07-16T06:55:14+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,06:55:14 ,symptom, 
+222,,,15/07/2019 ,15/07/2019 19:26:28, , ,me,1ogxjx3w, ,2019-07-15T19:26:28+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,19:26:28 ,medicine,mg
+223,,,15/07/2019 ,15/07/2019 19:26:26, , ,me,p4vqg5xx, ,2019-07-15T19:26:26+02:00,paracetamol,500,paracetamol-42menl,19:26:26 ,medicine,mg
+224,,,15/07/2019 ,15/07/2019 19:26:26, , ,me,gpgxj70r, ,2019-07-15T19:26:26+02:00,tramadol,50,tramadol-95menl,19:26:26 ,medicine,mg
+225,,,15/07/2019 ,15/07/2019 19:26:22, ,00:30:00,sy,gxmmdb46,7,2019-07-15T19:26:22+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:26:22 ,symptom, 
+226,,,15/07/2019 ,15/07/2019 18:46:15, , ,sy,02ymixp9,4,2019-07-15T18:46:15+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,18:46:15 ,symptom, 
+227,,,15/07/2019 ,15/07/2019 12:58:22, , ,sy,spygiboc,6,2019-07-15T12:58:22+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:58:22 ,symptom, 
+228,,,15/07/2019 ,15/07/2019 12:43:46, , ,sy,wxm0ps4q,4,2019-07-15T12:43:46+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:43:46 ,symptom, 
+229,,,15/07/2019 ,15/07/2019 09:49:23, , ,ma,mcjti7v0, ,2019-07-15T09:49:23+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:49:23 ,altmedicine,mg
+230,,,14/07/2019 ,14/07/2019 19:33:40, , ,me,zcykzt1o, ,2019-07-14T19:33:40+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,19:33:40 ,medicine,mg
+231,,,14/07/2019 ,14/07/2019 19:33:38, , ,me,8adecz9t, ,2019-07-14T19:33:38+02:00,tramadol,50,tramadol-95menl,19:33:38 ,medicine,mg
+232,,,14/07/2019 ,14/07/2019 19:33:37, , ,me,m5np8jvt, ,2019-07-14T19:33:37+02:00,paracetamol,500,paracetamol-42menl,19:33:37 ,medicine,mg
+233,,,14/07/2019 ,14/07/2019 19:33:36, ,01:00:00,sy,qg04wqqu,7,2019-07-14T19:33:36+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:33:36 ,symptom, 
+234,,,14/07/2019 ,14/07/2019 11:27:53, , ,me,cvnn3a9w, ,2019-07-14T11:27:53+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,11:27:53 ,medicine,mg
+235,,,14/07/2019 ,14/07/2019 11:27:51, , ,me,kr6n38ba, ,2019-07-14T11:27:51+02:00,tramadol,50,tramadol-95menl,11:27:51 ,medicine,mg
+236,,,14/07/2019 ,14/07/2019 11:27:50, , ,me,1bkeje7b, ,2019-07-14T11:27:50+02:00,paracetamol,500,paracetamol-42menl,11:27:50 ,medicine,mg
+237,,,14/07/2019 ,14/07/2019 11:27:49, ,00:30:00,sy,2gvr2dhl,7,2019-07-14T11:27:49+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:27:49 ,symptom, 
+238,,,13/07/2019 ,13/07/2019 22:21:47, , ,me,ptp26tte, ,2019-07-13T22:21:47+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,22:21:47 ,medicine,mg
+239,,,13/07/2019 ,13/07/2019 22:21:45, , ,me,9ma23nme, ,2019-07-13T22:21:45+02:00,paracetamol,500,paracetamol-42menl,22:21:45 ,medicine,mg
+240,,,13/07/2019 ,13/07/2019 22:21:45, , ,me,tjj2henc, ,2019-07-13T22:21:45+02:00,tramadol,50,tramadol-95menl,22:21:45 ,medicine,mg
+241,,,13/07/2019 ,13/07/2019 22:21:43, ,00:30:00,sy,w17vdpwc,6,2019-07-13T22:21:43+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:21:43 ,symptom, 
+242,,,12/07/2019 ,12/07/2019 20:47:59, , ,me,uri00z2p, ,2019-07-12T20:47:59+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,20:47:59 ,medicine,mg
+243,,,12/07/2019 ,12/07/2019 20:47:56, , ,me,pzbgovif, ,2019-07-12T20:47:56+02:00,tramadol,50,tramadol-95menl,20:47:56 ,medicine,mg
+244,,,12/07/2019 ,12/07/2019 20:47:55, , ,me,p3a32z1d, ,2019-07-12T20:47:55+02:00,paracetamol,500,paracetamol-42menl,20:47:55 ,medicine,mg
+245,,,12/07/2019 ,12/07/2019 20:47:54, ,00:30:00,sy,ixxi54ly,7,2019-07-12T20:47:54+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:47:54 ,symptom, 
+246,,,12/07/2019 ,12/07/2019 13:23:27, , ,me,iz9p3iic, ,2019-07-12T13:23:27+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,13:23:27 ,medicine,mg
+247,,,12/07/2019 ,12/07/2019 13:23:25, , ,me,0859ugcb, ,2019-07-12T13:23:25+02:00,tramadol,50,tramadol-95menl,13:23:25 ,medicine,mg
+248,,,12/07/2019 ,12/07/2019 13:23:24, , ,me,6vnbxpzz, ,2019-07-12T13:23:24+02:00,paracetamol,500,paracetamol-42menl,13:23:24 ,medicine,mg
+249,,,12/07/2019 ,12/07/2019 13:23:23, ,00:30:00,sy,i972byej,7,2019-07-12T13:23:23+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:23:23 ,symptom, 
+250,,,11/07/2019 ,11/07/2019 23:19:01, , ,me,9vup869n, ,2019-07-11T23:19:01+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,23:19:01 ,medicine,mg
+251,,,11/07/2019 ,11/07/2019 23:18:59, , ,me,1i1gnoiv, ,2019-07-11T23:18:59+02:00,tramadol,50,tramadol-95menl,23:18:59 ,medicine,mg
+252,,,11/07/2019 ,11/07/2019 23:18:58, , ,me,3jv3e3ru, ,2019-07-11T23:18:58+02:00,paracetamol,500,paracetamol-42menl,23:18:58 ,medicine,mg
+253,,,11/07/2019 ,11/07/2019 23:18:56, ,01:00:00,sy,937qi8vx,5,2019-07-11T23:18:56+02:00,Oorsuizen, ,oorsuizen-60synl,23:18:56 ,symptom, 
+254,,,11/07/2019 ,11/07/2019 23:18:48, ,00:30:00,sy,61p6nax2,8,2019-07-11T23:18:48+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:18:48 ,symptom, 
+255,,,11/07/2019 ,11/07/2019 19:44:26, ,01:00:00,sy,2toz0cfs,6,2019-07-11T19:44:26+02:00,Oorsuizen, ,oorsuizen-60synl,19:44:26 ,symptom, 
+256,,,11/07/2019 ,11/07/2019 19:42:20, , ,me,ynw990e8, ,2019-07-11T19:42:20+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,19:42:20 ,medicine,mg
+257,,,11/07/2019 ,11/07/2019 19:42:18, , ,me,ii1rtema, ,2019-07-11T19:42:18+02:00,tramadol,50,tramadol-95menl,19:42:18 ,medicine,mg
+258,,,11/07/2019 ,11/07/2019 19:42:17, , ,me,nehqa5ji, ,2019-07-11T19:42:17+02:00,paracetamol,500,paracetamol-42menl,19:42:17 ,medicine,mg
+259,,,11/07/2019 ,11/07/2019 19:42:16, ,00:30:00,sy,22v3cqnf,8,2019-07-11T19:42:16+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:42:16 ,symptom, 
+260,,,11/07/2019 ,11/07/2019 14:09:17, , ,me,a26k0ao3, ,2019-07-11T15:12:03+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,14:09:17 ,medicine,mg
+261,,,11/07/2019 ,11/07/2019 14:09:14, , ,me,ua5b7fxz, ,2019-07-11T15:11:54+02:00,tramadol,50,tramadol-95menl,14:09:14 ,medicine,mg
+262,,,11/07/2019 ,11/07/2019 14:09:13, , ,me,f4aqicox, ,2019-07-11T15:11:44+02:00,paracetamol,500,paracetamol-42menl,14:09:13 ,medicine,mg
+263,,,11/07/2019 ,11/07/2019 14:09:12, ,01:00:00,sy,7l319557,8,2019-07-11T15:11:25+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:09:12 ,symptom, 
+264,,,11/07/2019 ,11/07/2019 11:41:57, , ,sy,5uvqd7rc,4,2019-07-11T11:41:57+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:41:57 ,symptom, 
+265,,,10/07/2019 ,10/07/2019 22:04:47, , ,sy,k1bsetes,5,2019-07-10T22:04:47+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,22:04:47 ,symptom, 
+266,,,10/07/2019 ,10/07/2019 20:46:26, , ,me,2adj13qb, ,2019-07-10T20:46:26+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,20:46:26 ,medicine,mg
+267,,,10/07/2019 ,10/07/2019 20:46:24, , ,me,qg01akl8, ,2019-07-10T20:46:24+02:00,tramadol,50,tramadol-95menl,20:46:24 ,medicine,mg
+268,,,10/07/2019 ,10/07/2019 20:46:23, , ,me,phzyhh67, ,2019-07-10T20:46:23+02:00,paracetamol,500,paracetamol-42menl,20:46:23 ,medicine,mg
+269,,,10/07/2019 ,10/07/2019 20:46:22, ,00:30:00,sy,o299dh2r,7,2019-07-10T20:46:22+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:46:22 ,symptom, 
+270,,,10/07/2019 ,10/07/2019 07:15:57, , ,me,1mr73l3c, ,2019-07-10T07:15:57+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,07:15:57 ,medicine,mg
+271,,,10/07/2019 ,10/07/2019 07:15:56, , ,me,7b9m3l8i, ,2019-07-10T07:15:56+02:00,tramadol,50,tramadol-95menl,07:15:56 ,medicine,mg
+272,,,10/07/2019 ,10/07/2019 07:15:55, , ,me,6b4x49eh, ,2019-07-10T07:15:55+02:00,paracetamol,500,paracetamol-42menl,07:15:55 ,medicine,mg
+273,,,10/07/2019 ,10/07/2019 07:15:54, ,00:30:00,sy,a1d2l2pn,7,2019-07-10T07:15:54+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,07:15:54 ,symptom, 
+274,,,09/07/2019 ,09/07/2019 23:26:56, , ,me,94rj0lja, ,2019-07-09T23:26:56+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,23:26:56 ,medicine,mg
+275,,,09/07/2019 ,09/07/2019 23:26:55, , ,me,ji2lpl1q, ,2019-07-09T23:26:55+02:00,tramadol,50,tramadol-95menl,23:26:55 ,medicine,mg
+276,,,09/07/2019 ,09/07/2019 23:26:54, , ,me,j8wxw7ae, ,2019-07-09T23:26:54+02:00,paracetamol,500,paracetamol-42menl,23:26:54 ,medicine,mg
+277,,,09/07/2019 ,09/07/2019 23:26:52, ,00:30:00,sy,cmjsddlm,7,2019-07-09T23:26:52+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:26:52 ,symptom, 
+278,,,09/07/2019 ,09/07/2019 17:26:42, , ,sy,w9nlu887,4,2019-07-09T23:27:58+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,17:26:42 ,symptom, 
+279,,,09/07/2019 ,09/07/2019 14:26:38, , ,sy,1kdpl8c1,4,2019-07-09T23:27:41+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,14:26:38 ,symptom, 
+280,,,09/07/2019 ,09/07/2019 12:26:34, , ,sy,zk2mwqn0,4,2019-07-15T11:58:10+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:26:34 ,symptom, 
+281,,,09/07/2019 ,09/07/2019 11:42:13, , ,me,ai8veq22, ,2019-07-09T11:42:13+02:00,tramadol,50,tramadol-95menl,11:42:13 ,medicine,mg
+282,,,09/07/2019 ,09/07/2019 11:42:12, , ,me,wujoeqti, ,2019-07-09T11:42:12+02:00,paracetamol,500,paracetamol-42menl,11:42:12 ,medicine,mg
+283,,,09/07/2019 ,09/07/2019 11:42:11, ,00:30:00,sy,6u18nlsm,8,2019-07-09T11:42:11+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:42:11 ,symptom, 
+284,,,08/07/2019 ,08/07/2019 22:47:55, , ,me,l6pvt276, ,2019-07-08T22:47:55+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,22:47:55 ,medicine,mg
+285,,,08/07/2019 ,08/07/2019 22:47:53, , ,me,v6pp94zs, ,2019-07-08T22:47:53+02:00,tramadol,50,tramadol-95menl,22:47:53 ,medicine,mg
+286,,,08/07/2019 ,08/07/2019 22:47:52, , ,me,ts5961si, ,2019-07-08T22:47:52+02:00,paracetamol,500,paracetamol-42menl,22:47:52 ,medicine,mg
+287,,,08/07/2019 ,08/07/2019 22:47:51, ,00:30:00,sy,t59uf8cp,7,2019-07-08T22:47:51+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:47:51 ,symptom, 
+288,,,08/07/2019 ,08/07/2019 16:59:25, , ,me,kbdohs0u, ,2019-07-08T16:59:25+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,16:59:25 ,medicine,mg
+289,,,08/07/2019 ,08/07/2019 16:59:24, , ,me,2713w4fp, ,2019-07-08T16:59:24+02:00,tramadol,50,tramadol-95menl,16:59:24 ,medicine,mg
+290,,,08/07/2019 ,08/07/2019 16:59:23, , ,me,jtkhwcut, ,2019-07-08T16:59:23+02:00,paracetamol,500,paracetamol-42menl,16:59:23 ,medicine,mg
+291,,,08/07/2019 ,08/07/2019 16:59:22, ,00:30:00,sy,cngy5sky,8,2019-07-08T16:59:22+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:59:22 ,symptom, 
+292,,,08/07/2019 ,08/07/2019 11:43:14, , ,me,rkpenrkv, ,2019-07-08T11:43:14+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,11:43:14 ,medicine,mg
+293,,,08/07/2019 ,08/07/2019 11:43:13, , ,me,b0csh2x6, ,2019-07-08T11:43:13+02:00,tramadol,50,tramadol-95menl,11:43:13 ,medicine,mg
+294,,,08/07/2019 ,08/07/2019 11:43:12, , ,me,g1l87l7h, ,2019-07-08T11:43:12+02:00,paracetamol,500,paracetamol-42menl,11:43:12 ,medicine,mg
+295,,,08/07/2019 ,08/07/2019 11:43:11, ,00:30:00,sy,p0wh62si,7,2019-07-08T11:43:11+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:43:11 ,symptom, 
+296,,,07/07/2019 ,07/07/2019 19:09:45, , ,me,ajijhiat, ,2019-07-07T19:09:45+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,19:09:45 ,medicine,mg
+297,,,07/07/2019 ,07/07/2019 19:09:44, , ,me,3dgy2zfd, ,2019-07-07T19:09:44+02:00,tramadol,50,tramadol-95menl,19:09:44 ,medicine,mg
+298,,,07/07/2019 ,07/07/2019 19:09:43, , ,me,x7wblk66, ,2019-07-07T19:09:43+02:00,paracetamol,500,paracetamol-42menl,19:09:43 ,medicine,mg
+299,,,07/07/2019 ,07/07/2019 19:09:41, ,01:00:00,sy,ct2pcwxm,7,2019-07-07T19:09:41+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:09:41 ,symptom, 
+300,,,07/07/2019 ,07/07/2019 04:11:04, , ,me,erstnrax, ,2019-07-07T04:11:04+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,04:11:04 ,medicine,mg
+301,,,07/07/2019 ,07/07/2019 04:11:02, , ,me,6nt5xhry, ,2019-07-07T04:11:02+02:00,tramadol,50,tramadol-95menl,04:11:02 ,medicine,mg
+302,,,07/07/2019 ,07/07/2019 04:11:01, , ,me,sbte7jy5, ,2019-07-07T04:11:01+02:00,paracetamol,500,paracetamol-42menl,04:11:01 ,medicine,mg
+303,,,07/07/2019 ,07/07/2019 04:11:00, ,01:00:00,sy,2e4vmdkm,8,2019-07-07T04:11:00+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,04:11:00 ,symptom, 
+304,,,06/07/2019 ,06/07/2019 21:24:35, , ,me,ma4ii8q0, ,2019-07-06T21:24:35+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,21:24:35 ,medicine,mg
+305,,,06/07/2019 ,06/07/2019 21:24:33, , ,me,f86vc3c2, ,2019-07-06T21:24:33+02:00,paracetamol,500,paracetamol-42menl,21:24:33 ,medicine,mg
+306,,,06/07/2019 ,06/07/2019 21:24:33, , ,me,w2ydb761, ,2019-07-06T21:24:33+02:00,tramadol,50,tramadol-95menl,21:24:33 ,medicine,mg
+307,,,06/07/2019 ,06/07/2019 21:24:31, ,00:30:00,sy,xpt95n2r,7,2019-07-06T21:24:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:24:31 ,symptom, 
+308,,,06/07/2019 ,06/07/2019 16:30:42, , ,me,kb3ok9ud, ,2019-07-08T11:44:06+02:00,tramadol,50,tramadol-95menl,16:30:42 ,medicine,mg
+309,,,06/07/2019 ,06/07/2019 16:30:41, , ,me,5hrp0qfv, ,2019-07-08T11:44:22+02:00,paracetamol,500,paracetamol-42menl,16:30:41 ,medicine,mg
+310,,,06/07/2019 ,06/07/2019 13:43:02, , ,sy,dlo52bxr,4,2019-07-06T13:43:02+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,13:43:02 ,symptom, 
+311,,,06/07/2019 ,06/07/2019 13:04:30, , ,me,jyhi030r, ,2019-07-06T13:04:30+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,13:04:30 ,medicine,mg
+312,,,06/07/2019 ,06/07/2019 13:04:28, , ,me,89megpnc, ,2019-07-06T13:04:28+02:00,paracetamol,500,paracetamol-42menl,13:04:28 ,medicine,mg
+313,,,06/07/2019 ,06/07/2019 13:04:28, , ,me,ffl769m5, ,2019-07-06T13:04:28+02:00,tramadol,50,tramadol-95menl,13:04:28 ,medicine,mg
+314,,,06/07/2019 ,06/07/2019 13:04:26, ,01:00:00,sy,2kijhxzd,6,2019-07-06T13:04:26+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:04:26 ,symptom, 
+315,,,06/07/2019 ,06/07/2019 00:16:08, , ,me,meodnxgb, ,2019-07-06T00:16:08+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,00:16:08 ,medicine,mg
+316,,,06/07/2019 ,06/07/2019 00:16:06, , ,me,mkb0tfg7, ,2019-07-06T00:16:06+02:00,tramadol,50,tramadol-95menl,00:16:06 ,medicine,mg
+317,,,06/07/2019 ,06/07/2019 00:16:05, , ,me,n6z7gwhq, ,2019-07-06T00:16:05+02:00,paracetamol,500,paracetamol-42menl,00:16:05 ,medicine,mg
+318,,,06/07/2019 ,06/07/2019 00:16:04, ,00:30:00,sy,8zm0dgd6,7,2019-07-06T00:16:04+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:16:04 ,symptom, 
+319,,,05/07/2019 ,05/07/2019 14:59:05, , ,me,65nq01ib, ,2019-07-05T14:59:05+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,14:59:05 ,medicine,mg
+320,,,05/07/2019 ,05/07/2019 14:59:02, ,01:00:00,sy,mht4xfyg,7,2019-07-05T14:59:02+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:59:02 ,symptom, 
+321,,,05/07/2019 ,05/07/2019 13:58:12, , ,me,uhu1da8q, ,2019-07-05T13:58:12+02:00,paracetamol,500,paracetamol-42menl,13:58:12 ,medicine,mg
+322,,,05/07/2019 ,05/07/2019 13:58:12, , ,me,b3dv7umi, ,2019-07-05T13:58:12+02:00,tramadol,50,tramadol-95menl,13:58:12 ,medicine,mg
+323,,,05/07/2019 ,05/07/2019 13:58:11, , ,sy,pmnc0lr5,5,2019-07-05T13:58:11+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,13:58:11 ,symptom, 
+324,,,05/07/2019 ,05/07/2019 11:00:30, , ,me,0m2z7sws, ,2019-07-05T14:59:59+02:00,Botox, ,botox-112menl,11:00:30 ,medicine,mg
+325,,,04/07/2019 ,04/07/2019 17:22:48, , ,me,yx9mfatp, ,2019-07-04T17:22:48+02:00,tramadol,50,tramadol-95menl,17:22:48 ,medicine,mg
+326,,,04/07/2019 ,04/07/2019 17:22:47, , ,me,crrfa3sp, ,2019-07-04T17:22:47+02:00,paracetamol,500,paracetamol-42menl,17:22:47 ,medicine,mg
+327,,,04/07/2019 ,04/07/2019 17:22:46, , ,sy,ld1njoai,6,2019-07-04T17:22:46+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,17:22:46 ,symptom, 
+328,,,04/07/2019 ,04/07/2019 10:20:19, , ,me,pvzi3qyz, ,2019-07-04T10:20:19+02:00,paracetamol,500,paracetamol-42menl,10:20:19 ,medicine,mg
+329,,,04/07/2019 ,04/07/2019 10:20:19, , ,me,r1hsdaqs, ,2019-07-04T10:20:19+02:00,tramadol,50,tramadol-95menl,10:20:19 ,medicine,mg
+330,,,04/07/2019 ,04/07/2019 10:20:17, ,01:00:00,sy,kygw3o1n,5,2019-07-04T10:20:17+02:00,Hoofdpijn, ,hoofdpijn-27synl,10:20:17 ,symptom, 
+331,,,04/07/2019 ,04/07/2019 01:17:38, , ,me,u9b4j4zt, ,2019-07-04T01:17:38+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,01:17:38 ,medicine,mg
+332,,,04/07/2019 ,04/07/2019 01:17:36, , ,me,4i54t2ge, ,2019-07-04T01:17:36+02:00,tramadol,50,tramadol-95menl,01:17:36 ,medicine,mg
+333,,,04/07/2019 ,04/07/2019 01:17:35, , ,me,qufrc3dq, ,2019-07-04T01:17:35+02:00,paracetamol,500,paracetamol-42menl,01:17:35 ,medicine,mg
+334,,,04/07/2019 ,04/07/2019 01:17:34, ,01:00:00,sy,djsexd3a,8,2019-07-04T01:17:34+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,01:17:34 ,symptom, 
+335,,,03/07/2019 ,03/07/2019 22:04:38, , ,me,10tq1qi8, ,2019-07-03T22:04:38+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,22:04:38 ,medicine,mg
+336,,,03/07/2019 ,03/07/2019 22:04:36, , ,me,dkpxqfss, ,2019-07-03T22:04:36+02:00,tramadol,50,tramadol-95menl,22:04:36 ,medicine,mg
+337,,,03/07/2019 ,03/07/2019 22:04:35, , ,me,hyiuzqx0, ,2019-07-03T22:04:35+02:00,paracetamol,500,paracetamol-42menl,22:04:35 ,medicine,mg
+338,,,03/07/2019 ,03/07/2019 22:04:15, ,00:30:00,sy,1xo3zl9f,8,2019-07-03T22:04:15+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:04:15 ,symptom, 
+339,,,03/07/2019 ,03/07/2019 16:30:34, ,00:30:00,sy,tzjr9xuc,7,2019-07-03T22:05:45+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:30:34 ,symptom, 
+340,,,03/07/2019 ,03/07/2019 16:30:20, , ,me,ey0hucip, ,2019-07-03T22:06:34+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,16:30:20 ,medicine,mg
+341,,,03/07/2019 ,03/07/2019 16:30:18, , ,me,wiurkbl9, ,2019-07-03T22:06:18+02:00,tramadol,50,tramadol-95menl,16:30:18 ,medicine,mg
+342,,,03/07/2019 ,03/07/2019 16:30:17, , ,me,m5zkdv39, ,2019-07-03T22:06:03+02:00,paracetamol,500,paracetamol-42menl,16:30:17 ,medicine,mg
+343,,,02/07/2019 ,02/07/2019 23:52:37, , ,me,szboyod3, ,2019-07-02T23:52:37+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,23:52:37 ,medicine,mg
+344,,,02/07/2019 ,02/07/2019 23:52:36, , ,me,26pbduhd, ,2019-07-02T23:52:36+02:00,tramadol,50,tramadol-95menl,23:52:36 ,medicine,mg
+345,,,02/07/2019 ,02/07/2019 23:52:35, , ,me,9yem1r73, ,2019-07-02T23:52:35+02:00,paracetamol,500,paracetamol-42menl,23:52:35 ,medicine,mg
+346,,,02/07/2019 ,02/07/2019 23:52:34, ,00:30:00,sy,zk4xdfoe,7,2019-07-02T23:52:34+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:52:34 ,symptom, 
+347,,,02/07/2019 ,02/07/2019 20:25:48, , ,me,wolus27o, ,2019-07-02T20:25:48+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,20:25:48 ,medicine,mg
+348,,,02/07/2019 ,02/07/2019 20:25:47, , ,me,iezjj3b0, ,2019-07-02T20:25:47+02:00,tramadol,50,tramadol-95menl,20:25:47 ,medicine,mg
+349,,,02/07/2019 ,02/07/2019 20:25:46, , ,me,325gd62o, ,2019-07-02T20:25:46+02:00,paracetamol,500,paracetamol-42menl,20:25:46 ,medicine,mg
+350,,,02/07/2019 ,02/07/2019 20:25:44, ,00:30:00,sy,jghh76do,8,2019-07-02T20:25:44+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:25:44 ,symptom, 
+351,,,02/07/2019 ,02/07/2019 12:07:56, , ,me,irpb156n, ,2019-07-02T12:07:56+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,12:07:56 ,medicine,mg
+352,,,02/07/2019 ,02/07/2019 12:07:54, , ,me,agrjmy8d, ,2019-07-02T12:07:54+02:00,tramadol,50,tramadol-95menl,12:07:54 ,medicine,mg
+353,,,02/07/2019 ,02/07/2019 12:07:53, , ,me,hv8fd7fc, ,2019-07-02T12:07:53+02:00,paracetamol,500,paracetamol-42menl,12:07:53 ,medicine,mg
+354,,,02/07/2019 ,02/07/2019 12:07:51, ,00:30:00,sy,qt55ilpa,7,2019-07-02T12:07:51+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:07:51 ,symptom, 
+355,,,02/07/2019 ,02/07/2019 11:48:19, , ,sy,f1xyr329,4,2019-07-02T11:48:19+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:48:19 ,symptom, 
+356,,,02/07/2019 ,02/07/2019 00:23:42, , ,me,0vjoqyvx, ,2019-07-02T00:23:42+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,00:23:42 ,medicine,mg
+357,,,02/07/2019 ,02/07/2019 00:23:40, , ,me,suethud9, ,2019-07-02T00:23:40+02:00,tramadol,50,tramadol-95menl,00:23:40 ,medicine,mg
+358,,,02/07/2019 ,02/07/2019 00:23:39, , ,me,w9evktpn, ,2019-07-02T00:23:39+02:00,paracetamol,500,paracetamol-42menl,00:23:39 ,medicine,mg
+359,,,02/07/2019 ,02/07/2019 00:23:37, ,00:30:00,sy,6wjy4j4k,7,2019-07-02T00:23:37+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:23:37 ,symptom, 
+360,,,01/07/2019 ,01/07/2019 23:52:29, , ,sy,v865tvhx,4,2019-07-01T23:52:29+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,23:52:29 ,symptom, 
+361,,,01/07/2019 ,01/07/2019 18:29:51, , ,me,i4noss3g, ,2019-07-01T18:29:51+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,18:29:51 ,medicine,mg
+362,,,01/07/2019 ,01/07/2019 18:29:49, , ,me,zyrdljxi, ,2019-07-01T18:29:49+02:00,paracetamol,500,paracetamol-42menl,18:29:49 ,medicine,mg
+363,,,01/07/2019 ,01/07/2019 18:29:49, , ,me,jkxwf0kk, ,2019-07-01T18:29:49+02:00,tramadol,50,tramadol-95menl,18:29:49 ,medicine,mg
+364,,,01/07/2019 ,01/07/2019 18:29:48, ,00:30:00,sy,mggasn75,7,2019-07-01T18:29:48+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:29:48 ,symptom, 
+365,,,01/07/2019 ,01/07/2019 14:47:24, , ,me,6bb1p7ah, ,2019-07-01T14:47:24+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,14:47:24 ,medicine,mg
+366,,,01/07/2019 ,01/07/2019 14:47:23, , ,me,7m3sq1ef, ,2019-07-01T14:47:23+02:00,tramadol,50,tramadol-95menl,14:47:23 ,medicine,mg
+367,,,01/07/2019 ,01/07/2019 14:47:22, , ,me,5qxmey96, ,2019-07-01T14:47:22+02:00,paracetamol,500,paracetamol-42menl,14:47:22 ,medicine,mg
+368,,,01/07/2019 ,01/07/2019 14:47:21, ,00:30:00,sy,cml5a0wh,8,2019-07-01T14:47:21+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:47:21 ,symptom, 
+369,,,01/07/2019 ,01/07/2019 11:16:40, , ,sy,ur97saau,4,2019-07-01T11:16:40+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:16:40 ,symptom, 
+370,,,30/06/2019 ,30/06/2019 18:56:57, , ,me,4n0c3n7t, ,2019-06-30T18:56:57+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,18:56:57 ,medicine,mg
+371,,,30/06/2019 ,30/06/2019 18:56:55, , ,me,a0cey8em, ,2019-06-30T18:56:55+02:00,tramadol,50,tramadol-95menl,18:56:55 ,medicine,mg
+372,,,30/06/2019 ,30/06/2019 18:56:54, , ,me,idxiwvfd, ,2019-06-30T18:56:54+02:00,paracetamol,500,paracetamol-42menl,18:56:54 ,medicine,mg
+373,,,30/06/2019 ,30/06/2019 18:56:52, ,00:30:00,sy,uqh9wtdd,7,2019-06-30T18:56:52+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:56:52 ,symptom, 
+374,,,30/06/2019 ,30/06/2019 13:54:56, , ,me,qagdz01t, ,2019-06-30T13:54:56+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,13:54:56 ,medicine,mg
+375,,,30/06/2019 ,30/06/2019 13:54:53, , ,me,41cltv3w, ,2019-06-30T13:54:53+02:00,tramadol,50,tramadol-95menl,13:54:53 ,medicine,mg
+376,,,30/06/2019 ,30/06/2019 13:54:52, , ,me,5taic9zw, ,2019-06-30T13:54:52+02:00,paracetamol,500,paracetamol-42menl,13:54:52 ,medicine,mg
+377,,,30/06/2019 ,30/06/2019 13:54:51, ,01:00:00,sy,vj7fgi5v,8,2019-06-30T13:54:51+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:54:51 ,symptom, 
+378,,,29/06/2019 ,29/06/2019 22:30:50, , ,me,ulyjp7n2, ,2019-06-29T22:52:08+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,22:30:50 ,medicine,mg
+379,,,29/06/2019 ,29/06/2019 22:30:46, , ,me,90r9igzi, ,2019-06-29T22:52:18+02:00,tramadol,50,tramadol-95menl,22:30:46 ,medicine,mg
+380,,,29/06/2019 ,29/06/2019 22:30:45, , ,me,7kl47kek, ,2019-06-29T22:52:27+02:00,paracetamol,500,paracetamol-42menl,22:30:45 ,medicine,mg
+381,,,29/06/2019 ,29/06/2019 22:30:42, ,01:00:00,sy,g27i65li,9,2019-06-29T22:52:46+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:30:42 ,symptom, 
+382,,,29/06/2019 ,29/06/2019 16:07:23, , ,me,ljbgdtuj, ,2019-06-29T16:07:23+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,16:07:23 ,medicine,mg
+383,,,29/06/2019 ,29/06/2019 16:07:21, , ,me,ejbawiwh, ,2019-06-29T16:07:21+02:00,tramadol,50,tramadol-95menl,16:07:21 ,medicine,mg
+384,,,29/06/2019 ,29/06/2019 16:07:20, , ,me,lw6g5pou, ,2019-06-29T16:07:20+02:00,paracetamol,500,paracetamol-42menl,16:07:20 ,medicine,mg
+385,,,29/06/2019 ,29/06/2019 16:07:18, ,00:30:00,sy,6y0uatvo,8,2019-06-29T16:07:18+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:07:18 ,symptom, 
+386,,,29/06/2019 ,29/06/2019 15:28:09, , ,sy,x9musbx4,3,2019-06-29T15:28:09+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,15:28:09 ,symptom, 
+387,,,29/06/2019 ,29/06/2019 11:06:18, , ,sy,y05adevs,3,2019-06-29T11:06:18+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:06:18 ,symptom, 
+388,,,28/06/2019 ,28/06/2019 23:50:54, , ,me,rovvq3cx, ,2019-06-29T11:06:05+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,23:50:54 ,medicine,mg
+389,,,28/06/2019 ,28/06/2019 23:50:48, , ,me,axdct1rj, ,2019-06-29T11:05:50+02:00,paracetamol,500,paracetamol-42menl,23:50:48 ,medicine,mg
+390,,,28/06/2019 ,28/06/2019 23:50:48, , ,me,7utlr8b1, ,2019-06-29T11:05:35+02:00,tramadol,50,tramadol-95menl,23:50:48 ,medicine,mg
+391,,,28/06/2019 ,28/06/2019 23:50:47, ,00:30:00,sy,rwpe30gn,8,2019-06-29T11:05:22+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:50:47 ,symptom, 
+392,,,28/06/2019 ,28/06/2019 16:19:42, , ,me,y6t5mlyv, ,2019-06-28T16:19:42+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,16:19:42 ,medicine,mg
+393,,,28/06/2019 ,28/06/2019 16:19:39, , ,me,m6bkh48a, ,2019-06-28T16:19:39+02:00,tramadol,50,tramadol-95menl,16:19:39 ,medicine,mg
+394,,,28/06/2019 ,28/06/2019 16:19:38, , ,me,z4jpvke7, ,2019-06-28T16:19:38+02:00,paracetamol,500,paracetamol-42menl,16:19:38 ,medicine,mg
+395,,,28/06/2019 ,28/06/2019 16:19:36, ,00:30:00,sy,vhx17gio,7,2019-06-28T16:19:36+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:19:36 ,symptom, 
+396,,,28/06/2019 ,28/06/2019 08:43:14, , ,ma,b368qhcg, ,2019-06-28T08:43:14+02:00,magic-mushrooms,300,magic-mushrooms-12manl,08:43:14 ,altmedicine,mg
+397,,,27/06/2019 ,27/06/2019 22:03:24, , ,me,x8ur9v8o, ,2019-06-27T22:03:24+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,22:03:24 ,medicine,mg
+398,,,27/06/2019 ,27/06/2019 22:03:19, , ,me,jtq55dlb, ,2019-06-27T22:03:19+02:00,paracetamol,500,paracetamol-42menl,22:03:19 ,medicine,mg
+399,,,27/06/2019 ,27/06/2019 22:03:19, , ,me,m3amjk15, ,2019-06-27T22:03:19+02:00,tramadol,50,tramadol-95menl,22:03:19 ,medicine,mg
+400,,,27/06/2019 ,27/06/2019 22:03:17, ,00:30:00,sy,4q9y12wl,8,2019-06-27T22:03:17+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:03:17 ,symptom, 
+401,,,27/06/2019 ,27/06/2019 17:24:17, , ,me,691alqm6, ,2019-06-27T17:24:17+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,17:24:17 ,medicine,mg
+402,,,27/06/2019 ,27/06/2019 17:24:13, , ,me,i0ievvz1, ,2019-06-27T17:24:13+02:00,tramadol,50,tramadol-95menl,17:24:13 ,medicine,mg
+403,,,27/06/2019 ,27/06/2019 17:24:12, , ,me,w00rpm7i, ,2019-06-27T17:24:12+02:00,paracetamol,500,paracetamol-42menl,17:24:12 ,medicine,mg
+404,,,27/06/2019 ,27/06/2019 17:24:09, ,00:15:00,sy,tpztz5cb,8,2019-06-27T17:24:09+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:24:09 ,symptom, 
+405,,,27/06/2019 ,27/06/2019 17:10:42, , ,me,uipa2j71, ,2019-06-27T17:11:01+02:00,zuurstof,25,zuurstof-101menl,17:10:42 ,medicine,l/m
+406,,,27/06/2019 ,27/06/2019 17:10:37, ,00:30:00,sy,bczuczav,8,2019-06-27T17:10:37+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:10:37 ,symptom, 
+407,,,27/06/2019 ,27/06/2019 15:16:27, , ,me,v4sk4i1f, ,2019-06-27T15:16:27+02:00,zuurstof,12,zuurstof-101menl,15:16:27 ,medicine,l/m
+408,,,27/06/2019 ,27/06/2019 15:16:20, ,00:30:00,sy,2tj7boek,7,2019-06-27T15:16:20+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:16:20 ,symptom, 
+409,,,27/06/2019 ,27/06/2019 12:44:34, , ,sy,x9f52evd,7,2019-06-27T12:44:34+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:44:34 ,symptom, 
+410,,,27/06/2019 ,27/06/2019 12:44:16, , ,me,gd7ngv9n, ,2019-06-27T12:44:16+02:00,zuurstof,12,zuurstof-101menl,12:44:16 ,medicine,l/m
+411,,,27/06/2019 ,27/06/2019 12:19:55, , ,me,bbh760ev, ,2019-06-27T12:19:55+02:00,zuurstof,12,zuurstof-101menl,12:19:55 ,medicine,l/m
+412,,,27/06/2019 ,27/06/2019 12:19:51, ,00:30:00,sy,qfmcgocl,7,2019-06-27T12:19:51+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:19:51 ,symptom, 
+413,,,27/06/2019 ,27/06/2019 10:52:07, , ,sy,bkr6kl5f,3,2019-06-27T10:52:07+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:52:07 ,symptom, 
+414,,,27/06/2019 ,27/06/2019 08:08:01, , ,ma,o3p6pref, ,2019-06-27T08:08:01+02:00,magic-mushrooms,300,magic-mushrooms-12manl,08:08:01 ,altmedicine,mg
+415,,,26/06/2019 ,26/06/2019 21:34:07, , ,me,pp08plz2, ,2019-06-26T21:34:07+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,21:34:07 ,medicine,mg
+416,,,26/06/2019 ,26/06/2019 21:34:03, , ,me,9zc5ewpy, ,2019-06-26T21:34:03+02:00,paracetamol,500,paracetamol-42menl,21:34:03 ,medicine,mg
+417,,,26/06/2019 ,26/06/2019 21:34:03, , ,me,yaepc58x, ,2019-06-26T21:34:03+02:00,tramadol,50,tramadol-95menl,21:34:03 ,medicine,mg
+418,,,26/06/2019 ,26/06/2019 21:33:18, ,00:30:00,sy,dyj99f89,8,2019-06-26T21:33:18+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:33:18 ,symptom, 
+419,,,26/06/2019 ,26/06/2019 12:30:31, , ,sy,l6vocd7y,3,2019-06-26T13:52:19+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:30:31 ,symptom, 
+420,,,26/06/2019 ,26/06/2019 11:30:22, , ,sy,zxdbvpj8,4,2019-06-26T13:51:53+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:30:22 ,symptom, 
+421,,,26/06/2019 ,26/06/2019 10:58:26, , ,me,ga8b1xs8, ,2019-06-26T10:58:26+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,10:58:26 ,medicine,mg
+422,,,26/06/2019 ,26/06/2019 10:58:22, , ,me,lzlaxomg, ,2019-06-26T10:58:22+02:00,paracetamol,500,paracetamol-42menl,10:58:22 ,medicine,mg
+423,,,26/06/2019 ,26/06/2019 10:58:22, , ,me,2oozpbl4, ,2019-06-26T10:58:22+02:00,tramadol,50,tramadol-95menl,10:58:22 ,medicine,mg
+424,,,26/06/2019 ,26/06/2019 10:58:19, ,00:30:00,sy,rd5dmu2t,8,2019-06-26T10:58:19+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,10:58:19 ,symptom, 
+425,,,26/06/2019 ,26/06/2019 08:59:47, , ,ma,8w9ya4ta, ,2019-06-26T08:59:47+02:00,magic-mushrooms,300,magic-mushrooms-12manl,08:59:47 ,altmedicine,mg
+426,,,26/06/2019 ,26/06/2019 07:42:39, , ,sy,4d9j51pp,3,2019-06-26T07:42:39+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,07:42:39 ,symptom, 
+427,,,25/06/2019 ,25/06/2019 23:00:04, , ,sy,8afob8sh,4,2019-06-25T23:00:04+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,23:00:04 ,symptom, 
+428,,,25/06/2019 ,25/06/2019 17:31:27, ,01:00:00,sy,aq7t392f,8,2019-06-25T17:31:27+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:31:27 ,symptom, 
+429,,,25/06/2019 ,25/06/2019 17:31:16, , ,me,aptorbph, ,2019-06-25T17:31:16+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,17:31:16 ,medicine,mg
+430,,,25/06/2019 ,25/06/2019 17:31:11, , ,me,12ihx6ed, ,2019-06-25T17:31:11+02:00,paracetamol,500,paracetamol-42menl,17:31:11 ,medicine,mg
+431,,,25/06/2019 ,25/06/2019 17:31:11, , ,me,qcxcgug7, ,2019-06-25T17:31:11+02:00,tramadol,50,tramadol-95menl,17:31:11 ,medicine,mg
+432,,,25/06/2019 ,25/06/2019 16:58:06, , ,sy,9y6pt5jg,4,2019-06-25T16:58:06+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,16:58:06 ,symptom, 
+433,,,25/06/2019 ,25/06/2019 11:37:06, ,00:30:00,sy,datqa8tc,7,2019-06-25T11:37:06+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:37:06 ,symptom, 
+434,,,25/06/2019 ,25/06/2019 11:36:43, , ,me,5sx2fr6p, ,2019-06-25T11:36:43+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,11:36:43 ,medicine,mg
+435,,,25/06/2019 ,25/06/2019 11:36:35, , ,me,ob9o29y1, ,2019-06-25T11:36:35+02:00,tramadol,50,tramadol-95menl,11:36:35 ,medicine,mg
+436,,,25/06/2019 ,25/06/2019 11:36:34, , ,me,rdaqfncw, ,2019-06-25T11:36:34+02:00,paracetamol,500,paracetamol-42menl,11:36:34 ,medicine,mg
+437,,,25/06/2019 ,25/06/2019 10:49:51, , ,sy,56u43c65,3,2019-06-25T10:49:51+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:49:51 ,symptom, 
+438,,,25/06/2019 ,25/06/2019 09:28:44, , ,ma,kbazg7u5, ,2019-06-25T09:28:44+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:28:44 ,altmedicine,mg
+439,,,24/06/2019 ,24/06/2019 20:09:18, , ,me,dd38a0x7, ,2019-06-24T20:09:18+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,20:09:18 ,medicine,mg
+440,,,24/06/2019 ,24/06/2019 20:09:14, , ,me,5yrplglb, ,2019-06-24T20:09:14+02:00,tramadol,50,tramadol-95menl,20:09:14 ,medicine,mg
+441,,,24/06/2019 ,24/06/2019 20:09:13, , ,me,74zljzzv, ,2019-06-24T20:09:13+02:00,paracetamol,500,paracetamol-42menl,20:09:13 ,medicine,mg
+442,,,24/06/2019 ,24/06/2019 20:09:12, ,00:30:00,sy,c6gubhnl,8,2019-06-24T20:09:12+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:09:12 ,symptom, 
+443,,,24/06/2019 ,24/06/2019 17:24:00, , ,sy,zob1wi6s,4,2019-06-24T17:24:00+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,17:24:00 ,symptom, 
+444,,,24/06/2019 ,24/06/2019 12:28:30, , ,me,aif41ibx, ,2019-06-24T12:28:30+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,12:28:30 ,medicine,mg
+445,,,24/06/2019 ,24/06/2019 12:28:27, , ,me,ehh5jgcw, ,2019-06-24T12:28:27+02:00,tramadol,50,tramadol-95menl,12:28:27 ,medicine,mg
+446,,,24/06/2019 ,24/06/2019 12:28:26, , ,me,bu74s0ld, ,2019-06-24T12:28:26+02:00,paracetamol,500,paracetamol-42menl,12:28:26 ,medicine,mg
+447,,,24/06/2019 ,24/06/2019 12:28:24, ,00:30:00,sy,clfpts0f,8,2019-06-24T12:28:24+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:28:24 ,symptom, 
+448,,,24/06/2019 ,24/06/2019 09:04:51, , ,ma,zdlyn14l, ,2019-06-24T09:04:51+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:04:51 ,altmedicine,mg
+449,,,23/06/2019 ,23/06/2019 14:38:27, , ,sy,31iuzron,4,2019-06-23T14:38:27+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,14:38:27 ,symptom, 
+450,,,23/06/2019 ,23/06/2019 09:00:55, , ,ma,hdksc5cc, ,2019-06-23T14:38:53+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:00:55 ,altmedicine,mg
+451,,,23/06/2019 ,23/06/2019 04:09:41, ,01:00:00,sy,2e2rim2j,7,2019-06-23T04:09:41+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,04:09:41 ,symptom, 
+452,,,22/06/2019 ,22/06/2019 12:09:18, , ,sy,b9dt78ou,3,2019-06-22T12:09:18+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:09:18 ,symptom, 
+453,,,22/06/2019 ,22/06/2019 09:33:01, , ,ma,4nycbvhx, ,2019-06-22T09:33:01+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:33:01 ,altmedicine,mg
+454,,,21/06/2019 ,21/06/2019 14:04:29, , ,sy,6fzz34lp,3,2019-06-21T14:04:29+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,14:04:29 ,symptom, 
+455,,,21/06/2019 ,21/06/2019 11:04:23, , ,sy,eu0fvwdt,4,2019-06-21T14:05:39+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:04:23 ,symptom, 
+456,,,21/06/2019 ,21/06/2019 09:29:36, , ,ma,dabw96np, ,2019-06-21T09:29:36+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:29:36 ,altmedicine,mg
+457,,,21/06/2019 ,21/06/2019 09:04:17, , ,sy,ke4aqlro,3,2019-06-21T14:05:34+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,09:04:17 ,symptom, 
+458,,,20/06/2019 ,20/06/2019 22:43:00, ,02:00:00,sy,g3rshcd9,6,2019-06-20T22:43:00+02:00,Hoofdpijn, ,hoofdpijn-27synl,22:43:00 ,symptom, 
+459,,,20/06/2019 ,20/06/2019 21:12:48, ,01:00:00,sy,ufotom8u,4,2019-06-20T21:12:48+02:00,Hoofdpijn, ,hoofdpijn-27synl,21:12:48 ,symptom, 
+460,,,20/06/2019 ,20/06/2019 20:27:28, , ,ma,q9llqj67, ,2019-06-20T20:27:28+02:00,magic-mushrooms,300,magic-mushrooms-12manl,20:27:28 ,altmedicine,mg
+461,,,20/06/2019 ,20/06/2019 19:37:48, ,02:00:00,sy,15gu2wcm,4,2019-06-20T19:37:48+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:37:48 ,symptom, 
+462,,,20/06/2019 ,20/06/2019 18:12:38, ,02:00:00,sy,u74csqra,4,2019-06-20T18:12:38+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:12:38 ,symptom, 
+463,,,20/06/2019 ,20/06/2019 17:36:58, , ,me,2oj9te0b, ,2019-06-20T19:37:21+02:00,tramadol,50,tramadol-95menl,17:36:58 ,medicine,mg
+464,,,20/06/2019 ,20/06/2019 17:36:57, , ,me,b7f55ml3, ,2019-06-20T19:37:28+02:00,paracetamol,500,paracetamol-42menl,17:36:57 ,medicine,mg
+465,,,20/06/2019 ,20/06/2019 12:01:46, , ,sy,vxv3w6q0,3,2019-06-20T12:01:46+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:01:46 ,symptom, 
+466,,,20/06/2019 ,20/06/2019 12:00:15, , ,ma,4xeobe5e, ,2019-06-20T12:00:15+02:00,magic-mushrooms,300,magic-mushrooms-12manl,12:00:15 ,altmedicine,mg
+467,,,20/06/2019 ,20/06/2019 09:00:19, , ,ma,b8d5zh47, ,2019-06-20T09:00:19+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:00:19 ,altmedicine,mg
+468,,,19/06/2019 ,19/06/2019 22:48:12, , ,sy,294xok8e,4,2019-06-19T22:48:12+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,22:48:12 ,symptom, 
+469,,,19/06/2019 ,19/06/2019 21:24:05, ,01:00:00,sy,p6ahihu9,7,2019-06-19T21:24:05+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:24:05 ,symptom, 
+470,,,19/06/2019 ,19/06/2019 21:23:51, , ,me,9y3om3jz, ,2019-06-19T21:23:51+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,21:23:51 ,medicine,mg
+471,,,19/06/2019 ,19/06/2019 21:23:46, , ,me,89ul19yl, ,2019-06-19T21:23:46+02:00,tramadol,50,tramadol-95menl,21:23:46 ,medicine,mg
+472,,,19/06/2019 ,19/06/2019 21:23:45, , ,me,opindbr6, ,2019-06-19T21:23:45+02:00,paracetamol,500,paracetamol-42menl,21:23:45 ,medicine,mg
+473,,,19/06/2019 ,19/06/2019 15:10:02, ,00:10:00,sy,uf1lkco2,8,2019-06-19T15:10:02+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:10:02 ,symptom, 
+474,,,19/06/2019 ,19/06/2019 15:09:50, , ,me,uklvx3gd, ,2019-06-19T15:09:50+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,15:09:50 ,medicine,mg
+475,,,19/06/2019 ,19/06/2019 15:05:31, ,01:00:00,sy,j8r0eaen,7,2019-06-19T15:05:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:05:31 ,symptom, 
+476,,,19/06/2019 ,19/06/2019 15:05:19, , ,me,ybr0ayzs, ,2019-06-19T15:05:19+02:00,tramadol,50,tramadol-95menl,15:05:19 ,medicine,mg
+477,,,19/06/2019 ,19/06/2019 15:05:18, , ,me,lad9acw5, ,2019-06-19T15:05:18+02:00,paracetamol,500,paracetamol-42menl,15:05:18 ,medicine,mg
+478,,,19/06/2019 ,19/06/2019 14:03:23, ,00:30:00,sy,qmgg7gtu,4,2019-06-19T14:03:23+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:03:23 ,symptom, 
+479,,,19/06/2019 ,19/06/2019 14:02:06, , ,ma,h5eoq2ny, ,2019-06-19T14:02:06+02:00,magic-mushrooms,300,magic-mushrooms-12manl,14:02:06 ,altmedicine,mg
+480,,,19/06/2019 ,19/06/2019 11:40:53, ,00:30:00,sy,ri3u5bo9,4,2019-06-19T11:41:18+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:40:53 ,symptom, 
+481,,,19/06/2019 ,19/06/2019 10:30:06, , ,ma,uy6p64bw, ,2019-06-19T11:13:29+02:00,magic-mushrooms,300,magic-mushrooms-12manl,10:30:06 ,altmedicine,mg
+482,,,19/06/2019 ,19/06/2019 08:09:24, , ,me,ipxpuzfl, ,2019-06-19T08:09:24+02:00,tramadol,50,tramadol-95menl,08:09:24 ,medicine,mg
+483,,,19/06/2019 ,19/06/2019 08:09:23, , ,me,56tuwi3c, ,2019-06-19T08:09:23+02:00,paracetamol,500,paracetamol-42menl,08:09:23 ,medicine,mg
+484,,,19/06/2019 ,19/06/2019 08:09:20, , ,sy,3y5rx423,5,2019-06-19T08:09:20+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,08:09:20 ,symptom, 
+485,,,18/06/2019 ,18/06/2019 21:18:06, ,01:00:00,sy,813420w8,5,2019-06-18T21:18:06+02:00,Hartkloppingen, ,hartkloppingen-41synl,21:18:06 ,symptom, 
+486,,,18/06/2019 ,18/06/2019 21:00:05, , ,me,htjzfc5m, ,2019-06-18T21:00:05+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,21:00:05 ,medicine,mg
+487,,,18/06/2019 ,18/06/2019 21:00:03, , ,me,xv6jf3vg, ,2019-06-18T21:00:03+02:00,tramadol,50,tramadol-95menl,21:00:03 ,medicine,mg
+488,,,18/06/2019 ,18/06/2019 20:59:53, , ,me,pjkk5lbc, ,2019-06-18T20:59:53+02:00,paracetamol,500,paracetamol-42menl,20:59:53 ,medicine,mg
+489,,,18/06/2019 ,18/06/2019 20:59:51, ,00:30:00,sy,sq830h9u,7,2019-06-18T20:59:51+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:59:51 ,symptom, 
+490,,,18/06/2019 ,18/06/2019 13:04:41, ,00:30:00,sy,ztqf7k54,7,2019-06-18T13:04:41+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:04:41 ,symptom, 
+491,,,18/06/2019 ,18/06/2019 13:02:26, , ,me,upcd87ys, ,2019-06-18T13:02:26+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,13:02:26 ,medicine,mg
+492,,,18/06/2019 ,18/06/2019 13:02:00, , ,me,zfygbama, ,2019-06-18T13:02:00+02:00,tramadol,50,tramadol-95menl,13:02:00 ,medicine,mg
+493,,,18/06/2019 ,18/06/2019 13:01:59, , ,me,p4u5rbgl, ,2019-06-18T13:01:59+02:00,paracetamol,500,paracetamol-42menl,13:01:59 ,medicine,mg
+494,,,18/06/2019 ,18/06/2019 12:52:29, ,00:30:00,sy,hg186fdx,9,2019-06-18T13:04:26+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:52:29 ,symptom, 
+495,,,18/06/2019 ,18/06/2019 09:53:58, , ,sy,qvppoajt,4,2019-06-18T09:53:58+02:00,Vermoeidheid, ,vermoeidheid-24synl,09:53:58 ,symptom, 
+496,,,17/06/2019 ,17/06/2019 21:59:17, , ,me,9scho63n, ,2019-06-17T21:59:17+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,21:59:17 ,medicine,mg
+497,,,17/06/2019 ,17/06/2019 21:59:12, ,00:20:00,sy,nwe93jxu,8,2019-06-17T21:59:12+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:59:12 ,symptom, 
+498,,,17/06/2019 ,17/06/2019 21:44:23, , ,me,r8qbjr3o, ,2019-06-17T21:44:23+02:00,tramadol,50,tramadol-95menl,21:44:23 ,medicine,mg
+499,,,17/06/2019 ,17/06/2019 21:44:22, , ,me,9dlzp6pk, ,2019-06-17T21:44:22+02:00,paracetamol,500,paracetamol-42menl,21:44:22 ,medicine,mg
+500,,,17/06/2019 ,17/06/2019 21:44:20, ,01:00:00,sy,fda3xo2t,7,2019-06-17T21:44:20+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:44:20 ,symptom, 
+501,,,17/06/2019 ,17/06/2019 20:24:37, , ,sy,lir5kkrc,4,2019-06-17T20:24:37+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,20:24:37 ,symptom, 
+502,,,17/06/2019 ,17/06/2019 18:34:33, ,10:00:00,sy,sncu06jw,4,2019-06-17T18:34:33+02:00,Hartkloppingen, ,hartkloppingen-41synl,18:34:33 ,symptom, 
+503,,,17/06/2019 ,17/06/2019 15:46:36, , ,me,k790q6b0, ,2019-06-17T15:46:36+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,15:46:36 ,medicine,mg
+504,,,17/06/2019 ,17/06/2019 15:46:34, , ,me,6yaln84o, ,2019-06-17T15:46:34+02:00,tramadol,50,tramadol-95menl,15:46:34 ,medicine,mg
+505,,,17/06/2019 ,17/06/2019 15:46:33, , ,me,tzay8o6l, ,2019-06-17T15:46:33+02:00,paracetamol,500,paracetamol-42menl,15:46:33 ,medicine,mg
+506,,,17/06/2019 ,17/06/2019 15:46:31, ,01:00:00,sy,1ytsjfue,8,2019-06-17T15:46:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:46:31 ,symptom, 
+507,,,17/06/2019 ,17/06/2019 09:51:31, , ,sy,cd1aio24,3,2019-06-17T09:51:31+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,09:51:31 ,symptom, 
+508,,,16/06/2019 ,16/06/2019 22:00:57, ,04:00:00,sy,la3sykqw,4,2019-06-17T18:33:34+02:00,Hartkloppingen, ,hartkloppingen-41synl,22:00:57 ,symptom, 
+509,,,16/06/2019 ,16/06/2019 17:30:47, , ,me,5vnbvbcd, ,2019-06-17T00:29:11+02:00,tramadol,50,tramadol-95menl,17:30:47 ,medicine,mg
+510,,,16/06/2019 ,16/06/2019 17:30:46, , ,me,73o43h7s, ,2019-06-17T00:29:24+02:00,paracetamol,500,paracetamol-42menl,17:30:46 ,medicine,mg
+511,,,16/06/2019 ,16/06/2019 17:30:44, ,02:00:00,sy,ft29jnp5,8,2019-06-16T17:57:24+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:30:44 ,symptom, 
+512,,,16/06/2019 ,16/06/2019 17:30:27, , ,me,xsc2ona6, ,2019-06-16T17:59:44+02:00,sumatriptan-injectie,12,sumatriptan-injectie-54menl,17:30:27 ,medicine,mg
+513,,,16/06/2019 ,16/06/2019 16:37:00, , ,ma,2soniywy, ,2019-06-16T16:37:00+02:00,magic-mushrooms,300,magic-mushrooms-12manl,16:37:00 ,altmedicine,mg
+514,,,16/06/2019 ,16/06/2019 16:36:57, ,00:30:00,sy,ro0s718q,5,2019-06-16T16:36:57+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:36:57 ,symptom, 
+515,,,16/06/2019 ,16/06/2019 12:50:39, ,02:00:00,sy,2ifw0kto,3,2019-06-16T12:50:39+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:50:39 ,symptom, 
+516,,,16/06/2019 ,16/06/2019 12:50:27, , ,ma,nczgbfit, ,2019-06-16T12:50:27+02:00,magic-mushrooms,200,magic-mushrooms-12manl,12:50:27 ,altmedicine,mg
+517,,,16/06/2019 ,16/06/2019 09:30:26, , ,ma,lyqw4xtr, ,2019-06-17T00:30:47+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:30:26 ,altmedicine,mg
+518,,,15/06/2019 ,15/06/2019 23:27:41, , ,me,5jmv63xw, ,2019-06-15T23:27:41+02:00,tramadol,50,tramadol-95menl,23:27:41 ,medicine,mg
+519,,,15/06/2019 ,15/06/2019 23:27:40, , ,me,bsktejl4, ,2019-06-15T23:27:40+02:00,paracetamol,500,paracetamol-42menl,23:27:40 ,medicine,mg
+520,,,15/06/2019 ,15/06/2019 23:27:39, ,02:00:00,sy,qpjbawq7,3,2019-06-15T23:27:39+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:27:39 ,symptom, 
+521,,,15/06/2019 ,15/06/2019 21:30:53, , ,ma,ti2xpx5i, ,2019-06-15T21:47:19+02:00,magic-mushrooms,200,magic-mushrooms-12manl,21:30:53 ,altmedicine,mg
+522,,,15/06/2019 ,15/06/2019 21:22:02, ,01:00:00,sy,mgerpd1m,3,2019-06-15T21:22:02+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:22:02 ,symptom, 
+523,,,15/06/2019 ,15/06/2019 12:22:12, , ,sy,0d36p61d,3,2019-06-15T21:22:29+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:22:12 ,symptom, 
+524,,,15/06/2019 ,15/06/2019 09:30:18, , ,ma,pqtn23cj, ,2019-06-15T13:55:40+02:00,magic-mushrooms,300,magic-mushrooms-12manl,09:30:18 ,altmedicine,mg
+525,,,15/06/2019 ,15/06/2019 00:10:57, , ,me,si653qv2, , ,tramadol,50,tramadol-95menl,00:10:57 ,medicine,mg
+526,,,15/06/2019 ,15/06/2019 00:10:56, , ,me,qlwnt54a, , ,paracetamol,500,paracetamol-42menl,00:10:56 ,medicine,mg
+527,,,15/06/2019 ,15/06/2019 00:10:54, , ,sy,bpgca2qb,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,00:10:54 ,symptom, 
+528,,,14/06/2019 ,14/06/2019 19:03:10, , ,sy,asl9qouh,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,19:03:10 ,symptom, 
+529,,,14/06/2019 ,14/06/2019 17:30:34, , ,me,ebb751w3, , ,tramadol,50,tramadol-95menl,17:30:34 ,medicine,mg
+530,,,14/06/2019 ,14/06/2019 17:30:33, , ,me,27qg6ian, , ,paracetamol,500,paracetamol-42menl,17:30:33 ,medicine,mg
+531,,,14/06/2019 ,14/06/2019 17:30:21, , ,sy,o04b9bon,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,17:30:21 ,symptom, 
+532,,,14/06/2019 ,14/06/2019 16:34:27, , ,sy,z7pgx26a,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,16:34:27 ,symptom, 
+533,,,14/06/2019 ,14/06/2019 15:38:21, , ,sy,9ndgdqyc,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,15:38:21 ,symptom, 
+534,,,14/06/2019 ,14/06/2019 15:36:19, , ,ma,sx18ssnv, , ,magic-mushrooms,200,magic-mushrooms-12manl,15:36:19 ,altmedicine,mg
+535,,,14/06/2019 ,14/06/2019 12:36:38, , ,sy,57ch6mzf,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:36:38 ,symptom, 
+536,,,14/06/2019 ,14/06/2019 11:11:55, , ,sy,dbpm5ezq,3, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:11:55 ,symptom, 
+537,,,14/06/2019 ,14/06/2019 11:11:35, , ,ma,1yrdbos3, , ,magic-mushrooms,300,magic-mushrooms-12manl,11:11:35 ,altmedicine,mg
+538,,,13/06/2019 ,13/06/2019 23:45:49, , ,sy,cftbzq7s,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,23:45:49 ,symptom, 
+539,,,13/06/2019 ,13/06/2019 23:28:31, , ,ma,d48lahsc, , ,magic-mushrooms,200,magic-mushrooms-12manl,23:28:31 ,altmedicine,mg
+540,,,13/06/2019 ,13/06/2019 23:28:26, ,01:00:00,sy,dzldli37,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:28:26 ,symptom, 
+541,,,13/06/2019 ,13/06/2019 19:30:23, , ,sy,mrz1wj5a,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,19:30:23 ,symptom, 
+542,,,13/06/2019 ,13/06/2019 19:28:50, , ,ma,81qe3vob, , ,magic-mushrooms,200,magic-mushrooms-12manl,19:28:50 ,altmedicine,mg
+543,,,13/06/2019 ,13/06/2019 09:48:14, , ,ma,ycrzbf4w, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:48:14 ,altmedicine,mg
+544,,,12/06/2019 ,12/06/2019 18:08:49, , ,sy,7bxmsmav,3, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,18:08:49 ,symptom, 
+545,,,12/06/2019 ,12/06/2019 13:51:21, , ,sy,xhb5o6zs,4, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,13:51:21 ,symptom, 
+546,,,12/06/2019 ,12/06/2019 11:07:52, , ,ma,7zec2pqs, , ,magic-mushrooms,300,magic-mushrooms-12manl,11:07:52 ,altmedicine,mg
+547,,,12/06/2019 ,12/06/2019 09:51:08, , ,sy,q9ak1ohs,3, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,09:51:08 ,symptom, 
+548,,,12/06/2019 ,12/06/2019 08:07:01, ,02:00:00,sy,fgwp175d,4, ,Hoofdpijn, ,hoofdpijn-27synl,08:07:01 ,symptom, 
+549,,,12/06/2019 ,12/06/2019 08:06:48, , ,me,ocmd2rvy, , ,tramadol,50,tramadol-95menl,08:06:48 ,medicine,mg
+550,,,12/06/2019 ,12/06/2019 08:06:47, , ,me,gnlle6cs, , ,paracetamol,500,paracetamol-42menl,08:06:47 ,medicine,mg
+551,,,11/06/2019 ,11/06/2019 23:46:32, , ,me,zojdh5as, , ,paracetamol,500,paracetamol-42menl,23:46:32 ,medicine,mg
+552,,,11/06/2019 ,11/06/2019 23:46:32, , ,me,kzd1k44o, , ,tramadol,50,tramadol-95menl,23:46:32 ,medicine,mg
+553,,,11/06/2019 ,11/06/2019 23:46:30, ,01:00:00,sy,ex4zjw96,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:46:30 ,symptom, 
+554,,,11/06/2019 ,11/06/2019 22:30:56, , ,ma,av8d0j1u, , ,magic-mushrooms,300,magic-mushrooms-12manl,22:30:56 ,altmedicine,mg
+555,,,11/06/2019 ,11/06/2019 22:30:55, ,02:00:00,sy,629rv2qu,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:30:55 ,symptom, 
+556,,,11/06/2019 ,11/06/2019 13:58:05, , ,ma,ph7qvukc, , ,magic-mushrooms,300,magic-mushrooms-12manl,13:58:05 ,altmedicine,mg
+557,,,10/06/2019 ,10/06/2019 23:13:42, , ,me,hyimt4vq, , ,paracetamol,500,paracetamol-42menl,23:13:42 ,medicine,mg
+558,,,10/06/2019 ,10/06/2019 23:13:42, , ,me,cqwr43zr, , ,tramadol,50,tramadol-95menl,23:13:42 ,medicine,mg
+559,,,10/06/2019 ,10/06/2019 23:13:40, ,01:00:00,sy,jyd9si9t,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:13:40 ,symptom, 
+560,,,10/06/2019 ,10/06/2019 16:32:47, , ,me,q85hzaeo, , ,paracetamol,500,paracetamol-42menl,16:32:47 ,medicine,mg
+561,,,10/06/2019 ,10/06/2019 16:32:47, , ,me,3cp493a6, , ,tramadol,50,tramadol-95menl,16:32:47 ,medicine,mg
+562,,,10/06/2019 ,10/06/2019 16:32:45, ,01:00:00,sy,i38fyobi,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:32:45 ,symptom, 
+563,,,10/06/2019 ,10/06/2019 16:06:57, ,01:00:00,sy,bh3fsed0,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:06:57 ,symptom, 
+564,,,10/06/2019 ,10/06/2019 14:30:36, ,04:00:00,sy,cbtindk0,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:30:36 ,symptom, 
+565,,,10/06/2019 ,10/06/2019 14:30:06, , ,me,uh02aj1m, , ,tramadol,50,tramadol-95menl,14:30:06 ,medicine,mg
+566,,,10/06/2019 ,10/06/2019 14:30:05, , ,me,e6v4buwz, , ,paracetamol,500,paracetamol-42menl,14:30:05 ,medicine,mg
+567,,,10/06/2019 ,10/06/2019 10:58:49, , ,ma,dw7gc9m0, , ,magic-mushrooms,300,magic-mushrooms-12manl,10:58:49 ,altmedicine,mg
+568,,,10/06/2019 ,10/06/2019 10:58:47, ,02:00:00,sy,oko8omn3,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,10:58:47 ,symptom, 
+569,,,09/06/2019 ,09/06/2019 16:11:01, , ,me,hfebmn30, , ,tramadol,50,tramadol-95menl,16:11:01 ,medicine,mg
+570,,,09/06/2019 ,09/06/2019 16:11:00, , ,me,og4jee42, , ,paracetamol,500,paracetamol-42menl,16:11:00 ,medicine,mg
+571,,,09/06/2019 ,09/06/2019 16:10:59, ,01:00:00,sy,l42gv3l5,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:10:59 ,symptom, 
+572,,,09/06/2019 ,09/06/2019 12:17:16, , ,me,wmssej5g, , ,tramadol,50,tramadol-95menl,12:17:16 ,medicine,mg
+573,,,09/06/2019 ,09/06/2019 12:17:15, , ,me,ertje87o, , ,paracetamol,500,paracetamol-42menl,12:17:15 ,medicine,mg
+574,,,09/06/2019 ,09/06/2019 12:17:13, ,02:00:00,sy,io89tl78,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:17:13 ,symptom, 
+575,,,09/06/2019 ,09/06/2019 08:30:28, , ,ma,vd5ydf79, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:30:28 ,altmedicine,mg
+576,,,09/06/2019 ,09/06/2019 00:44:09, , ,me,8b2dffpb, , ,tramadol,50,tramadol-95menl,00:44:09 ,medicine,mg
+577,,,09/06/2019 ,09/06/2019 00:44:08, , ,me,pbra7dit, , ,paracetamol,500,paracetamol-42menl,00:44:08 ,medicine,mg
+578,,,09/06/2019 ,09/06/2019 00:44:04, ,02:00:00,sy,0wlejv4w,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:44:04 ,symptom, 
+579,,,08/06/2019 ,08/06/2019 18:30:56, ,02:00:00,sy,qxyl8aay,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:30:56 ,symptom, 
+580,,,08/06/2019 ,08/06/2019 18:30:07, , ,me,0npdlj2l, , ,tramadol,50,tramadol-95menl,18:30:07 ,medicine,mg
+581,,,08/06/2019 ,08/06/2019 18:30:06, , ,me,vxeqzrws, , ,paracetamol,500,paracetamol-42menl,18:30:06 ,medicine,mg
+582,,,08/06/2019 ,08/06/2019 09:45:37, , ,ma,bvqrdv44, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:45:37 ,altmedicine,mg
+583,,,07/06/2019 ,07/06/2019 09:40:22, , ,ma,c5rfv5gh, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:40:22 ,altmedicine,mg
+584,,,06/06/2019 ,06/06/2019 09:59:12, , ,ma,pibnhe1s, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:59:12 ,altmedicine,mg
+585,,,05/06/2019 ,05/06/2019 23:00:05, , ,me,0vw0sjnm, , ,tramadol,50,tramadol-95menl,23:00:05 ,medicine,mg
+586,,,05/06/2019 ,05/06/2019 23:00:04, , ,me,bjg48x04, , ,paracetamol,500,paracetamol-42menl,23:00:04 ,medicine,mg
+587,,,05/06/2019 ,05/06/2019 23:00:02, , ,sy,m97co5ie,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,23:00:02 ,symptom, 
+588,,,05/06/2019 ,05/06/2019 21:56:14, , ,sy,ierv78pc,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,21:56:14 ,symptom, 
+589,,,05/06/2019 ,05/06/2019 16:59:56, , ,sy,pfhgx7if,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:59:56 ,symptom, 
+590,,,05/06/2019 ,05/06/2019 09:13:24, , ,ma,y4oaqqg7, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:13:24 ,altmedicine,mg
+591,,,04/06/2019 ,04/06/2019 22:49:00, ,12:00:00,sy,mmz01qjv,4, ,Duizeligheid, ,duizeligheid-19synl,22:49:00 ,symptom, 
+592,,,04/06/2019 ,04/06/2019 10:30:41, ,01:00:00,sy,z6xgfrhw,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,10:30:41 ,symptom, 
+593,,,04/06/2019 ,04/06/2019 10:28:01, , ,ma,6ch0npfz, , ,magic-mushrooms,300,magic-mushrooms-12manl,10:28:01 ,altmedicine,mg
+594,,,03/06/2019 ,03/06/2019 23:00:31, , ,me,zlwdf6e8, , ,tramadol,50,tramadol-95menl,23:00:31 ,medicine,mg
+595,,,03/06/2019 ,03/06/2019 23:00:30, , ,me,la64l6ky, , ,paracetamol,500,paracetamol-42menl,23:00:30 ,medicine,mg
+596,,,03/06/2019 ,03/06/2019 23:00:28, ,03:00:00,sy,njprw2cx,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:00:28 ,symptom, 
+597,,,03/06/2019 ,03/06/2019 17:27:20, ,02:00:00,sy,2b9e4olj,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:27:20 ,symptom, 
+598,,,03/06/2019 ,03/06/2019 17:27:13, , ,me,i1d219fd, , ,tramadol,50,tramadol-95menl,17:27:13 ,medicine,mg
+599,,,03/06/2019 ,03/06/2019 17:27:12, , ,me,3pajqv78, , ,paracetamol,500,paracetamol-42menl,17:27:12 ,medicine,mg
+600,,,03/06/2019 ,03/06/2019 16:13:13, ,03:00:00,sy,8lsjypf9,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:13:13 ,symptom, 
+601,,,03/06/2019 ,03/06/2019 09:31:04, , ,ma,cipmx10n, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:31:04 ,altmedicine,mg
+602,,,02/06/2019 ,02/06/2019 22:11:13, , ,me,de2jpan5, , ,tramadol,50,tramadol-95menl,22:11:13 ,medicine,mg
+603,,,02/06/2019 ,02/06/2019 22:11:12, , ,me,0v99w1qa, , ,paracetamol,500,paracetamol-42menl,22:11:12 ,medicine,mg
+604,,,02/06/2019 ,02/06/2019 22:11:10, ,03:00:00,sy,j6a7dc4h,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:11:10 ,symptom, 
+605,,,02/06/2019 ,02/06/2019 18:07:28, ,01:00:00,sy,8s1rprfx,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:07:28 ,symptom, 
+606,,,02/06/2019 ,02/06/2019 18:07:10, , ,ma,ua2wvmbb, , ,magic-mushrooms,300,magic-mushrooms-12manl,18:07:10 ,altmedicine,mg
+607,,,02/06/2019 ,02/06/2019 08:35:23, , ,ma,nxxwz7gs, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:35:23 ,altmedicine,mg
+608,,,02/06/2019 ,02/06/2019 00:43:00, ,01:00:00,sy,56cxvks0,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:43:00 ,symptom, 
+609,,,02/06/2019 ,02/06/2019 00:42:53, , ,me,f0584ghh, , ,paracetamol,500,paracetamol-42menl,00:42:53 ,medicine,mg
+610,,,02/06/2019 ,02/06/2019 00:42:53, , ,me,zp58o9or, , ,tramadol,50,tramadol-95menl,00:42:53 ,medicine,mg
+611,,,01/06/2019 ,01/06/2019 21:16:05, , ,sy,jmkrg1wn,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:16:05 ,symptom, 
+612,,,01/06/2019 ,01/06/2019 21:15:06, , ,me,y8a9dbiq, , ,paracetamol,500,paracetamol-42menl,21:15:06 ,medicine,mg
+613,,,01/06/2019 ,01/06/2019 21:15:06, , ,me,ldwsryif, , ,tramadol,50,tramadol-95menl,21:15:06 ,medicine,mg
+614,,,01/06/2019 ,01/06/2019 17:15:05, , ,me,y8tkrpp7, , ,tramadol,50,tramadol-95menl,17:15:05 ,medicine,mg
+615,,,01/06/2019 ,01/06/2019 17:15:04, , ,me,7s2onyf4, , ,paracetamol,500,paracetamol-42menl,17:15:04 ,medicine,mg
+616,,,01/06/2019 ,01/06/2019 13:53:17, ,01:00:00,sy,lo8udq5n,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:53:17 ,symptom, 
+617,,,01/06/2019 ,01/06/2019 13:52:44, , ,ma,8r8haxjm, , ,magic-mushrooms,300,magic-mushrooms-12manl,13:52:44 ,altmedicine,mg
+618,,,01/06/2019 ,01/06/2019 12:53:09, ,04:00:00,sy,xohy03hc,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:53:09 ,symptom, 
+619,,,01/06/2019 ,01/06/2019 10:36:07, , ,ma,6sklvhkv, , ,magic-mushrooms,300,magic-mushrooms-12manl,10:36:07 ,altmedicine,mg
+620,,,01/06/2019 ,01/06/2019 00:36:24, , ,ma,k13vq70c, , ,magic-mushrooms,300,magic-mushrooms-12manl,00:36:24 ,altmedicine,mg
+621,,,01/06/2019 ,01/06/2019 00:36:23, ,01:00:00,sy,squd5dnm,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:36:23 ,symptom, 
+622,,,31/05/2019 ,31/05/2019 09:00:19, , ,ma,eyrzz7yf, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:00:19 ,altmedicine,mg
+623,,,30/05/2019 ,30/05/2019 17:31:17, , ,me,y92iohll, , ,tramadol,50,tramadol-95menl,17:31:17 ,medicine,mg
+624,,,30/05/2019 ,30/05/2019 15:59:59, ,01:00:00,sy,jc9ld5hv,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:59:59 ,symptom, 
+625,,,30/05/2019 ,30/05/2019 15:59:49, , ,ma,9spj0j1k, , ,magic-mushrooms,300,magic-mushrooms-12manl,15:59:49 ,altmedicine,mg
+626,,,30/05/2019 ,30/05/2019 09:16:21, , ,ma,s8yfbfka, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:16:21 ,altmedicine,mg
+627,,,29/05/2019 ,29/05/2019 23:43:25, , ,ma,jxhckbi7, , ,magic-mushrooms,300,magic-mushrooms-12manl,23:43:25 ,altmedicine,mg
+628,,,29/05/2019 ,29/05/2019 09:09:19, , ,ma,bq5wwnbj, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:09:19 ,altmedicine,mg
+629,,,28/05/2019 ,28/05/2019 22:27:54, ,02:00:00,sy,qfbzvbbz,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:27:54 ,symptom, 
+630,,,28/05/2019 ,28/05/2019 19:37:32, ,01:00:00,sy,gacq0dzk,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:37:32 ,symptom, 
+631,,,28/05/2019 ,28/05/2019 19:37:20, , ,ma,6y4g09il, , ,magic-mushrooms,300,magic-mushrooms-12manl,19:37:20 ,altmedicine,mg
+632,,,28/05/2019 ,28/05/2019 11:06:20, ,03:00:00,sy,k61s8xi0,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:06:20 ,symptom, 
+633,,,28/05/2019 ,28/05/2019 09:30:08, , ,ma,p8jo9bb6, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:30:08 ,altmedicine,mg
+634,,,27/05/2019 ,27/05/2019 23:06:00, ,05:00:00,sy,j80k2vhd,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:06:00 ,symptom, 
+635,,,27/05/2019 ,27/05/2019 23:05:40, , ,ma,myh67chd, , ,magic-mushrooms,300,magic-mushrooms-12manl,23:05:40 ,altmedicine,mg
+636,,,27/05/2019 ,27/05/2019 08:30:48, , ,ma,0ynpao7k, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:30:48 ,altmedicine,mg
+637,,,26/05/2019 ,26/05/2019 23:43:02, , ,ma,82hqy03g, , ,magic-mushrooms,300,magic-mushrooms-12manl,23:43:02 ,altmedicine,mg
+638,,,26/05/2019 ,26/05/2019 16:58:12, ,01:00:00,sy,40uu62ce,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:58:12 ,symptom, 
+639,,,26/05/2019 ,26/05/2019 16:57:50, , ,ma,jpuhjam9, , ,magic-mushrooms,300,magic-mushrooms-12manl,16:57:50 ,altmedicine,mg
+640,,,26/05/2019 ,26/05/2019 15:58:05, ,03:00:00,sy,8n829dvr,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:58:05 ,symptom, 
+641,,,26/05/2019 ,26/05/2019 15:30:53, , ,me,iboqbmnc, , ,tramadol,50,tramadol-95menl,15:30:53 ,medicine,mg
+642,,,26/05/2019 ,26/05/2019 15:30:52, , ,me,l62x6s0y, , ,paracetamol,500,paracetamol-42menl,15:30:52 ,medicine,mg
+643,,,25/05/2019 ,25/05/2019 15:01:13, ,02:00:00,sy,ugy8ejlq,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:01:13 ,symptom, 
+644,,,25/05/2019 ,25/05/2019 15:01:06, , ,me,eqsmb3wz, , ,tramadol,50,tramadol-95menl,15:01:06 ,medicine,mg
+645,,,25/05/2019 ,25/05/2019 15:01:03, , ,me,gsbsins0, , ,paracetamol,500,paracetamol-42menl,15:01:03 ,medicine,mg
+646,,,23/05/2019 ,23/05/2019 16:03:03, , ,me,vmx7smm4, , ,tramadol,50,tramadol-95menl,16:03:03 ,medicine,mg
+647,,,23/05/2019 ,23/05/2019 16:03:02, , ,me,5omuvc7k, , ,paracetamol,500,paracetamol-42menl,16:03:02 ,medicine,mg
+648,,,23/05/2019 ,23/05/2019 16:03:00, ,01:00:00,sy,5ac508e5,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:03:00 ,symptom, 
+649,,,23/05/2019 ,23/05/2019 12:13:16, , ,me,adrq04m8, , ,tramadol,50,tramadol-95menl,12:13:16 ,medicine,mg
+650,,,23/05/2019 ,23/05/2019 12:13:15, , ,me,otm06ti9, , ,paracetamol,500,paracetamol-42menl,12:13:15 ,medicine,mg
+651,,,23/05/2019 ,23/05/2019 12:13:13, ,02:00:00,sy,n7srpj8g,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:13:13 ,symptom, 
+652,,,21/05/2019 ,21/05/2019 22:41:46, ,02:00:00,sy,jgww0hjr,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:41:46 ,symptom, 
+653,,,21/05/2019 ,21/05/2019 22:41:37, , ,me,p0w7l57g, , ,paracetamol,500,paracetamol-42menl,22:41:37 ,medicine,mg
+654,,,21/05/2019 ,21/05/2019 22:41:37, , ,me,qs1hvdj9, , ,tramadol,50,tramadol-95menl,22:41:37 ,medicine,mg
+655,,,21/05/2019 ,21/05/2019 18:34:55, ,04:00:00,sy,vs5ru55y,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:34:55 ,symptom, 
+656,,,21/05/2019 ,21/05/2019 10:34:19, ,04:00:00,sy,uf8ifw7x,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,10:34:19 ,symptom, 
+657,,,21/05/2019 ,21/05/2019 10:33:14, , ,me,1gas32aa, , ,tramadol,50,tramadol-95menl,10:33:14 ,medicine,mg
+658,,,21/05/2019 ,21/05/2019 10:33:13, , ,me,g0307eea, , ,paracetamol,500,paracetamol-42menl,10:33:13 ,medicine,mg
+659,,,21/05/2019 ,21/05/2019 05:33:32, ,03:00:00,sy,ktvrpmag,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,05:33:32 ,symptom, 
+660,,,21/05/2019 ,21/05/2019 05:33:16, , ,me,k3yiwxrv, , ,tramadol,50,tramadol-95menl,05:33:16 ,medicine,mg
+661,,,21/05/2019 ,21/05/2019 05:33:15, , ,me,748vzukt, , ,paracetamol,500,paracetamol-42menl,05:33:15 ,medicine,mg
+662,,,20/05/2019 ,20/05/2019 23:14:28, ,02:00:00,sy,sa47i1t9,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:14:28 ,symptom, 
+663,,,18/05/2019 ,18/05/2019 00:50:52, , ,me,xpwwtu19, , ,tramadol,50,tramadol-95menl,00:50:52 ,medicine,mg
+664,,,18/05/2019 ,18/05/2019 00:50:51, , ,me,l887mqgl, , ,paracetamol,500,paracetamol-42menl,00:50:51 ,medicine,mg
+665,,,18/05/2019 ,18/05/2019 00:50:49, ,01:00:00,sy,pt7sf8rz,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:50:49 ,symptom, 
+666,,,16/05/2019 ,16/05/2019 22:36:30, , ,me,iwwi84gp, , ,tramadol,50,tramadol-95menl,22:36:30 ,medicine,mg
+667,,,16/05/2019 ,16/05/2019 22:36:29, , ,me,o90x1rs1, , ,paracetamol,500,paracetamol-42menl,22:36:29 ,medicine,mg
+668,,,16/05/2019 ,16/05/2019 22:36:27, ,02:00:00,sy,kreo92k7,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:36:27 ,symptom, 
+669,,,14/05/2019 ,14/05/2019 21:02:37, ,02:00:00,sy,o86lt6nr,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:02:37 ,symptom, 
+670,,,14/05/2019 ,14/05/2019 21:02:17, , ,me,5ozuv7kl, , ,tramadol,50,tramadol-95menl,21:02:17 ,medicine,mg
+671,,,14/05/2019 ,14/05/2019 21:02:14, , ,me,5vccv167, , ,paracetamol,500,paracetamol-42menl,21:02:14 ,medicine,mg
+672,,,14/05/2019 ,14/05/2019 16:02:16, , ,me,2qmgdizj, , ,tramadol,50,tramadol-95menl,16:02:16 ,medicine,mg
+673,,,14/05/2019 ,14/05/2019 16:02:15, , ,me,zv68p6c1, , ,paracetamol,500,paracetamol-42menl,16:02:15 ,medicine,mg
+674,,,14/05/2019 ,14/05/2019 09:44:52, , ,ma,uvch4p65, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:44:52 ,altmedicine,mg
+675,,,13/05/2019 ,13/05/2019 08:20:50, , ,ma,5ohy4qc6, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:20:50 ,altmedicine,mg
+676,,,12/05/2019 ,12/05/2019 22:37:18, ,02:00:00,sy,n46np2z5,4, ,Hoofdpijn, ,hoofdpijn-27synl,22:37:18 ,symptom, 
+677,,,12/05/2019 ,12/05/2019 22:36:41, , ,me,ol3clcbt, , ,paracetamol,500,paracetamol-42menl,22:36:41 ,medicine,mg
+678,,,12/05/2019 ,12/05/2019 22:36:40, , ,me,l0khf8hg, , ,tramadol,50,tramadol-95menl,22:36:40 ,medicine,mg
+679,,,12/05/2019 ,12/05/2019 09:20:47, , ,ma,ezte4mbz, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:20:47 ,altmedicine,mg
+680,,,11/05/2019 ,11/05/2019 21:33:19, , ,me,g5nrc7nf, , ,paracetamol,500,paracetamol-42menl,21:33:19 ,medicine,mg
+681,,,11/05/2019 ,11/05/2019 21:33:08, , ,me,mevjqmkx, , ,tramadol,50,tramadol-95menl,21:33:08 ,medicine,mg
+682,,,11/05/2019 ,11/05/2019 17:32:30, ,09:00:00,sy,u6bpk40h,3, ,Hoofdpijn, ,hoofdpijn-27synl,17:32:30 ,symptom, 
+683,,,11/05/2019 ,11/05/2019 15:33:17, , ,me,cqevagkr, , ,paracetamol,500,paracetamol-42menl,15:33:17 ,medicine,mg
+684,,,11/05/2019 ,11/05/2019 15:33:06, , ,me,pq3t5szr, , ,tramadol,50,tramadol-95menl,15:33:06 ,medicine,mg
+685,,,11/05/2019 ,11/05/2019 10:00:14, , ,me,bv4iooce, , ,paracetamol,500,paracetamol-42menl,10:00:14 ,medicine,mg
+686,,,11/05/2019 ,11/05/2019 10:00:03, , ,me,7xxr4tq1, , ,tramadol,50,tramadol-95menl,10:00:03 ,medicine,mg
+687,,,11/05/2019 ,11/05/2019 09:31:37, , ,sy,hswfmyjg,6, ,Darmklachten, ,darmklachten-64synl,09:31:37 ,symptom, 
+688,,,11/05/2019 ,11/05/2019 06:00:12, , ,me,7cuo8btj, , ,paracetamol,500,paracetamol-42menl,06:00:12 ,medicine,mg
+689,,,11/05/2019 ,11/05/2019 06:00:01, , ,me,vmsebziz, , ,tramadol,50,tramadol-95menl,06:00:01 ,medicine,mg
+690,,,10/05/2019 ,10/05/2019 18:28:51, ,08:00:00,sy,t5gamwzm,3, ,Hoofdpijn, ,hoofdpijn-27synl,18:28:51 ,symptom, 
+691,,,10/05/2019 ,10/05/2019 09:30:55, , ,sy,wj1ypy0r,9, ,Darmklachten, ,darmklachten-64synl,09:30:55 ,symptom, 
+692,,,10/05/2019 ,10/05/2019 09:00:58, , ,ma,xmypgf8j, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:00:58 ,altmedicine,mg
+693,,,09/05/2019 ,09/05/2019 18:47:04, ,02:00:00,sy,oze30e0w,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:47:04 ,symptom, 
+694,,,09/05/2019 ,09/05/2019 18:46:56, , ,me,l4ugpgth, , ,paracetamol,500,paracetamol-42menl,18:46:56 ,medicine,mg
+695,,,09/05/2019 ,09/05/2019 18:46:56, , ,me,iy8t6kdo, , ,tramadol,50,tramadol-95menl,18:46:56 ,medicine,mg
+696,,,09/05/2019 ,09/05/2019 08:27:10, , ,ma,bzmokwaa, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:27:10 ,altmedicine,mg
+697,,,08/05/2019 ,08/05/2019 19:14:18, ,03:00:00,sy,gqiog3wv,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:14:18 ,symptom, 
+698,,,08/05/2019 ,08/05/2019 19:14:02, , ,me,qofqf8at, , ,tramadol,50,tramadol-95menl,19:14:02 ,medicine,mg
+699,,,08/05/2019 ,08/05/2019 19:14:01, , ,me,khbk18d0, , ,paracetamol,500,paracetamol-42menl,19:14:01 ,medicine,mg
+700,,,08/05/2019 ,08/05/2019 08:21:45, , ,ma,4uzploan, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:21:45 ,altmedicine,mg
+701,,,07/05/2019 ,07/05/2019 08:15:48, , ,ma,qrvbbqxb, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:15:48 ,altmedicine,mg
+702,,,06/05/2019 ,06/05/2019 08:30:45, , ,ma,qfkxl119, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:30:45 ,altmedicine,mg
+703,,,05/05/2019 ,05/05/2019 21:16:42, ,01:00:00,sy,32u20uan,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:16:42 ,symptom, 
+704,,,05/05/2019 ,05/05/2019 21:16:30, , ,me,2gdyjqs3, , ,paracetamol,500,paracetamol-42menl,21:16:30 ,medicine,mg
+705,,,05/05/2019 ,05/05/2019 21:16:30, , ,me,r24o2epj, , ,tramadol,50,tramadol-95menl,21:16:30 ,medicine,mg
+706,,,05/05/2019 ,05/05/2019 14:23:51, ,03:00:00,sy,olsdvr7m,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:23:51 ,symptom, 
+707,,,05/05/2019 ,05/05/2019 14:23:28, , ,ma,kn9j8xy6, , ,magic-mushrooms,200,magic-mushrooms-12manl,14:23:28 ,altmedicine,mg
+708,,,05/05/2019 ,05/05/2019 08:45:13, , ,ma,lmti5hg3, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:45:13 ,altmedicine,mg
+709,,,04/05/2019 ,04/05/2019 10:00:37, , ,ma,v01oxbzv, , ,magic-mushrooms,300,magic-mushrooms-12manl,10:00:37 ,altmedicine,mg
+710,,,03/05/2019 ,03/05/2019 16:00:13, ,05:00:00,sy,5mv7mean,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:00:13 ,symptom, 
+711,,,03/05/2019 ,03/05/2019 08:29:33, , ,ma,2npz3kat, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:29:33 ,altmedicine,mg
+712,,,02/05/2019 ,02/05/2019 15:47:32, ,05:00:00,sy,5xq2tiwu,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:47:32 ,symptom, 
+713,,,02/05/2019 ,02/05/2019 15:46:45, , ,ma,5d0djwsp, , ,magic-mushrooms,200,magic-mushrooms-12manl,15:46:45 ,altmedicine,mg
+714,,,02/05/2019 ,02/05/2019 08:27:56, , ,ma,3w2053w2, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:27:56 ,altmedicine,mg
+715,,,01/05/2019 ,01/05/2019 08:09:52, , ,ma,9pyz6e2r, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:09:52 ,altmedicine,mg
+716,,,30/04/2019 ,30/04/2019 16:24:04, ,01:00:00,sy,x8r0r16b,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:24:04 ,symptom, 
+717,,,30/04/2019 ,30/04/2019 16:23:48, , ,ma,fv213kpf, , ,magic-mushrooms,300,magic-mushrooms-12manl,16:23:48 ,altmedicine,mg
+718,,,30/04/2019 ,30/04/2019 08:00:39, , ,ma,4f3l9hkc, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:39 ,altmedicine,mg
+719,,,29/04/2019 ,29/04/2019 07:35:34, , ,ma,7yvsm2ug, , ,magic-mushrooms,300,magic-mushrooms-12manl,07:35:34 ,altmedicine,mg
+720,,,28/04/2019 ,28/04/2019 22:37:16, ,00:30:00,sy,ee2tqop9,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:37:16 ,symptom, 
+721,,,28/04/2019 ,28/04/2019 22:36:59, ,07:00:00,sy,g75p1ywj,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:36:59 ,symptom, 
+722,,,28/04/2019 ,28/04/2019 22:36:07, , ,ma,d429hfk0, , ,magic-mushrooms,200,magic-mushrooms-12manl,22:36:07 ,altmedicine,mg
+723,,,28/04/2019 ,28/04/2019 08:46:35, , ,ma,zsky4b1u, , ,magic-mushrooms,200,magic-mushrooms-12manl,08:46:35 ,altmedicine,mg
+724,,,27/04/2019 ,27/04/2019 16:00:21, , ,ma,5ey19eod, , ,magic-mushrooms,200,magic-mushrooms-12manl,16:00:21 ,altmedicine,mg
+725,,,27/04/2019 ,27/04/2019 15:52:23, ,00:30:00,sy,5dkyk9y6,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:52:23 ,symptom, 
+726,,,27/04/2019 ,27/04/2019 15:37:53, ,02:00:00,sy,kp5lqanz,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:37:53 ,symptom, 
+727,,,27/04/2019 ,27/04/2019 11:52:25, , ,ma,lfl6os02, , ,magic-mushrooms,200,magic-mushrooms-12manl,11:52:25 ,altmedicine,mg
+728,,,26/04/2019 ,26/04/2019 19:14:47, , ,ma,j6fobxre, , ,magic-mushrooms,200,magic-mushrooms-12manl,19:14:47 ,altmedicine,mg
+729,,,26/04/2019 ,26/04/2019 19:14:45, ,02:00:00,sy,w6qvyq2x,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:14:45 ,symptom, 
+730,,,26/04/2019 ,26/04/2019 08:00:22, , ,ma,7at88fhq, , ,magic-mushrooms,200,magic-mushrooms-12manl,08:00:22 ,altmedicine,mg
+731,,,25/04/2019 ,25/04/2019 08:25:15, , ,ma,qjgxiste, , ,magic-mushrooms,200,magic-mushrooms-12manl,08:25:15 ,altmedicine,mg
+732,,,24/04/2019 ,24/04/2019 13:26:40, ,02:00:00,sy,xbz7x3cl,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:26:40 ,symptom, 
+733,,,24/04/2019 ,24/04/2019 08:05:33, , ,ma,r0b6610j, , ,magic-mushrooms,200,magic-mushrooms-12manl,08:05:33 ,altmedicine,mg
+734,,,23/04/2019 ,23/04/2019 16:00:53, ,01:00:00,sy,f7b0v3mo,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:00:53 ,symptom, 
+735,,,23/04/2019 ,23/04/2019 15:00:45, ,01:00:00,sy,1hhybwju,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:00:45 ,symptom, 
+736,,,23/04/2019 ,23/04/2019 08:20:23, , ,ma,rrbo2gs9, , ,magic-mushrooms,200,magic-mushrooms-12manl,08:20:23 ,altmedicine,mg
+737,,,22/04/2019 ,22/04/2019 16:25:14, ,02:00:00,sy,3ssy4xbq,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:25:14 ,symptom, 
+738,,,22/04/2019 ,22/04/2019 10:36:37, , ,ma,nkhocwvw, , ,magic-mushrooms,300,magic-mushrooms-12manl,10:36:37 ,altmedicine,mg
+739,,,21/04/2019 ,21/04/2019 17:02:10, , ,ma,k4h282sj, , ,magic-mushrooms,300,magic-mushrooms-12manl,17:02:10 ,altmedicine,mg
+740,,,21/04/2019 ,21/04/2019 17:00:20, ,02:00:00,sy,mfhcv1vh,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:00:20 ,symptom, 
+741,,,21/04/2019 ,21/04/2019 11:13:46, , ,ma,g9yxlunv, , ,magic-mushrooms,200,magic-mushrooms-12manl,11:13:46 ,altmedicine,mg
+742,,,20/04/2019 ,20/04/2019 23:04:35, ,04:00:00,sy,wdido1bx,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,23:04:35 ,symptom, 
+743,,,20/04/2019 ,20/04/2019 23:04:11, , ,ma,bkc34j2b, , ,magic-mushrooms,300,magic-mushrooms-12manl,23:04:11 ,altmedicine,mg
+744,,,20/04/2019 ,20/04/2019 22:40:15, , ,me,cdlax2dn, , ,tramadol,50,tramadol-95menl,22:40:15 ,medicine,mg
+745,,,20/04/2019 ,20/04/2019 22:40:14, , ,me,uasxfj5t, , ,paracetamol,500,paracetamol-42menl,22:40:14 ,medicine,mg
+746,,,20/04/2019 ,20/04/2019 22:30:43, , ,me,ngb8l5mf, , ,zuurstof,12,zuurstof-101menl,22:30:43 ,medicine,l/m
+747,,,20/04/2019 ,20/04/2019 22:00:39, , ,me,tyztixyq, , ,zuurstof,12,zuurstof-101menl,22:00:39 ,medicine,l/m
+748,,,20/04/2019 ,20/04/2019 00:26:28, , ,me,e9cgznwb, , ,paracetamol,500,paracetamol-42menl,00:26:28 ,medicine,mg
+749,,,20/04/2019 ,20/04/2019 00:26:27, , ,me,0djsy2hb, , ,tramadol,50,tramadol-95menl,00:26:27 ,medicine,mg
+750,,,20/04/2019 ,20/04/2019 00:26:20, ,03:00:00,sy,ta0kffbx,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,00:26:20 ,symptom, 
+751,,,13/04/2019 ,13/04/2019 09:00:54, , ,ma,e7ofofp0, , ,magic-mushrooms,300,magic-mushrooms-12manl,09:00:54 ,altmedicine,mg
+752,,,12/04/2019 ,12/04/2019 08:00:53, , ,ma,e706pq9a, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:53 ,altmedicine,mg
+753,,,11/04/2019 ,11/04/2019 07:46:44, , ,ma,aovmukcq, , ,magic-mushrooms,300,magic-mushrooms-12manl,07:46:44 ,altmedicine,mg
+754,,,10/04/2019 ,10/04/2019 08:00:07, , ,ma,dmcd06r7, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:07 ,altmedicine,mg
+755,,,09/04/2019 ,09/04/2019 08:00:34, , ,ma,4xecpyjn, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:34 ,altmedicine,mg
+756,,,08/04/2019 ,08/04/2019 08:00:04, , ,ma,6uaipagw, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:04 ,altmedicine,mg
+757,,,08/04/2019 ,08/04/2019 07:46:31, , ,sy,q30xxnco,4, ,Vermoeidheid, ,vermoeidheid-24synl,07:46:31 ,symptom, 
+758,,,07/04/2019 ,07/04/2019 18:00:33, , ,sy,ks10u1v4,8, ,Vermoeidheid, ,vermoeidheid-24synl,18:00:33 ,symptom, 
+759,,,07/04/2019 ,07/04/2019 16:28:21, , ,ma,cnvbg24k, , ,magic-mushrooms,300,magic-mushrooms-12manl,16:28:21 ,altmedicine,mg
+760,,,07/04/2019 ,07/04/2019 16:10:46, ,01:00:00,sy,p6p1fsfo,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:10:46 ,symptom, 
+761,,,07/04/2019 ,07/04/2019 08:00:54, , ,ma,y03y4vbk, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:54 ,altmedicine,mg
+762,,,06/04/2019 ,06/04/2019 08:30:49, , ,ma,hzn7q8ek, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:30:49 ,altmedicine,mg
+763,,,05/04/2019 ,05/04/2019 08:00:55, , ,ma,lawl0yqc, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:55 ,altmedicine,mg
+764,,,04/04/2019 ,04/04/2019 18:00:36, , ,ma,qzicy9vu, , ,magic-mushrooms,300,magic-mushrooms-12manl,18:00:36 ,altmedicine,mg
+765,,,04/04/2019 ,04/04/2019 15:28:59, ,01:00:00,sy,wopn6n7l,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:28:59 ,symptom, 
+766,,,04/04/2019 ,04/04/2019 15:28:40, , ,me,2ln8qlxe, , ,tramadol,50,tramadol-95menl,15:28:40 ,medicine,mg
+767,,,04/04/2019 ,04/04/2019 15:28:39, , ,me,v3ey40in, , ,paracetamol,500,paracetamol-42menl,15:28:39 ,medicine,mg
+768,,,03/04/2019 ,03/04/2019 22:06:42, ,03:00:00,sy,iixkj8da,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:06:42 ,symptom, 
+769,,,03/04/2019 ,03/04/2019 22:06:31, , ,me,lcxex63z, , ,tramadol,50,tramadol-95menl,22:06:31 ,medicine,mg
+770,,,03/04/2019 ,03/04/2019 22:06:30, , ,me,0sh4myj9, , ,paracetamol,500,paracetamol-42menl,22:06:30 ,medicine,mg
+771,,,03/04/2019 ,03/04/2019 07:30:58, , ,ma,z7zaxaaj, , ,magic-mushrooms,300,magic-mushrooms-12manl,07:30:58 ,altmedicine,mg
+772,,,02/04/2019 ,02/04/2019 08:00:01, , ,ma,3e5vcm0p, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:01 ,altmedicine,mg
+773,,,02/04/2019 ,02/04/2019 07:21:14, ,01:00:00,sy,jrk87323,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,07:21:14 ,symptom, 
+774,,,02/04/2019 ,02/04/2019 07:21:05, , ,me,z0x6lzpk, , ,tramadol,50,tramadol-95menl,07:21:05 ,medicine,mg
+775,,,02/04/2019 ,02/04/2019 07:21:03, , ,me,umzlsz9p, , ,paracetamol,500,paracetamol-42menl,07:21:03 ,medicine,mg
+776,,,01/04/2019 ,01/04/2019 08:00:33, , ,ma,uqrcksn1, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:33 ,altmedicine,mg
+777,,,31/03/2019 ,31/03/2019 17:50:48, ,04:00:00,sy,4khe99hu,3, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:50:48 ,symptom, 
+778,,,31/03/2019 ,31/03/2019 17:50:20, , ,me,gwhyrg8v, , ,tramadol,50,tramadol-95menl,17:50:20 ,medicine,mg
+779,,,31/03/2019 ,31/03/2019 17:50:18, , ,me,kby15pd6, , ,paracetamol,500,paracetamol-42menl,17:50:18 ,medicine,mg
+780,,,30/03/2019 ,30/03/2019 08:00:22, , ,ma,5vpa2ytr, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:22 ,altmedicine,mg
+781,,,29/03/2019 ,29/03/2019 08:00:19, , ,ma,r2dxs886, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:19 ,altmedicine,mg
+782,,,28/03/2019 ,28/03/2019 08:30:18, , ,ma,7hf36u67, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:30:18 ,altmedicine,mg
+783,,,27/03/2019 ,27/03/2019 08:00:16, , ,ma,tky83kk4, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:00:16 ,altmedicine,mg
+784,,,26/03/2019 ,26/03/2019 08:16:15, , ,ma,3z3yzg4m, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:16:15 ,altmedicine,mg
+785,,,25/03/2019 ,25/03/2019 07:30:29, , ,ma,honprggy, , ,magic-mushrooms,300,magic-mushrooms-12manl,07:30:29 ,altmedicine,mg
+786,,,24/03/2019 ,24/03/2019 08:34:58, , ,ma,4jingxpw, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:34:58 ,altmedicine,mg
+787,,,23/03/2019 ,23/03/2019 08:16:24, , ,ma,dui4iykw, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:16:24 ,altmedicine,mg
+788,,,23/03/2019 ,23/03/2019 00:42:43, ,02:00:00,sy,r5s2jtus,3, ,Hoofdpijn, ,hoofdpijn-27synl,00:42:43 ,symptom, 
+789,,,23/03/2019 ,23/03/2019 00:41:51, , ,me,mz8ulx4j, , ,tramadol,50,tramadol-95menl,00:41:51 ,medicine,mg
+790,,,23/03/2019 ,23/03/2019 00:41:51, , ,me,47rl52m2, , ,paracetamol,500,paracetamol-42menl,00:41:51 ,medicine,mg
+791,,,22/03/2019 ,22/03/2019 07:44:12, , ,ma,9aalufii, , ,magic-mushrooms,300,magic-mushrooms-12manl,07:44:12 ,altmedicine,mg
+792,,,21/03/2019 ,21/03/2019 08:30:14, , ,ma,ov84d33l, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:30:14 ,altmedicine,mg
+793,,,20/03/2019 ,20/03/2019 07:42:11, , ,ma,m1cnr16m, , ,magic-mushrooms,300,magic-mushrooms-12manl,07:42:11 ,altmedicine,mg
+794,,,18/03/2019 ,18/03/2019 08:45:14, , ,ma,dmvysywh, , ,magic-mushrooms,300,magic-mushrooms-12manl,08:45:14 ,altmedicine,mg

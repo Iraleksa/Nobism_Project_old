@@ -1,0 +1,385 @@
+,Blood pressure (high),Blood pressure (low),Date,Date/Time,Description,Duration,Group,Id,Intensity,Last Modified,Name,Quantity,Tag,Time,Type,Unit
+0,,,01/08/2019 ,01/08/2019 09:02:57, , ,sy,4gp5kxlw,6,2019-08-01T10:03:25+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,09:02:57 ,symptom, 
+1,,,31/07/2019 ,31/07/2019 19:52:52, , ,sy,g4kxouec,6,2019-07-31T19:52:52+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,19:52:52 ,symptom, 
+2,,,31/07/2019 ,31/07/2019 12:28:35, , ,ma,co7qf1lj, ,2019-07-31T12:29:01+02:00,truffels,3,truffels-18manl,12:28:35 ,altmedicine,mg
+3,,,31/07/2019 ,31/07/2019 12:17:36, , ,sy,c6kre5ko,7,2019-07-31T12:17:36+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:17:36 ,symptom, 
+4,,,30/07/2019 ,30/07/2019 20:08:07, , ,sy,p7oy799d,8,2019-07-30T20:08:07+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,20:08:07 ,symptom, 
+5,,,30/07/2019 ,30/07/2019 17:55:27, , ,sy,7u7iuo2i,6,2019-07-30T17:55:27+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,17:55:27 ,symptom, 
+6,,,30/07/2019 ,30/07/2019 15:46:30, , ,ma,y05fq0o2, ,2019-07-30T15:46:30+02:00,thc,3,thc-15manl,15:46:30 ,altmedicine,drops
+7,,,30/07/2019 ,30/07/2019 10:28:26, , ,ma,uup7sd57, ,2019-07-30T15:47:32+02:00,thc,3,thc-15manl,10:28:26 ,altmedicine,drops
+8,,,30/07/2019 ,30/07/2019 07:32:47, , ,ma,6n1um9u5, ,2019-07-30T08:12:18+02:00,thc,3,thc-15manl,07:32:47 ,altmedicine,drops
+9,,,29/07/2019 ,29/07/2019 18:12:30, , ,ma,9z172s84, ,2019-07-30T08:12:57+02:00,thc,3,thc-15manl,18:12:30 ,altmedicine,drops
+10,,,29/07/2019 ,29/07/2019 11:01:18, , ,ma,1hhmbghh, ,2019-07-29T11:01:44+02:00,truffels,3,truffels-18manl,11:01:18 ,altmedicine,mg
+11,,,28/07/2019 ,28/07/2019 18:16:25, , ,ma,bj8wijpn, ,2019-07-29T11:02:59+02:00,thc,3,thc-15manl,18:16:25 ,altmedicine,drops
+12,,,28/07/2019 ,28/07/2019 18:15:33, , ,sy,dlugtcdr,8,2019-07-29T11:02:24+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,18:15:33 ,symptom, 
+13,,,28/07/2019 ,28/07/2019 13:50:34, , ,fo,w2tif3tp, ,2019-07-28T13:50:34+02:00,energie-drank,1,energie-drank-6fonl,13:50:34 ,food,ml
+14,,,27/07/2019 ,27/07/2019 19:45:48, , ,ma,4y2i33mj, ,2019-07-27T19:57:53+02:00,truffels,8,truffels-18manl,19:45:48 ,altmedicine,mg
+15,,,26/07/2019 ,26/07/2019 11:37:43, , ,fo,dxcguqgs, ,2019-07-26T11:37:43+02:00,energie-drank,1,energie-drank-6fonl,11:37:43 ,food,ml
+16,,,26/07/2019 ,26/07/2019 11:00:29, , ,ma,9hhzlv7i, ,2019-07-26T11:39:10+02:00,truffels,0.00001,truffels-18manl,11:00:29 ,altmedicine,mg
+17,,,26/07/2019 ,26/07/2019 10:37:40, , ,sy,rpq2teus,7,2019-07-26T11:38:23+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:37:40 ,symptom, 
+18,,,26/07/2019 ,26/07/2019 10:09:35, , ,ma,rmajfvsa, ,2019-07-26T10:09:35+02:00,truffels,2,truffels-18manl,10:09:35 ,altmedicine,mg
+19,,,25/07/2019 ,25/07/2019 16:55:47, , ,me,11uprhnu, ,2019-07-25T16:55:47+02:00,Zuurstof,12,zuurstof-101menl,16:55:47 ,medicine,l/m
+20,,,25/07/2019 ,25/07/2019 16:52:30, , ,sy,m9t5spxx,9,2019-07-25T16:52:30+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:52:30 ,symptom, 
+21,,,25/07/2019 ,25/07/2019 16:47:59, , ,ma,8qb0r0nb, ,2019-07-25T16:48:32+02:00,truffels,0.00000001,truffels-18manl,16:47:59 ,altmedicine,mg
+22,,,25/07/2019 ,25/07/2019 11:28:56, , ,fo,dehiq3k8, ,2019-07-25T11:28:56+02:00,energie-drank,1,energie-drank-6fonl,11:28:56 ,food,ml
+23,,,25/07/2019 ,25/07/2019 08:29:07, , ,ma,idld1wiv, ,2019-07-25T11:29:35+02:00,thc,3,thc-15manl,08:29:07 ,altmedicine,drops
+24,,,24/07/2019 ,24/07/2019 12:16:17, , ,ma,v3jjj8hd, ,2019-07-24T12:17:01+02:00,truffels,3,truffels-18manl,12:16:17 ,altmedicine,mg
+25,,,24/07/2019 ,24/07/2019 10:30:17, , ,ma,s9ib3vsu, ,2019-07-24T10:41:42+02:00,thc,3,thc-15manl,10:30:17 ,altmedicine,drops
+26,,,24/07/2019 ,24/07/2019 10:16:09, , ,sy,t5vjely0,9,2019-07-24T12:16:41+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:16:09 ,symptom, 
+27,,,23/07/2019 ,23/07/2019 20:43:28, , ,sy,hiukg4a7,9,2019-07-23T20:43:28+02:00,Nekpijn, ,nekpijn-39synl,20:43:28 ,symptom, 
+28,,,23/07/2019 ,23/07/2019 18:10:10, , ,sy,ul8qyzwb,9,2019-07-23T18:10:10+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,18:10:10 ,symptom, 
+29,,,23/07/2019 ,23/07/2019 16:24:49, , ,ma,kkyh0zdk, ,2019-07-23T18:25:35+02:00,thc,3,thc-15manl,16:24:49 ,altmedicine,drops
+30,,,23/07/2019 ,23/07/2019 14:11:31, , ,me,nu4ovpew, ,2019-07-23T14:11:31+02:00,Zuurstof,12,zuurstof-101menl,14:11:31 ,medicine,l/m
+31,,,23/07/2019 ,23/07/2019 14:11:26, , ,sy,uk468oka,9,2019-07-23T14:11:26+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:11:26 ,symptom, 
+32,,,23/07/2019 ,23/07/2019 11:07:13, , ,sy,nr16x3s7,8,2019-07-23T11:07:13+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:07:13 ,symptom, 
+33,,,23/07/2019 ,23/07/2019 11:07:04, , ,ma,kjt1qs1v, ,2019-07-24T10:37:52+02:00,truffels,0.00001,truffels-18manl,11:07:04 ,altmedicine,mg
+34,,,23/07/2019 ,23/07/2019 11:06:23, , ,fo,4aelclq8, ,2019-07-23T11:06:23+02:00,energie-drank,1,energie-drank-6fonl,11:06:23 ,food,ml
+35,,,23/07/2019 ,23/07/2019 10:54:26, , ,ma,kf7hgxuz, ,2019-07-23T10:54:26+02:00,thc,3,thc-15manl,10:54:26 ,altmedicine,drops
+36,,,23/07/2019 ,23/07/2019 06:55:55, , ,ma,muenrth5, ,2019-07-23T06:55:55+02:00,thc,3,thc-15manl,06:55:55 ,altmedicine,drops
+37,,,22/07/2019 ,22/07/2019 21:33:40, , ,sy,p1cfeehc,8,2019-07-23T00:34:17+02:00,Nekpijn, ,nekpijn-39synl,21:33:40 ,symptom, 
+38,,,22/07/2019 ,22/07/2019 20:42:10, , ,ma,cgd31vpk, ,2019-07-22T20:42:32+02:00,thc,2,thc-15manl,20:42:10 ,altmedicine,drops
+39,,,22/07/2019 ,22/07/2019 20:39:15, , ,sy,nrovl561,8,2019-07-22T20:39:15+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,20:39:15 ,symptom, 
+40,,,22/07/2019 ,22/07/2019 15:07:14, , ,sy,0gax9kra,8,2019-07-22T15:07:14+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,15:07:14 ,symptom, 
+41,,,22/07/2019 ,22/07/2019 10:48:41, , ,ma,h8syme1a, ,2019-07-22T10:48:41+02:00,truffels,2,truffels-18manl,10:48:41 ,altmedicine,mg
+42,,,21/07/2019 ,21/07/2019 21:29:22, , ,me,hrkd0ldn, ,2019-07-21T21:29:22+02:00,Zuurstof,12,zuurstof-101menl,21:29:22 ,medicine,l/m
+43,,,21/07/2019 ,21/07/2019 21:29:07, , ,sy,i139er03,7,2019-07-21T21:29:07+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,21:29:07 ,symptom, 
+44,,,21/07/2019 ,21/07/2019 15:00:35, , ,ma,uyhr42ow, ,2019-07-21T14:51:20+02:00,thc,3,thc-15manl,15:00:35 ,altmedicine,drops
+45,,,21/07/2019 ,21/07/2019 11:14:33, , ,ma,xwya15ls, ,2019-07-21T14:50:49+02:00,thc,3,thc-15manl,11:14:33 ,altmedicine,drops
+46,,,20/07/2019 ,20/07/2019 15:54:18, , ,ma,rdvuetak, ,2019-07-20T15:54:18+02:00,thc,3,thc-15manl,15:54:18 ,altmedicine,drops
+47,,,20/07/2019 ,20/07/2019 15:54:04, , ,sy,ujd0kbs0,9,2019-07-20T15:54:04+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,15:54:04 ,symptom, 
+48,,,20/07/2019 ,20/07/2019 11:14:26, , ,ma,kc3vrdc6, ,2019-07-20T11:23:26+02:00,truffels,2.5,truffels-18manl,11:14:26 ,altmedicine,mg
+49,,,19/07/2019 ,19/07/2019 20:06:33, , ,sy,7rtcdwrh,8,2019-07-19T20:06:33+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,20:06:33 ,symptom, 
+50,,,19/07/2019 ,19/07/2019 16:13:54, , ,ma,ig0pt32f, ,2019-07-19T17:11:34+02:00,thc,3,thc-15manl,16:13:54 ,altmedicine,drops
+51,,,19/07/2019 ,19/07/2019 16:02:05, , ,sy,rijivxoq,7,2019-07-19T17:11:56+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,16:02:05 ,symptom, 
+52,,,19/07/2019 ,19/07/2019 11:35:37, ,00:20:00,th,h0uoy37h,5,2019-07-20T15:57:16+02:00,Fysiotherapie, ,fysiotherapie-10thnl,11:35:37 ,therapy, 
+53,,,19/07/2019 ,19/07/2019 08:53:45, , ,ma,vfuff88p, ,2019-07-19T08:53:45+02:00,truffels,2,truffels-18manl,08:53:45 ,altmedicine,mg
+54,,,18/07/2019 ,18/07/2019 19:41:32, , ,me,2iirifww, ,2019-07-18T19:41:32+02:00,Zuurstof,12,zuurstof-101menl,19:41:32 ,medicine,l/m
+55,,,18/07/2019 ,18/07/2019 19:41:23, , ,sy,myrbqzcm,7,2019-07-18T19:41:23+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:41:23 ,symptom, 
+56,,,18/07/2019 ,18/07/2019 18:06:34, , ,ma,29gz9i2s, ,2019-07-18T20:07:49+02:00,thc,3,thc-15manl,18:06:34 ,altmedicine,drops
+57,,,18/07/2019 ,18/07/2019 12:43:47, , ,ma,35hyemlr, ,2019-07-18T20:05:03+02:00,truffels,0.00001,truffels-18manl,12:43:47 ,altmedicine,mg
+58,,,18/07/2019 ,18/07/2019 12:43:43, , ,sy,wm2p9uwi,9,2019-07-18T12:43:43+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:43:43 ,symptom, 
+59,,,18/07/2019 ,18/07/2019 12:06:31, , ,ma,63v8hrar, ,2019-07-18T20:07:03+02:00,thc,3,thc-15manl,12:06:31 ,altmedicine,drops
+60,,,18/07/2019 ,18/07/2019 10:11:42, , ,fo,8nbe76s3, ,2019-07-18T10:11:42+02:00,energie-drank,1,energie-drank-6fonl,10:11:42 ,food,ml
+61,,,18/07/2019 ,18/07/2019 09:20:26, , ,ma,35sl34k9, ,2019-07-18T09:20:50+02:00,truffels,0.00001,truffels-18manl,09:20:26 ,altmedicine,mg
+62,,,18/07/2019 ,18/07/2019 09:16:47, , ,sy,hm96l4gs,10,2019-07-18T09:46:15+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,09:16:47 ,symptom, 
+63,,,18/07/2019 ,18/07/2019 07:30:52, , ,ma,7z37ddpc, ,2019-07-18T09:17:30+02:00,thc,3,thc-15manl,07:30:52 ,altmedicine,drops
+64,,,17/07/2019 ,17/07/2019 19:18:16, , ,me,t2bwya6w, ,2019-07-17T19:18:16+02:00,Zuurstof,12,zuurstof-101menl,19:18:16 ,medicine,l/m
+65,,,17/07/2019 ,17/07/2019 19:18:07, , ,sy,6vhfr4nz,7,2019-07-17T19:18:07+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:18:07 ,symptom, 
+66,,,17/07/2019 ,17/07/2019 12:13:19, , ,fo,ugac25w5, ,2019-07-17T12:13:19+02:00,energie-drank,1,energie-drank-6fonl,12:13:19 ,food,ml
+67,,,17/07/2019 ,17/07/2019 11:43:27, , ,sy,ezm57rmn,8,2019-07-17T11:43:27+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:43:27 ,symptom, 
+68,,,17/07/2019 ,17/07/2019 11:43:18, , ,ma,i2iyxjtq, ,2019-07-17T12:14:20+02:00,truffels,0.0001,truffels-18manl,11:43:18 ,altmedicine,mg
+69,,,17/07/2019 ,17/07/2019 10:24:47, , ,ma,b1jfuob8, ,2019-07-17T10:24:47+02:00,truffels,2,truffels-18manl,10:24:47 ,altmedicine,mg
+70,,,16/07/2019 ,16/07/2019 18:18:20, , ,ma,25rfimvx, ,2019-07-16T18:18:20+02:00,thc,3,thc-15manl,18:18:20 ,altmedicine,drops
+71,,,16/07/2019 ,16/07/2019 18:16:39, , ,sy,45bzxr91,8,2019-07-16T18:16:39+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,18:16:39 ,symptom, 
+72,,,16/07/2019 ,16/07/2019 15:16:57, , ,sy,djga3sly,7,2019-07-16T16:09:36+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:16:57 ,symptom, 
+73,,,16/07/2019 ,16/07/2019 15:15:04, , ,me,ll08v9q0, ,2019-07-16T16:09:57+02:00,Zuurstof,12,zuurstof-101menl,15:15:04 ,medicine,l/m
+74,,,16/07/2019 ,16/07/2019 14:15:08, , ,ma,rrift96z, ,2019-07-16T15:10:01+02:00,truffels,0.00001,truffels-18manl,14:15:08 ,altmedicine,mg
+75,,,16/07/2019 ,16/07/2019 12:39:58, , ,ma,2ymp02tt, ,2019-07-16T12:39:58+02:00,thc,3,thc-15manl,12:39:58 ,altmedicine,drops
+76,,,16/07/2019 ,16/07/2019 10:19:16, , ,sy,zth8chhi,7,2019-07-16T10:19:16+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:19:16 ,symptom, 
+77,,,16/07/2019 ,16/07/2019 08:46:28, , ,ma,htohxbwe, ,2019-07-16T10:19:59+02:00,thc,3,thc-15manl,08:46:28 ,altmedicine,drops
+78,,,15/07/2019 ,15/07/2019 10:20:55, , ,ma,5908t7xs, ,2019-07-15T13:18:36+02:00,truffels,2,truffels-18manl,10:20:55 ,altmedicine,mg
+79,,,14/07/2019 ,14/07/2019 15:22:41, , ,ma,23ynlfp3, ,2019-07-14T15:23:14+02:00,thc,3,thc-15manl,15:22:41 ,altmedicine,drops
+80,,,14/07/2019 ,14/07/2019 13:36:38, , ,me,t4xkslj6, ,2019-07-14T13:36:38+02:00,Zuurstof,12,zuurstof-101menl,13:36:38 ,medicine,l/m
+81,,,14/07/2019 ,14/07/2019 12:55:28, , ,fo,t2v0jeoe, ,2019-07-14T12:55:28+02:00,energie-drank,1,energie-drank-6fonl,12:55:28 ,food,ml
+82,,,14/07/2019 ,14/07/2019 11:30:59, , ,ma,efc0ex2r, ,2019-07-15T13:19:38+02:00,truffels,0.00001,truffels-18manl,11:30:59 ,altmedicine,mg
+83,,,14/07/2019 ,14/07/2019 11:00:23, , ,ma,ttxvrnv3, ,2019-07-14T11:40:06+02:00,thc,3,thc-15manl,11:00:23 ,altmedicine,drops
+84,,,14/07/2019 ,14/07/2019 10:16:59, , ,sy,w9e3iywi,7,2019-07-14T13:43:34+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:16:59 ,symptom, 
+85,,,13/07/2019 ,13/07/2019 15:50:22, , ,me,5pxct8z6, ,2019-07-13T15:50:22+02:00,Zuurstof,12,zuurstof-101menl,15:50:22 ,medicine,l/m
+86,,,13/07/2019 ,13/07/2019 15:15:02, , ,ma,2rsxn3iq, ,2019-07-15T13:20:18+02:00,truffels,0.00001,truffels-18manl,15:15:02 ,altmedicine,mg
+87,,,13/07/2019 ,13/07/2019 15:13:19, , ,sy,1254x79d,6,2019-07-13T15:13:19+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:13:19 ,symptom, 
+88,,,13/07/2019 ,13/07/2019 10:30:06, , ,ma,3yf0ch90, ,2019-07-15T13:26:57+02:00,truffels,3,truffels-18manl,10:30:06 ,altmedicine,mg
+89,,,12/07/2019 ,12/07/2019 14:25:11, , ,me,0heoo78i, ,2019-07-12T14:25:11+02:00,Zuurstof,12,zuurstof-101menl,14:25:11 ,medicine,l/m
+90,,,12/07/2019 ,12/07/2019 14:15:40, , ,sy,z4skqi49,7,2019-07-15T13:29:29+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:15:40 ,symptom, 
+91,,,12/07/2019 ,12/07/2019 14:15:09, , ,ma,snqpuca3, ,2019-07-15T13:27:20+02:00,truffels,2,truffels-18manl,14:15:09 ,altmedicine,mg
+92,,,12/07/2019 ,12/07/2019 12:15:27, , ,fo,kbiecagx, ,2019-07-12T12:15:27+02:00,energie-drank,1,energie-drank-6fonl,12:15:27 ,food,ml
+93,,,11/07/2019 ,11/07/2019 12:35:27, ,12:35:00,sy,o6fa8wid,7,2019-07-11T14:31:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:35:27 ,symptom, 
+94,,,11/07/2019 ,11/07/2019 12:35:02, , ,me,2rop0wfq, ,2019-07-11T14:31:51+02:00,Zuurstof,12,zuurstof-101menl,12:35:02 ,medicine,l/m
+95,,,11/07/2019 ,11/07/2019 12:15:40, , ,sy,gdg010zq,6,2019-07-11T14:29:52+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:15:40 ,symptom, 
+96,,,11/07/2019 ,11/07/2019 12:15:31, , ,me,iji3r3g7, ,2019-07-11T14:29:36+02:00,Zuurstof,12,zuurstof-101menl,12:15:31 ,medicine,l/m
+97,,,11/07/2019 ,11/07/2019 10:17:27, , ,fo,fi7fvay2, ,2019-07-11T10:17:27+02:00,energie-drank,1,energie-drank-6fonl,10:17:27 ,food,ml
+98,,,10/07/2019 ,10/07/2019 12:44:04, , ,th,jspk267t,6,2019-07-10T12:44:04+02:00,Fysiotherapie, ,fysiotherapie-10thnl,12:44:04 ,therapy, 
+99,,,10/07/2019 ,10/07/2019 12:43:48, , ,sy,hyvtgybx,7,2019-07-10T12:43:48+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:43:48 ,symptom, 
+100,,,10/07/2019 ,10/07/2019 12:43:25, , ,fo,jeg07wpy, ,2019-07-10T12:43:25+02:00,energie-drank,1,energie-drank-6fonl,12:43:25 ,food,ml
+101,,,06/07/2019 ,06/07/2019 16:42:15, , ,me,lrwx58cv, ,2019-07-10T16:43:14+02:00,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,16:42:15 ,medicine,mg
+102,,,06/07/2019 ,06/07/2019 16:42:13, , ,sy,bdthxogn,6,2019-07-10T16:42:54+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:42:13 ,symptom, 
+103,,,06/07/2019 ,06/07/2019 13:57:48, , ,fo,tmxbmneo, ,2019-07-06T13:57:48+02:00,energie-drank,1,energie-drank-6fonl,13:57:48 ,food,ml
+104,,,04/07/2019 ,04/07/2019 14:05:23, , ,me,6f7wgc1x, ,2019-07-04T14:05:23+02:00,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,14:05:23 ,medicine,mg
+105,,,04/07/2019 ,04/07/2019 14:05:21, , ,sy,p4tjdq5q,6,2019-07-04T14:05:21+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:05:21 ,symptom, 
+106,,,02/07/2019 ,02/07/2019 16:17:23, , ,me,x9qaidm0, ,2019-07-02T16:17:23+02:00,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,16:17:23 ,medicine,mg
+107,,,02/07/2019 ,02/07/2019 16:17:21, ,15:20:00,sy,dpo4cck7,4,2019-07-02T16:17:21+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:17:21 ,symptom, 
+108,,,02/07/2019 ,02/07/2019 12:30:28, , ,sy,aodeioqp,5,2019-07-02T12:30:28+02:00,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:30:28 ,symptom, 
+109,,,02/07/2019 ,02/07/2019 12:30:07, , ,fo,jfp252ub, ,2019-07-02T12:30:07+02:00,energie-drank,1,energie-drank-6fonl,12:30:07 ,food,ml
+110,,,01/07/2019 ,01/07/2019 18:09:35, , ,sy,ukyjrpwy,6,2019-07-01T18:09:35+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:09:35 ,symptom, 
+111,,,01/07/2019 ,01/07/2019 18:09:24, , ,me,y8030ibn, ,2019-07-01T18:09:24+02:00,Zuurstof,12,zuurstof-101menl,18:09:24 ,medicine,l/m
+112,,,01/07/2019 ,01/07/2019 14:57:04, , ,fo,167ga51y, ,2019-07-01T14:57:04+02:00,energie-drank,1,energie-drank-6fonl,14:57:04 ,food,ml
+113,,,01/07/2019 ,01/07/2019 13:20:49, , ,me,xwkgntx1, ,2019-07-01T13:20:49+02:00,Zuurstof,12,zuurstof-101menl,13:20:49 ,medicine,l/m
+114,,,01/07/2019 ,01/07/2019 13:20:27, , ,sy,6jv9161l,5,2019-07-01T13:20:27+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:20:27 ,symptom, 
+115,,,29/06/2019 ,29/06/2019 14:37:01, , ,fo,4fannvbn, ,2019-06-29T14:37:01+02:00,energie-drank,1,energie-drank-6fonl,14:37:01 ,food,ml
+116,,,28/06/2019 ,28/06/2019 16:48:03, , ,me,ugzufb5c, ,2019-06-28T16:48:03+02:00,Zuurstof,12,zuurstof-101menl,16:48:03 ,medicine,l/m
+117,,,28/06/2019 ,28/06/2019 16:47:41, , ,sy,qyjye9ws,6,2019-06-28T16:47:41+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:47:41 ,symptom, 
+118,,,25/06/2019 ,25/06/2019 10:15:34, , ,me,jt19lt6f, ,2019-07-14T15:58:47+02:00,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,10:15:34 ,medicine,mg
+119,,,25/06/2019 ,25/06/2019 10:15:32, , ,sy,inbdbm7s,6,2019-07-14T15:57:57+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,10:15:32 ,symptom, 
+120,,,23/06/2019 ,23/06/2019 15:15:59, , ,me,irquicr4, ,2019-07-14T16:00:05+02:00,Zuurstof,12,zuurstof-101menl,15:15:59 ,medicine,l/m
+121,,,23/06/2019 ,23/06/2019 15:14:25, , ,sy,b1c34ja7,6,2019-07-14T15:59:31+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:14:25 ,symptom, 
+122,,,23/06/2019 ,23/06/2019 12:00:41, , ,me,220mgmg4, ,2019-07-14T16:06:44+02:00,Zuurstof,12,zuurstof-101menl,12:00:41 ,medicine,l/m
+123,,,23/06/2019 ,23/06/2019 12:00:18, , ,sy,uhmk70t9,6,2019-07-14T16:07:23+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:00:18 ,symptom, 
+124,,,22/06/2019 ,22/06/2019 12:45:09, , ,me,akcyhbrp, ,2019-07-14T16:08:51+02:00,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,12:45:09 ,medicine,mg
+125,,,22/06/2019 ,22/06/2019 12:45:07, , ,sy,fihukbui,6,2019-07-14T16:09:38+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:45:07 ,symptom, 
+126,,,20/06/2019 ,20/06/2019 12:15:55, , ,me,z42vljre, ,2019-07-14T16:10:19+02:00,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,12:15:55 ,medicine,mg
+127,,,20/06/2019 ,20/06/2019 12:15:51, , ,sy,2aold5hm,5,2019-07-14T16:10:52+02:00,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:15:51 ,symptom, 
+128,,,04/06/2019 ,04/06/2019 15:21:38, , ,me,acekz4m6, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,15:21:38 ,medicine,mg
+129,,,04/06/2019 ,04/06/2019 15:21:36, , ,sy,bqqh9tr4,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:21:36 ,symptom, 
+130,,,22/05/2019 ,22/05/2019 12:15:25, , ,sy,57mga2mu,6, ,Hartkloppingen, ,hartkloppingen-41synl,12:15:25 ,symptom, 
+131,,,21/05/2019 ,21/05/2019 14:16:57, , ,me,j4c4ync5, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,14:16:57 ,medicine,mg
+132,,,21/05/2019 ,21/05/2019 14:16:55, ,13:38:00,sy,gdhc5kyt,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:16:55 ,symptom, 
+133,,,20/05/2019 ,20/05/2019 12:35:59, , ,sy,x0k6odr4,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:35:59 ,symptom, 
+134,,,20/05/2019 ,20/05/2019 12:35:51, , ,sy,vl2k0ad4,7, ,Nekpijn, ,nekpijn-39synl,12:35:51 ,symptom, 
+135,,,19/05/2019 ,19/05/2019 15:02:32, , ,fo,ky9osalz, , ,energie-drank,1,energie-drank-6fonl,15:02:32 ,food,ml
+136,,,19/05/2019 ,19/05/2019 12:02:39, , ,sy,cxm1mxg8,8, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:02:39 ,symptom, 
+137,,,09/05/2019 ,09/05/2019 15:14:58, , ,me,0khgansx, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,15:14:58 ,medicine,mg
+138,,,09/05/2019 ,09/05/2019 15:14:56, ,12:15:00,sy,h6u4u6rt,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:14:56 ,symptom, 
+139,,,03/05/2019 ,03/05/2019 14:56:15, , ,me,r2777q0b, , ,verapamil-hydrochloride,80,verapamil-hydrochloride-60menl,14:56:15 ,medicine,mg
+140,,,03/05/2019 ,03/05/2019 13:35:47, , ,th,g8lppzh8,7, ,Fysiotherapie, ,fysiotherapie-10thnl,13:35:47 ,therapy, 
+141,,,02/05/2019 ,02/05/2019 19:22:16, , ,sy,op6v9gno,8, ,Nekpijn, ,nekpijn-39synl,19:22:16 ,symptom, 
+142,,,02/05/2019 ,02/05/2019 19:22:08, , ,sy,9sesyzoo,8, ,Zweten, ,zweten-61synl,19:22:08 ,symptom, 
+143,,,02/05/2019 ,02/05/2019 19:21:56, , ,me,1pfyfntf, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,19:21:56 ,medicine,mg
+144,,,02/05/2019 ,02/05/2019 19:21:54, ,18:45:00,sy,m4j3fugl,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:21:54 ,symptom, 
+145,,,26/04/2019 ,26/04/2019 22:17:35, , ,me,ex9zhrih, , ,verapamil-hydrochloride,160,verapamil-hydrochloride-60menl,22:17:35 ,medicine,mg
+146,,,25/04/2019 ,25/04/2019 09:27:26, , ,sy,fsh3xm53,9, ,Nekpijn, ,nekpijn-39synl,09:27:26 ,symptom, 
+147,,,23/04/2019 ,23/04/2019 20:19:22, , ,sy,gptvz3x8,6, ,Hartkloppingen, ,hartkloppingen-41synl,20:19:22 ,symptom, 
+148,,,23/04/2019 ,23/04/2019 20:18:32, , ,me,5d5v9vbk, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,20:18:32 ,medicine,mg
+149,,,23/04/2019 ,23/04/2019 20:18:31, ,19:45:00,sy,zgeuifsh,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:18:31 ,symptom, 
+150,,,20/04/2019 ,20/04/2019 11:30:18, , ,me,7dtw1ez9, , ,verapamil-hydrochloride,240,verapamil-hydrochloride-60menl,11:30:18 ,medicine,mg
+151,,,19/04/2019 ,19/04/2019 15:15:41, ,11:20:00,th,y2avyb2h,9, ,Fysiotherapie, ,fysiotherapie-10thnl,15:15:41 ,therapy, 
+152,,,19/04/2019 ,19/04/2019 11:18:12, , ,me,dwlbiuc7, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,11:18:12 ,medicine,mg
+153,,,19/04/2019 ,19/04/2019 11:18:11, , ,sy,jgl8009b,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:18:11 ,symptom, 
+154,,,18/04/2019 ,18/04/2019 13:19:01, , ,me,4oso9ul6, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,13:19:01 ,medicine,mg
+155,,,18/04/2019 ,18/04/2019 13:18:59, , ,sy,xhmvytnk,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:18:59 ,symptom, 
+156,,,13/04/2019 ,13/04/2019 11:26:55, , ,me,i9rxweus, , ,verapamil-hydrochloride,320,verapamil-hydrochloride-60menl,11:26:55 ,medicine,mg
+157,,,11/04/2019 ,11/04/2019 15:31:25, , ,sy,aw6fgyqm,7, ,Hartkloppingen, ,hartkloppingen-41synl,15:31:25 ,symptom, 
+158,,,11/04/2019 ,11/04/2019 13:34:37, , ,me,v6liiapo, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,13:34:37 ,medicine,mg
+159,,,11/04/2019 ,11/04/2019 13:34:36, , ,sy,iidrhxsr,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:34:36 ,symptom, 
+160,,,09/04/2019 ,09/04/2019 10:43:03, , ,sy,skuyshpd,6, ,Hartkloppingen, ,hartkloppingen-41synl,10:43:03 ,symptom, 
+161,,,09/04/2019 ,09/04/2019 10:10:18, , ,sy,6eabdlv8,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:10:18 ,symptom, 
+162,,,08/04/2019 ,08/04/2019 12:15:20, , ,sy,r0wrw817,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:15:20 ,symptom, 
+163,,,05/04/2019 ,05/04/2019 13:32:44, , ,me,ac01mk6j, , ,verapamil-hydrochloride,400,verapamil-hydrochloride-60menl,13:32:44 ,medicine,mg
+164,,,05/04/2019 ,05/04/2019 13:32:09, ,11:36:00,th,3ui745ku,8, ,Fysiotherapie, ,fysiotherapie-10thnl,13:32:09 ,therapy, 
+165,,,04/04/2019 ,04/04/2019 14:41:49, , ,fo,938674cb, , ,energie-drank,1,energie-drank-6fonl,14:41:49 ,food,ml
+166,,,04/04/2019 ,04/04/2019 11:23:23, , ,me,cosm27xf, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,11:23:23 ,medicine,mg
+167,,,04/04/2019 ,04/04/2019 11:23:21, , ,sy,idrdx7xy,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:23:21 ,symptom, 
+168,,,03/04/2019 ,03/04/2019 14:23:34, , ,sy,f5nm6z6w,6, ,Hartkloppingen, ,hartkloppingen-41synl,14:23:34 ,symptom, 
+169,,,03/04/2019 ,03/04/2019 14:07:23, , ,sy,ymhp983w,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,14:07:23 ,symptom, 
+170,,,03/04/2019 ,03/04/2019 14:07:14, , ,fo,fscxx4hk, , ,energie-drank,1,energie-drank-6fonl,14:07:14 ,food,ml
+171,,,01/04/2019 ,01/04/2019 18:25:28, , ,me,cfyqwyf7, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,18:25:28 ,medicine,mg
+172,,,01/04/2019 ,01/04/2019 18:25:03, , ,sy,j1xx1qj6,9, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:25:03 ,symptom, 
+173,,,01/04/2019 ,01/04/2019 18:07:16, , ,sy,ma8zdzvb,10, ,Hartkloppingen, ,hartkloppingen-41synl,18:07:16 ,symptom, 
+174,,,01/04/2019 ,01/04/2019 13:33:05, , ,fo,0z1uzbtq, , ,energie-drank,1,energie-drank-6fonl,13:33:05 ,food,ml
+175,,,31/03/2019 ,31/03/2019 16:33:27, , ,me,tr4laoey, , ,Zuurstof,12,zuurstof-101menl,16:33:27 ,medicine,l/m
+176,,,31/03/2019 ,31/03/2019 16:33:10, , ,sy,lb2v5unq,8, ,Nekpijn, ,nekpijn-39synl,16:33:10 ,symptom, 
+177,,,31/03/2019 ,31/03/2019 16:33:02, , ,sy,rfi21mzy,6, ,Duizeligheid, ,duizeligheid-19synl,16:33:02 ,symptom, 
+178,,,31/03/2019 ,31/03/2019 16:32:48, , ,sy,o7rwqlqe,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:32:48 ,symptom, 
+179,,,31/03/2019 ,31/03/2019 15:35:37, , ,sy,liz8fri3,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,15:35:37 ,symptom, 
+180,,,29/03/2019 ,29/03/2019 16:12:06, ,11:15:00,th,0j16h1ay,5, ,Fysiotherapie, ,fysiotherapie-10thnl,16:12:06 ,therapy, 
+181,,,27/03/2019 ,27/03/2019 16:31:36, , ,me,auvpq0r5, , ,Zuurstof,12,zuurstof-101menl,16:31:36 ,medicine,l/m
+182,,,27/03/2019 ,27/03/2019 16:31:13, , ,sy,j7kuni54,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:31:13 ,symptom, 
+183,,,27/03/2019 ,27/03/2019 12:02:28, , ,fo,g26n95ol, , ,energie-drank,1,energie-drank-6fonl,12:02:28 ,food,ml
+184,,,27/03/2019 ,27/03/2019 12:02:22, , ,sy,9reao2f6,8, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:02:22 ,symptom, 
+185,,,23/03/2019 ,23/03/2019 12:00:58, , ,sy,av30d91k,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:00:58 ,symptom, 
+186,,,23/03/2019 ,23/03/2019 12:00:53, , ,fo,w9kdk2pc, , ,energie-drank,1,energie-drank-6fonl,12:00:53 ,food,ml
+187,,,22/03/2019 ,22/03/2019 16:13:06, ,11:33:00,th,a2in05dr,5, ,Fysiotherapie, ,fysiotherapie-10thnl,16:13:06 ,therapy, 
+188,,,22/03/2019 ,22/03/2019 11:28:49, , ,sy,hwmo1zdv,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:28:49 ,symptom, 
+189,,,22/03/2019 ,22/03/2019 11:28:44, , ,fo,pfidruww, , ,energie-drank,1,energie-drank-6fonl,11:28:44 ,food,ml
+190,,,22/03/2019 ,22/03/2019 11:28:40, , ,sy,aqkx8rl4,5, ,Nekpijn, ,nekpijn-39synl,11:28:40 ,symptom, 
+191,,,22/03/2019 ,22/03/2019 01:11:39, , ,me,aynn6twe, , ,verapamil-hydrochloride,420,verapamil-hydrochloride-60menl,01:11:39 ,medicine,mg
+192,,,20/03/2019 ,20/03/2019 12:13:46, , ,sy,t0w62fd7,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:13:46 ,symptom, 
+193,,,20/03/2019 ,20/03/2019 12:13:38, , ,fo,2yood2pw, , ,energie-drank,1,energie-drank-6fonl,12:13:38 ,food,ml
+194,,,19/03/2019 ,19/03/2019 13:37:59, , ,fo,x8xe8xw4, , ,energie-drank,1,energie-drank-6fonl,13:37:59 ,food,ml
+195,,,19/03/2019 ,19/03/2019 13:37:56, , ,sy,xp7rtdjl, , ,Hartkloppingen, ,hartkloppingen-41synl,13:37:56 ,symptom, 
+196,,,16/03/2019 ,16/03/2019 12:35:21, , ,fo,ftqe1wu5, , ,energie-drank,1,energie-drank-6fonl,12:35:21 ,food,ml
+197,,,16/03/2019 ,16/03/2019 12:11:00, , ,sy,msanml4u,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:11:00 ,symptom, 
+198,,,15/03/2019 ,15/03/2019 13:18:32, ,11:33:00,th,we6z277r,6, ,Fysiotherapie, ,fysiotherapie-10thnl,13:18:32 ,therapy, 
+199,,,15/03/2019 ,15/03/2019 13:17:52, , ,fo,exo6cmus, , ,energie-drank,1,energie-drank-6fonl,13:17:52 ,food,ml
+200,,,14/03/2019 ,14/03/2019 15:04:08, , ,fo,i1zfss1n, , ,energie-drank,1,energie-drank-6fonl,15:04:08 ,food,ml
+201,,,14/03/2019 ,14/03/2019 14:02:11, , ,me,z2scr1bm, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,14:02:11 ,medicine,mg
+202,,,14/03/2019 ,14/03/2019 14:02:05, , ,sy,yypdltc6,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:02:05 ,symptom, 
+203,,,13/03/2019 ,13/03/2019 17:27:51, , ,me,hw94pzu8, , ,Zuurstof,14,zuurstof-101menl,17:27:51 ,medicine,l/m
+204,,,13/03/2019 ,13/03/2019 17:27:30, , ,sy,wz9hemhk,10, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:27:30 ,symptom, 
+205,,,13/03/2019 ,13/03/2019 13:57:19, , ,sy,ey4v26x4,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,13:57:19 ,symptom, 
+206,,,13/03/2019 ,13/03/2019 13:57:13, , ,fo,r1fj60hw, , ,energie-drank,1,energie-drank-6fonl,13:57:13 ,food,ml
+207,,,13/03/2019 ,13/03/2019 13:57:08, , ,sy,kuzp4ujf,7, ,Nekpijn, ,nekpijn-39synl,13:57:08 ,symptom, 
+208,,,12/03/2019 ,12/03/2019 23:06:25, , ,me,gbu8iyzi, , ,verapamil-hydrochloride,560,verapamil-hydrochloride-60menl,23:06:25 ,medicine,mg
+209,,,12/03/2019 ,12/03/2019 15:29:25, , ,fo,t4cahtg4, , ,energie-drank,1,energie-drank-6fonl,15:29:25 ,food,ml
+210,,,12/03/2019 ,12/03/2019 12:42:07, , ,sy,o1ehmrua,8, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:42:07 ,symptom, 
+211,,,12/03/2019 ,12/03/2019 12:41:59, ,10:02:00,sy,d2r0kdwa,9, ,Hartkloppingen, ,hartkloppingen-41synl,12:41:59 ,symptom, 
+212,,,12/03/2019 ,12/03/2019 12:41:44, , ,sy,g3g8yy48,6, ,Nekpijn, ,nekpijn-39synl,12:41:44 ,symptom, 
+213,,,11/03/2019 ,11/03/2019 12:08:44, , ,sy,vnu8geg0,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:08:44 ,symptom, 
+214,,,09/03/2019 ,09/03/2019 14:21:33, ,12:00:00,sy,bfgkzqt3,5, ,Hartkloppingen, ,hartkloppingen-41synl,14:21:33 ,symptom, 
+215,,,09/03/2019 ,09/03/2019 12:00:08, , ,fo,cbv9pejs, , ,energie-drank,1,energie-drank-6fonl,12:00:08 ,food,ml
+216,,,09/03/2019 ,09/03/2019 11:21:15, , ,sy,scpfs8da,7, ,Nekpijn, ,nekpijn-39synl,11:21:15 ,symptom, 
+217,,,09/03/2019 ,09/03/2019 10:24:42, , ,sy,0n0yostz,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:24:42 ,symptom, 
+218,,,08/03/2019 ,08/03/2019 16:06:05, ,13:25:00,th,c8m8qvi3,5, ,Fysiotherapie, ,fysiotherapie-10thnl,16:06:05 ,therapy, 
+219,,,08/03/2019 ,08/03/2019 15:49:11, , ,sy,7ux32tjb,6, ,Hartkloppingen, ,hartkloppingen-41synl,15:49:11 ,symptom, 
+220,,,08/03/2019 ,08/03/2019 15:49:00, , ,sy,9hzecltj,7, ,Duizeligheid, ,duizeligheid-19synl,15:49:00 ,symptom, 
+221,,,08/03/2019 ,08/03/2019 14:34:30, , ,fo,g0fm38zv, , ,energie-drank,1,energie-drank-6fonl,14:34:30 ,food,ml
+222,,,07/03/2019 ,07/03/2019 15:13:50, , ,fo,zvwgdthf, , ,energie-drank,1,energie-drank-6fonl,15:13:50 ,food,ml
+223,,,07/03/2019 ,07/03/2019 12:39:39, , ,me,1x64bmwc, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,12:39:39 ,medicine,mg
+224,,,07/03/2019 ,07/03/2019 12:39:38, , ,sy,6xspwi2a,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:39:38 ,symptom, 
+225,,,06/03/2019 ,06/03/2019 14:47:42, , ,fo,6w8hnjfz, , ,energie-drank,1,energie-drank-6fonl,14:47:42 ,food,ml
+226,,,06/03/2019 ,06/03/2019 12:40:18, , ,me,scrt5wto, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,12:40:18 ,medicine,mg
+227,,,06/03/2019 ,06/03/2019 12:40:16, , ,sy,ltrdiasn,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:40:16 ,symptom, 
+228,,,06/03/2019 ,06/03/2019 11:10:21, , ,fo,6fw0z27s, , ,energie-drank,1,energie-drank-6fonl,11:10:21 ,food,ml
+229,,,06/03/2019 ,06/03/2019 10:32:21, , ,sy,io62aw66,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:32:21 ,symptom, 
+230,,,06/03/2019 ,06/03/2019 10:32:15, , ,sy,aod6b6fj,7, ,Nekpijn, ,nekpijn-39synl,10:32:15 ,symptom, 
+231,,,03/03/2019 ,03/03/2019 14:13:10, , ,fo,eg0hlqvo, , ,energie-drank,1,energie-drank-6fonl,14:13:10 ,food,ml
+232,,,03/03/2019 ,03/03/2019 11:30:18, , ,sy,zp7zkz1w,7, ,Nekpijn, ,nekpijn-39synl,11:30:18 ,symptom, 
+233,,,03/03/2019 ,03/03/2019 10:40:43, , ,sy,5lbqmo6h,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:40:43 ,symptom, 
+234,,,03/03/2019 ,03/03/2019 10:40:36, , ,fo,l78fr0dx, , ,energie-drank,1,energie-drank-6fonl,10:40:36 ,food,ml
+235,,,02/03/2019 ,02/03/2019 19:30:08, , ,fo,564w173m, , ,rode-wijn,4,rode-wijn-15fonl,19:30:08 ,food,ml
+236,,,02/03/2019 ,02/03/2019 16:01:25, , ,fo,2ulomqk0, , ,energie-drank,1,energie-drank-6fonl,16:01:25 ,food,ml
+237,,,02/03/2019 ,02/03/2019 11:23:01, , ,sy,p7leqf0r,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,11:23:01 ,symptom, 
+238,,,02/03/2019 ,02/03/2019 11:22:54, , ,fo,ut22ukc6, , ,energie-drank,1,energie-drank-6fonl,11:22:54 ,food,ml
+239,,,28/02/2019 ,28/02/2019 14:20:27, , ,fo,ixk11s9k, , ,energie-drank,1,energie-drank-6fonl,14:20:27 ,food,ml
+240,,,28/02/2019 ,28/02/2019 11:12:53, , ,sy,7t12gl3s,8, ,Nekpijn, ,nekpijn-39synl,11:12:53 ,symptom, 
+241,,,28/02/2019 ,28/02/2019 10:38:44, , ,sy,pan2a62p,7, ,Migraine, ,migraine-35synl,10:38:44 ,symptom, 
+242,,,28/02/2019 ,28/02/2019 10:37:51, , ,me,uj3littq, , ,zolmitriptan,2.5,zolmitriptan-61menl,10:37:51 ,medicine,mg
+243,,,28/02/2019 ,28/02/2019 10:37:48, , ,sy,1bdc9o3e,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:37:48 ,symptom, 
+244,,,28/02/2019 ,28/02/2019 10:37:42, , ,fo,vny7yosw, , ,energie-drank,1,energie-drank-6fonl,10:37:42 ,food,ml
+245,,,26/02/2019 ,26/02/2019 12:04:02, , ,sy,gapn0edv,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:04:02 ,symptom, 
+246,,,26/02/2019 ,26/02/2019 12:03:54, , ,fo,wz7rxf7b, , ,energie-drank,1,energie-drank-6fonl,12:03:54 ,food,ml
+247,,,25/02/2019 ,25/02/2019 15:40:52, , ,sy,j8wqzgjy,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,15:40:52 ,symptom, 
+248,,,24/02/2019 ,24/02/2019 13:39:45, , ,fo,wyp3jbfz, , ,energie-drank,1,energie-drank-6fonl,13:39:45 ,food,ml
+249,,,24/02/2019 ,24/02/2019 12:20:21, , ,sy,2nweayg3,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:20:21 ,symptom, 
+250,,,18/02/2019 ,18/02/2019 12:22:53, , ,fo,oobpsw3g, , ,energie-drank,1,energie-drank-6fonl,12:22:53 ,food,ml
+251,,,18/02/2019 ,18/02/2019 12:22:50, , ,sy,hjhhdhiw,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:22:50 ,symptom, 
+252,,,17/02/2019 ,17/02/2019 14:27:13, , ,me,3vjcsty5, , ,zolmitriptan,2.5,zolmitriptan-61menl,14:27:13 ,medicine,mg
+253,,,17/02/2019 ,17/02/2019 12:42:27, , ,me,oi6tu0ck, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,12:42:27 ,medicine,mg
+254,,,17/02/2019 ,17/02/2019 12:42:24, , ,sy,s4ay729v,9, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:42:24 ,symptom, 
+255,,,17/02/2019 ,17/02/2019 11:05:54, , ,fo,npvgo973, , ,energie-drank,1,energie-drank-6fonl,11:05:54 ,food,ml
+256,,,16/02/2019 ,16/02/2019 14:31:51, , ,fo,a40kmjvs, , ,energie-drank,1,energie-drank-6fonl,14:31:51 ,food,ml
+257,,,16/02/2019 ,16/02/2019 03:36:49, , ,sy,cwfziitv,6, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,03:36:49 ,symptom, 
+258,,,16/02/2019 ,16/02/2019 03:35:43, , ,fo,me8j1zdr, , ,energie-drank,1,energie-drank-6fonl,03:35:43 ,food,ml
+259,,,14/02/2019 ,14/02/2019 14:57:48, , ,fo,drcbrqee, , ,energie-drank,1,energie-drank-6fonl,14:57:48 ,food,ml
+260,,,14/02/2019 ,14/02/2019 12:00:13, , ,fo,nq258vh1, , ,energie-drank,1,energie-drank-6fonl,12:00:13 ,food,ml
+261,,,13/02/2019 ,13/02/2019 12:11:14, , ,sy,tz65h4ia,4, ,Druk in je hoofd, ,druk-in-je-hoofd-98synl,12:11:14 ,symptom, 
+262,,,13/02/2019 ,13/02/2019 12:11:03, , ,sy,iosngo7r,5, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:11:03 ,symptom, 
+263,,,13/02/2019 ,13/02/2019 12:10:56, , ,fo,jac8vv2r, , ,energie-drank,1,energie-drank-6fonl,12:10:56 ,food,ml
+264,,,12/02/2019 ,12/02/2019 14:07:36, ,11:37:00,th,utwwpvkx,8, ,Fysiotherapie, ,fysiotherapie-10thnl,14:07:36 ,therapy, 
+265,,,12/02/2019 ,12/02/2019 14:07:06, , ,fo,2xuaacc3, , ,energie-drank,1,energie-drank-6fonl,14:07:06 ,food,ml
+266,,,12/02/2019 ,12/02/2019 14:07:03, , ,sy,upq8f8a1,6, ,Druk in je hoofd, ,druk-in-je-hoofd-98synl,14:07:03 ,symptom, 
+267,,,11/02/2019 ,11/02/2019 14:07:22, , ,fo,n8hutmc3, , ,energie-drank,1,energie-drank-6fonl,14:07:22 ,food,ml
+268,,,11/02/2019 ,11/02/2019 10:07:17, , ,sy,17w1yrnh,6, ,Druk in je hoofd, ,druk-in-je-hoofd-98synl,10:07:17 ,symptom, 
+269,,,09/02/2019 ,09/02/2019 14:02:39, , ,me,vkesnq1i, , ,Zuurstof,12,zuurstof-101menl,14:02:39 ,medicine,l/m
+270,,,09/02/2019 ,09/02/2019 12:17:36, , ,sy,swr66cez,8, ,Druk in je hoofd, ,druk-in-je-hoofd-98synl,12:17:36 ,symptom, 
+271,,,09/02/2019 ,09/02/2019 12:17:32, , ,sy,3g4f09a3,8, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,12:17:32 ,symptom, 
+272,,,09/02/2019 ,09/02/2019 12:17:18, , ,fo,nv04ywuv, , ,energie-drank,1,energie-drank-6fonl,12:17:18 ,food,ml
+273,,,09/02/2019 ,09/02/2019 12:17:13, , ,sy,g0qeex7c,7, ,Nekpijn, ,nekpijn-39synl,12:17:13 ,symptom, 
+274,,,09/02/2019 ,09/02/2019 12:17:08, , ,sy,z4zet1e8,8, ,Hoofdpijn, ,hoofdpijn-27synl,12:17:08 ,symptom, 
+275,,,08/02/2019 ,08/02/2019 14:17:30, , ,fo,l96v0iiq, , ,energie-drank,1,energie-drank-6fonl,14:17:30 ,food,ml
+276,,,08/02/2019 ,08/02/2019 10:55:45, , ,sy,ygd3u9uk,8, ,Nekpijn, ,nekpijn-39synl,10:55:45 ,symptom, 
+277,,,08/02/2019 ,08/02/2019 10:55:34, , ,sy,x3wwaz0l,8, ,Druk in je hoofd, ,druk-in-je-hoofd-98synl,10:55:34 ,symptom, 
+278,,,08/02/2019 ,08/02/2019 10:55:27, , ,sy,ws6eopyd,8, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,10:55:27 ,symptom, 
+279,,,07/02/2019 ,07/02/2019 19:15:47, ,19:14:00,sy,8ki4mioq,9, ,Migraine, ,migraine-35synl,19:15:47 ,symptom, 
+280,,,07/02/2019 ,07/02/2019 19:14:12, , ,me,dswd7jh8, , ,zolmitriptan,2.5,zolmitriptan-61menl,19:14:12 ,medicine,mg
+281,,,07/02/2019 ,07/02/2019 17:26:19, ,12:45:00,th,ryfyiiyi,5, ,Fysiotherapie, ,fysiotherapie-10thnl,17:26:19 ,therapy, 
+282,,,07/02/2019 ,07/02/2019 17:20:13, , ,sy,r2kleh2u,7, ,Clusterhoofdpijn schadpijn, ,clusterhoofdpijn-schaduwpijn-75synl,17:20:13 ,symptom, 
+283,,,07/02/2019 ,07/02/2019 17:20:00, , ,me,mkom6y1i, , ,Zuurstof,12,zuurstof-101menl,17:20:00 ,medicine,l/m
+284,,,07/02/2019 ,07/02/2019 17:19:40, , ,sy,wfu9bmvc,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:19:40 ,symptom, 
+285,,,02/02/2019 ,02/02/2019 12:25:29, , ,fo,3o5ide8h, , ,energie-drank,1,energie-drank-6fonl,12:25:29 ,food,ml
+286,,,02/02/2019 ,02/02/2019 12:08:24, , ,me,xk1y76fk, , ,Zuurstof,12,zuurstof-101menl,12:08:24 ,medicine,l/m
+287,,,01/02/2019 ,01/02/2019 20:00:30, , ,fo,tw6dy5pw, , ,rode-wijn,6,rode-wijn-15fonl,20:00:30 ,food,ml
+288,,,31/01/2019 ,31/01/2019 18:03:59, , ,me,q322qzsx, , ,Zuurstof,12,zuurstof-101menl,18:03:59 ,medicine,l/m
+289,,,31/01/2019 ,31/01/2019 18:03:17, , ,sy,ag9i7dr3,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:03:17 ,symptom, 
+290,,,30/01/2019 ,30/01/2019 15:15:38, , ,fo,411gvx3q, , ,energie-drank,1,energie-drank-6fonl,15:15:38 ,food,ml
+291,,,29/01/2019 ,29/01/2019 16:03:40, ,11:35:00,th,vmfc4yjs,5, ,Fysiotherapie, ,fysiotherapie-10thnl,16:03:40 ,therapy, 
+292,,,29/01/2019 ,29/01/2019 16:03:01, , ,me,4msurs37, , ,Zuurstof,12,zuurstof-101menl,16:03:01 ,medicine,l/m
+293,,,29/01/2019 ,29/01/2019 16:02:45, , ,sy,5f324743,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:02:45 ,symptom, 
+294,,,29/01/2019 ,29/01/2019 15:16:04, , ,fo,9d5quz49, , ,energie-drank,1,energie-drank-6fonl,15:16:04 ,food,ml
+295,,,27/01/2019 ,27/01/2019 14:11:24, , ,fo,vtbvqys3, , ,energie-drank,1,energie-drank-6fonl,14:11:24 ,food,ml
+296,,,27/01/2019 ,27/01/2019 11:43:06, , ,me,qk3fyj10, , ,Zuurstof,12,zuurstof-101menl,11:43:06 ,medicine,l/m
+297,,,27/01/2019 ,27/01/2019 11:42:52, , ,sy,f1sg2zku,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:42:52 ,symptom, 
+298,,,25/01/2019 ,25/01/2019 13:56:49, , ,fo,p9zwyafe, , ,energie-drank,1,energie-drank-6fonl,13:56:49 ,food,ml
+299,,,22/01/2019 ,22/01/2019 14:43:03, , ,me,4koxw9qe, , ,Gon injectie, ,gon-injectie-67menl,14:43:03 ,medicine,mg
+300,,,19/01/2019 ,19/01/2019 22:15:16, , ,me,9l032d0v, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,22:15:16 ,medicine,mg
+301,,,19/01/2019 ,19/01/2019 22:15:14, , ,sy,xs61yjfd,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,22:15:14 ,symptom, 
+302,,,16/01/2019 ,16/01/2019 17:47:33, , ,me,zas6hc08, , ,Zuurstof,12,zuurstof-101menl,17:47:33 ,medicine,l/m
+303,,,16/01/2019 ,16/01/2019 17:47:13, , ,sy,rv7qwl53,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:47:13 ,symptom, 
+304,,,14/01/2019 ,14/01/2019 09:55:02, , ,sy,ncq5z47w,6, ,Hartkloppingen, ,hartkloppingen-41synl,09:55:02 ,symptom, 
+305,,,14/01/2019 ,14/01/2019 09:52:11, , ,sy,9yhrvhse,4, ,Misselijkheid, ,misselijkheid-38synl,09:52:11 ,symptom, 
+306,,,14/01/2019 ,14/01/2019 09:50:10, , ,me,tf6mgxte, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,09:50:10 ,medicine,mg
+307,,,14/01/2019 ,14/01/2019 09:50:07, , ,sy,e3xkl212,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,09:50:07 ,symptom, 
+308,,,14/01/2019 ,14/01/2019 09:36:36, , ,sy,67w5mt4l,7, ,Hartkloppingen, ,hartkloppingen-41synl,09:36:36 ,symptom, 
+309,,,13/01/2019 ,13/01/2019 14:24:44, , ,me,eq0e7xmi, , ,Zuurstof,12,zuurstof-101menl,14:24:44 ,medicine,l/m
+310,,,13/01/2019 ,13/01/2019 14:21:52, , ,sy,62g9t85z,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,14:21:52 ,symptom, 
+311,,,07/01/2019 ,07/01/2019 14:53:40, , ,fo,70ntup92, , ,energie-drank,1,energie-drank-6fonl,14:53:40 ,food,ml
+312,,,07/01/2019 ,07/01/2019 09:38:14, , ,sy,m7eyxd1z,5, ,Hartkloppingen, ,hartkloppingen-41synl,09:38:14 ,symptom, 
+313,,,06/01/2019 ,06/01/2019 16:51:41, , ,sy,j1jzidw0,5, ,Hartkloppingen, ,hartkloppingen-41synl,16:51:41 ,symptom, 
+314,,,06/01/2019 ,06/01/2019 16:16:13, , ,me,v5zv1sbp, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,16:16:13 ,medicine,mg
+315,,,06/01/2019 ,06/01/2019 16:15:10, , ,sy,iwbbjwhi,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:15:10 ,symptom, 
+316,,,06/01/2019 ,06/01/2019 12:01:33, , ,fo,m00s5tw6, , ,energie-drank,1,energie-drank-6fonl,12:01:33 ,food,ml
+317,,,02/01/2019 ,02/01/2019 19:58:59, , ,sy,8tnpckjm,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:58:59 ,symptom, 
+318,,,01/01/2019 ,01/01/2019 15:18:29, , ,fo,x5lrl62f, , ,energie-drank,1,energie-drank-6fonl,15:18:29 ,food,ml
+319,,,31/12/2018 ,31/12/2018 18:39:26, ,11:35:00,th,rq0092hf, , ,Fysiotherapie, ,fysiotherapie-10thnl,18:39:26 ,therapy, 
+320,,,31/12/2018 ,31/12/2018 18:38:55, , ,sy,1axhpzeg,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:38:55 ,symptom, 
+321,,,28/12/2018 ,28/12/2018 09:34:32, , ,sy,1aaq6mf4,4, ,Hartkloppingen, ,hartkloppingen-41synl,09:34:32 ,symptom, 
+322,,,26/12/2018 ,26/12/2018 13:02:59, , ,me,eab7b5t3, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,13:02:59 ,medicine,mg
+323,,,26/12/2018 ,26/12/2018 13:02:57, , ,sy,2npwzzeb,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:02:57 ,symptom, 
+324,,,25/12/2018 ,25/12/2018 15:28:38, , ,fo,2bgls1tx, , ,rode-wijn,4,rode-wijn-15fonl,15:28:38 ,food,ml
+325,,,25/12/2018 ,25/12/2018 09:30:33, , ,sy,kt9akd09,6, ,Hartkloppingen, ,hartkloppingen-41synl,09:30:33 ,symptom, 
+326,,,24/12/2018 ,24/12/2018 20:08:45, , ,fo,ew35muvp, , ,Witte wijn, ,witte-wijn-23fonl,20:08:45 ,food,ml
+327,,,24/12/2018 ,24/12/2018 20:07:12, ,20:06:00,sy,1uxxj3uf,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:07:12 ,symptom, 
+328,,,24/12/2018 ,24/12/2018 11:38:12, ,11:37:00,th,nr6ko3jx, , ,Fysiotherapie, ,fysiotherapie-10thnl,11:38:12 ,therapy, 
+329,,,21/12/2018 ,21/12/2018 19:40:41, ,20:30:00,sy,pm3j217u,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:40:41 ,symptom, 
+330,,,19/12/2018 ,19/12/2018 11:41:37, , ,sy,xpy8a2i7,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:41:37 ,symptom, 
+331,,,19/12/2018 ,19/12/2018 11:40:58, , ,me,83j48ud6, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,11:40:58 ,medicine,mg
+332,,,18/12/2018 ,18/12/2018 18:01:42, ,17:20:00,sy,clxj6p92,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:01:42 ,symptom, 
+333,,,18/12/2018 ,18/12/2018 12:05:55, ,11:35:00,th,nx68nvk3, , ,Fysiotherapie, ,fysiotherapie-10thnl,12:05:55 ,therapy, 
+334,,,11/12/2018 ,11/12/2018 16:30:35, , ,sy,r60gockc,10, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:30:35 ,symptom, 
+335,,,11/12/2018 ,11/12/2018 16:30:16, , ,me,rw0niie8, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,16:30:16 ,medicine,mg
+336,,,11/12/2018 ,11/12/2018 12:07:15, ,11:29:00,th,gu9f9cqn, , ,Fysiotherapie, ,fysiotherapie-10thnl,12:07:15 ,therapy, 
+337,,,07/12/2018 ,07/12/2018 17:24:41, , ,sy,4rdnv5xv, , ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:24:41 ,symptom, 
+338,,,04/12/2018 ,04/12/2018 20:55:09, ,20:55:00,sy,23tu2uem,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:55:09 ,symptom, 
+339,,,02/12/2018 ,02/12/2018 19:57:02, ,19:45:00,sy,5tvjgx5x,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,19:57:02 ,symptom, 
+340,,,02/12/2018 ,02/12/2018 19:44:02, , ,me,sstav9jn, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,19:44:02 ,medicine,mg
+341,,,02/12/2018 ,02/12/2018 19:15:32, , ,fo,c86f3wd7, , ,bier,1,bier-1fonl,19:15:32 ,food,ml
+342,,,14/11/2018 ,14/11/2018 16:02:16, , ,me,f5p4cb9r, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,16:02:16 ,medicine,mg
+343,,,14/11/2018 ,14/11/2018 16:02:12, ,15:50:00,sy,monum751,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:02:12 ,symptom, 
+344,,,13/11/2018 ,13/11/2018 22:46:24, ,11:55:00,th,3lbh1rsa,5, ,Fysiotherapie, ,fysiotherapie-10thnl,22:46:24 ,therapy, 
+345,,,12/11/2018 ,12/11/2018 17:42:36, ,17:30:00,sy,cqdpf542,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,17:42:36 ,symptom, 
+346,,,12/11/2018 ,12/11/2018 16:21:26, ,16:16:00,sy,csdrwqjw,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,16:21:26 ,symptom, 
+347,,,12/11/2018 ,12/11/2018 13:06:34, , ,sy,z1rb4f5r,7, ,Darmklachten, ,darmklachten-64synl,13:06:34 ,symptom, 
+348,,,12/11/2018 ,12/11/2018 13:06:09, , ,me,s10u14cr, , ,sumatriptan-neusspray,20,sumatriptan-neusspray-55menl,13:06:09 ,medicine,mg
+349,,,12/11/2018 ,12/11/2018 13:05:32, ,12:50:00,sy,x64uylu6,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:05:32 ,symptom, 
+350,,,11/11/2018 ,11/11/2018 12:19:27, ,12:05:00,sy,pe5ncr45,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:19:27 ,symptom, 
+351,,,08/11/2018 ,08/11/2018 20:48:28, ,20:40:00,sy,k1thkvns,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,20:48:28 ,symptom, 
+352,,,08/11/2018 ,08/11/2018 15:27:37, , ,me,fqei1j4q, , ,topiramaat,0,topiramaat-58menl,15:27:37 ,medicine,mg
+353,,,08/11/2018 ,08/11/2018 15:27:34, ,15:25:00,sy,uknj7lzp,4, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,15:27:34 ,symptom, 
+354,,,07/11/2018 ,07/11/2018 13:41:25, , ,me,qsmij8g6, , ,topiramaat,50,topiramaat-58menl,13:41:25 ,medicine,mg
+355,,,06/11/2018 ,06/11/2018 02:21:49, , ,sy,mbp6xuio,6, ,Depressief, ,depressief-17synl,02:21:49 ,symptom, 
+356,,,05/11/2018 ,05/11/2018 13:41:21, ,12:55:00,sy,k27ftck3,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,13:41:21 ,symptom, 
+357,,,05/11/2018 ,05/11/2018 02:21:43, ,20:40:00,sy,6t9bu9qj,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,02:21:43 ,symptom, 
+358,,,01/11/2018 ,01/11/2018 17:37:37, , ,sy,wcg7hbqj,5, ,Hartkloppingen, ,hartkloppingen-41synl,17:37:37 ,symptom, 
+359,,,01/11/2018 ,01/11/2018 16:09:26, , ,sy,h6ow0igt,8, ,Nekpijn, ,nekpijn-39synl,16:09:26 ,symptom, 
+360,,,01/11/2018 ,01/11/2018 16:09:20, , ,sy,q31jekky,8, ,Hoofdpijn, ,hoofdpijn-27synl,16:09:20 ,symptom, 
+361,,,01/11/2018 ,01/11/2018 16:09:14, , ,sy,ewamw696,8, ,Gevoelloos, ,gevoelloos-31synl,16:09:14 ,symptom, 
+362,,,01/11/2018 ,01/11/2018 16:09:08, , ,sy,ucueukbk,8, ,Tintelende armen, ,tintelende-armen-58synl,16:09:08 ,symptom, 
+363,,,01/11/2018 ,01/11/2018 16:09:00, , ,sy,t253xolg,5, ,Darmklachten, ,darmklachten-64synl,16:09:00 ,symptom, 
+364,,,01/11/2018 ,01/11/2018 16:08:54, , ,sy,xrm6np81,9, ,Depressief, ,depressief-17synl,16:08:54 ,symptom, 
+365,,,01/11/2018 ,01/11/2018 16:08:46, , ,sy,yfb89nzc,8, ,Duizeligheid, ,duizeligheid-19synl,16:08:46 ,symptom, 
+366,,,31/10/2018 ,31/10/2018 18:59:31, ,18:15:00,sy,v4u65jf9,7, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,18:59:31 ,symptom, 
+367,,,31/10/2018 ,31/10/2018 11:00:44, ,11:00:00,sy,tobah6tk,5, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:00:44 ,symptom, 
+368,,,31/10/2018 ,31/10/2018 10:47:32, , ,sy,znih990y,7, ,Tintelende benen, ,tintelende-benen-59synl,10:47:32 ,symptom, 
+369,,,31/10/2018 ,31/10/2018 10:47:24, , ,sy,p90ce5tc,8, ,Duizeligheid, ,duizeligheid-19synl,10:47:24 ,symptom, 
+370,,,31/10/2018 ,31/10/2018 10:45:39, , ,me,9kqgswiw, , ,topiramaat,25,topiramaat-58menl,10:45:39 ,medicine,mg
+371,,,30/10/2018 ,30/10/2018 15:40:44, , ,sy,sedjfpwt,6, ,Misselijkheid, ,misselijkheid-38synl,15:40:44 ,symptom, 
+372,,,30/10/2018 ,30/10/2018 15:39:53, , ,sy,3wcxszza,8, ,Hoofdpijn, ,hoofdpijn-27synl,15:39:53 ,symptom, 
+373,,,30/10/2018 ,30/10/2018 15:38:51, , ,sy,brb6avco,5, ,Gevoelloos, ,gevoelloos-31synl,15:38:51 ,symptom, 
+374,,,30/10/2018 ,30/10/2018 15:38:22, , ,sy,eu0dxyfh,8, ,Depressief, ,depressief-17synl,15:38:22 ,symptom, 
+375,,,30/10/2018 ,30/10/2018 15:38:12, , ,sy,9gaix2n9,6, ,Duizeligheid, ,duizeligheid-19synl,15:38:12 ,symptom, 
+376,,,30/10/2018 ,30/10/2018 12:22:57, ,11:55:00,sy,6x48j4th,8, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,12:22:57 ,symptom, 
+377,,,29/10/2018 ,29/10/2018 14:26:58, , ,sy,epehs74t,5, ,Zweten, ,zweten-61synl,14:26:58 ,symptom, 
+378,,,29/10/2018 ,29/10/2018 14:26:24, , ,sy,0yiizm5n,5, ,Gevoelloos, ,gevoelloos-31synl,14:26:24 ,symptom, 
+379,,,29/10/2018 ,29/10/2018 14:25:40, , ,sy,zqan33cw,8, ,Duizeligheid, ,duizeligheid-19synl,14:25:40 ,symptom, 
+380,,,29/10/2018 ,29/10/2018 14:24:53, , ,sy,enfaom3g,7, ,Duizeligheid, ,duizeligheid-19synl,14:24:53 ,symptom, 
+381,,,29/10/2018 ,29/10/2018 14:24:47, , ,sy,sz7zmhqa,6, ,Darmklachten, ,darmklachten-64synl,14:24:47 ,symptom, 
+382,,,29/10/2018 ,29/10/2018 14:24:33, , ,sy,4mweyib2,4, ,Depressief, ,depressief-17synl,14:24:33 ,symptom, 
+383,,,28/10/2018 ,28/10/2018 11:48:51, ,11:40:00,sy,z5j7kjry,6, ,Clusterhoofdpijn, ,clusterhoofdpijn-14synl,11:48:51 ,symptom, 
