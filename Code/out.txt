@@ -1,0 +1,287 @@
+Connected to open human
+======================
+26 users are registered
+======================
+97892380 has 612 rows
+Folder created
+1 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+=================================duration_TL DONE =============================
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+36057926 has 10173 rows
+Folder created
+45 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+=================================duration_TL DONE =============================
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+Plot not created; no data found.
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+Graph Graph_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+84339519 has 8320 rows
+Folder created
+0 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+=================================duration_TL DONE =============================
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+66731126 has 98 rows
+Folder created
+0 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+=================================duration_TL DONE =============================
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+Plot not created; no data found.
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+Graph Graph_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+26041024 has 1298 rows
+Folder created
+0 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+WARNING: All values for Duration are NA's
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+Plot not created; no data found.
+Plot not created; no data found.
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+Graph Graph_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph TL_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Graph_ALL_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+14765094 has 407 rows
+Folder created
+0 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+No duration for TL_2
+=================================duration_TL DONE =============================
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+Plot not created; no data found.
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+Graph Graph_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph TL_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+65109063 has 23 rows
+Folder created
+0 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+WARNING: All values for Duration are NA's
+======= Creating intensity_TL =======
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+Plot not created; no data found.
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+Plot not created; no data found.
+=================================duration_graph DONE =============================
+======= Creating day_night_attacks =======
+Plot not created; no data found.
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+OK 3
+OK 4
+=================================medicine DONE =============================
+Graph Graph_1.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Graph_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Graph_3.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph TL_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+76188733 has 4 rows
+Folder created
+0 na's were removed from data
+=================================general DONE =============================
+======= Creating duration_TL =======
+WARNING: All values for Duration are NA's
+======= Creating intensity_TL =======
+Plot not created; no data found.
+=================================intensity_TL DONE =============================
+======= Creating frequency_TL =======
+=================================frequency_TL DONE =============================
+======= Creating intensity_graph =======
+Plot not created; no data found.
+=================================intensity_graph DONE =============================
+======= Creating duration_graph =======
+======= Creating day_night_attacks =======
+Plot not created; no data found.
+=================================day_night_attacks DONE =============================
+======= Creating medicine =======
+Medicical graph failed
+=================================medicine DONE =============================
+Graph Graph_1.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Graph_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Graph_3.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph TL_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph TL_3.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Graph_ALL_2.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+Graph Medicine.jpeg was missing
+/home/val/Projects/Nobism/Nobism/Code
+... HTML : OK
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading page (1/2)
+[>                                                           ] 0%[==================>                                         ] 30%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+Images removed
+Text removed
+Images removed
+PDF removed
+OK 1
+OK 2
+Metadata OK
+ERROR 0

@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Duration <= 34.5\nmse = 1.5\nsamples = 3868\nvalue = 3.7"] ;
+1 [label="Duration <= 27.5\nmse = 1.0\nsamples = 1130\nvalue = 3.1"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="year <= 2013.5\nmse = 0.8\nsamples = 600\nvalue = 2.8"] ;
+1 -> 2 ;
+3 [label="mse = 1.0\nsamples = 152\nvalue = 2.3"] ;
+2 -> 3 ;
+4 [label="mse = 0.6\nsamples = 448\nvalue = 3.0"] ;
+2 -> 4 ;
+5 [label="hour <= 7.5\nmse = 1.1\nsamples = 530\nvalue = 3.4"] ;
+1 -> 5 ;
+6 [label="mse = 1.6\nsamples = 105\nvalue = 4.1"] ;
+5 -> 6 ;
+7 [label="mse = 0.9\nsamples = 425\nvalue = 3.2"] ;
+5 -> 7 ;
+8 [label="75sy <= 0.5\nmse = 1.5\nsamples = 2738\nvalue = 3.9"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="hour <= 7.5\nmse = 1.7\nsamples = 2399\nvalue = 4.0"] ;
+8 -> 9 ;
+10 [label="mse = 1.7\nsamples = 509\nvalue = 4.4"] ;
+9 -> 10 ;
+11 [label="mse = 1.6\nsamples = 1890\nvalue = 3.9"] ;
+9 -> 11 ;
+12 [label="year <= 2018.5\nmse = 0.3\nsamples = 339\nvalue = 3.4"] ;
+8 -> 12 ;
+13 [label="mse = 0.3\nsamples = 151\nvalue = 3.2"] ;
+12 -> 13 ;
+14 [label="mse = 0.4\nsamples = 188\nvalue = 3.5"] ;
+12 -> 14 ;
+}
