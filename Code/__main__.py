@@ -18,7 +18,7 @@ Data = open_human.token()
 print("======================")
 print(len(Data['results']), "users are registered")
 print("======================")
-
+n = 0
 # Loop for each users
 for user in Data['results']:
     
@@ -26,12 +26,9 @@ for user in Data['results']:
     name = user['project_member_id']
 
     # Get the data from open human
-    n = 0
     if open_human.get_data(user) == 0:
         
         try:
-        
-       
             # Load Data for user
             Data = preprocessing.load()
     
@@ -76,18 +73,20 @@ for user in Data['results']:
             # Clean Data
             clean.clean_data()
             
-        except:
+        except Exception as ex:
+            print(ex)
             n += 1
             clean.clean_data()
 
 
-
-# Clean PDF
+#Clean PDF
 #clean.rm_folders()
 
 # Build Metadata
-code.metadata_build()
-
+try:
+    code.metadata_build()
+except:
+    print("failure processing metadata")
 print("ERROR", n)
 
 # Sent PDF

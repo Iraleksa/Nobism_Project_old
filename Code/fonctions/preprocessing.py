@@ -11,6 +11,7 @@ import pandas as pd
 import re
 from datetime import datetime
 import subprocess
+import os
 
 
 def load():
@@ -78,8 +79,9 @@ def Split_data(Data, current_day, current_month, current_year):
 
 
 def create_folder(name):
-    cmd = ['mkdir', 'pdf/Final/' + name]
-    subprocess.call(cmd)
+    #cmd = ['mkdir', 'pdf/Final/' + name]
+    #subprocess.call(cmd)
+    os.makedirs('pdf/Final/' + name, exist_ok=True)
     print("Folder created")
     
 def remove_na(Data):
