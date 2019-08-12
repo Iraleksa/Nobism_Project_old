@@ -5,8 +5,14 @@ Created on Tue Jul 23 12:03:00 2019
 
 @author: valerian
 """
-#import numpy as np
+
 import pdfkit
+import os
+import bs4
+import subprocess
+import pandas as pd
+
+import time
 
 def convert_into_pdf(name):
     from datetime import datetime
@@ -16,13 +22,10 @@ def convert_into_pdf(name):
     options = {'orientation': 'Landscape'}
     path = 'pdf/Final/' + name + '/' + str(y) + '-' + str(m) + '_' + 'Nobism.pdf'
     pdfkit.from_file("pdf/template/index.html", path, options = options)
+    # If you have issue with w... you can OR make the absolut path OR install good packages.
 
-import pandas as pd
-
-import time
 
 def metadata_build():
-
     # Create Metadata
     cmd = ['ohproj-upload-metadata', '-d', 'pdf/Final', '--create-csv', 'metadata.csv']
     subprocess.call(cmd, universal_newlines=True)
@@ -42,14 +45,11 @@ def metadata_build():
 
     print('Metadata OK')
 
-import os
-
-import subprocess
 
 def img_not_found():
 
     files = []
-
+    
     # r=root, d=directories, f = files
     for r, d, f in os.walk("pdf/iteration/"):
         for file in f:
@@ -69,24 +69,20 @@ def img_not_found():
 
 
 def List_Tag(Tag):
-#    import os
-#    print(os.getcwd())
-
     for (columnName, columnData) in Tag.iteritems():
         if columnName == "code":
             global x
             x = columnData.values
-
     return(x)
 
+
 def List_Data(Data, TAG):
-
     LISTE = {}
-
     for x in TAG:
         Y = Data[(Data["Tag"] == x)]
         LISTE[x] = str(len(Y))
     return(LISTE)
+
 
 def Top_Five(Data):
     filt = ["sy", "me", "ma", "vi"]
@@ -99,8 +95,8 @@ def Top_Five(Data):
         sorted_x = sorted(newDict.items(), key=lambda x: int(x[1]), reverse=True)
         y = sorted_x[:3]
         ALL[x] = y
-
     return(ALL)
+
 
 def replace_name(Data, Tag, Lang = 2):
     FINAL = {}
@@ -220,26 +216,19 @@ def all_buttons(Data):
     return LISTE
 
 
-def Json_2(Data):
+def statistiques(Data):
     Tag = pd.read_csv('data/Tag.csv')
-#    Data = pd.read_csv('data/main.csv')
-
     all_tag = List_Tag(Tag)
-
     number_by_tags = List_Data(Data, all_tag)
     top_three = Top_Five(number_by_tags)
-
     number_by_cat = all_buttons(Data)
 
     global LISTE
     LISTE = replace_name(top_three, Tag)
-
     LISTE["cat"] = number_by_cat
 
-import bs4
 
-def upload_html_2():
-
+def upload_html():
     f = open('pdf/template/index.html', 'r')
     html = f.read()
     soup = bs4.BeautifulSoup(html, features="html5lib")
@@ -265,7 +254,7 @@ def upload_html_2():
               "mean_duration_month", "mean_intensity_month_2",
               "Wrong_Symptomes_month", "diff_medecines", "INTENSITY",
               "DURATION", "Wrong_Symptomes_ever"]:
-        # "mean_duration_ever",
+        # "mean_duration_ever not used in html until now",
 
         try:
             Div_1 = soup.find("div", {"id": x})
@@ -279,4 +268,4 @@ def upload_html_2():
     with open("pdf/template/index.html", "w") as outf:
         outf.write(str(soup))
 
-    print("... HTML : OK")
+    print("HTML UPLOADED")

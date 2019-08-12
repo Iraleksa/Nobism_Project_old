@@ -4,6 +4,7 @@ def world():
 
 import requests.exceptions
 import json
+import pandas as pd
 
 def token():
 #    choice = []
@@ -12,7 +13,7 @@ def token():
 #    choice = input(), choice
 #    global access_token
 
-    access_token = "j8FjxCXiVRSiwjGw5ZidnxzdlmdqwQpJSBatzH7yjr2WTIKgfTqReQw3rShttUDW" #choice[0]
+    access_token = "8xQ1mksNkr3g5Sm5qMn8POiCbrvCWYzpKZJIc5Bqr1hhV9PwY3EfW4p2mrRu9qdx" #choice[0]
     url = "https://www.openhumans.org/api/direct-sharing/project/members/?access_token="
     url_data = url + str(access_token)
     try:
@@ -23,12 +24,11 @@ def token():
     except requests.exceptions.HTTPError:
         print("Connection with Open Human fail")
     else:
-        print("Connected to open human")  # Proceed to do stuff with `r`
+        print("Connected to open human")
 
     Data = json.loads(r.text)
-    return Data
+    return(Data)
 
-import pandas as pd
 
 def get_data(user):
 
@@ -56,13 +56,18 @@ def get_data(user):
 
         # Save data into folder as csv
         DATA.to_csv("data/main.csv")
-
-        print(user['project_member_id'], "has", len(DATA), "rows")
-        return (0)
+        
+        print("###############################")
+        print("####", user['project_member_id'], "has", len(DATA), "rows ####")
+        print("###############################")
+        return(0)
 
     # Return no Data
     else:
-        return (1)
+        print("#############################")
+        print("####", user['project_member_id'], "has", len(DATA), "rows ####")
+        print("#############################")
+        return(1)
 
 
 

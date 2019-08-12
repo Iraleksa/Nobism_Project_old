@@ -5,26 +5,12 @@ Created on Tue Jul 23 22:19:39 2019
 
 @author: valerian
 """
-#import os
-#str1=os.getcwd()
-#str2=str1.split('/')
-#n=len(str2)
-#path = str2[n-5] + '/' + str2[n-4] + '/' + str2[n-3] + '/' + str2[n-2] + '/'
-#path = path + "Code/data/main.csv"
-#%% SETTINGS
 import plotnine as p9
 import pandas as pd
-#import numpy as np
-#import datetime
 import logging
 from datetime import timedelta
 
-#Data = pd.read_csv("data/main.csv")
-#import calendar
-#from datetime import date, timedelta
 
-#%% TIME LINE 1
-#Function TL_1
 def general(Data):
     logging.info('======= Creating general =======')
     print('======= Creating general =======')
@@ -64,8 +50,9 @@ def general(Data):
     else: 
         print('Plot not created; no data found.')
     return(print('=================================general DONE ============================='))
-#%% TIME LINE 2
-#Function TL_2
+
+
+
 def duration_TL(Data):
     print('======= Creating duration_TL =======')
     x = Data.Duration[pd.isna(Data.Duration) == True]
@@ -103,31 +90,32 @@ def duration_TL(Data):
                     datebreaks = '12 months'                
                 else:
                     datebreaks = '6 months'
+
                 
-            plot = (p9.ggplot(data=data_with_missing_times,
-                              mapping=p9.aes(x='Date',
-                                             y='Duration'))
-                + p9.geom_smooth(color = 'red', size = 5, method="loess", se=False)
-                + p9.theme_classic()
-                + p9.theme(axis_text = p9.element_text(size=33),
-                           axis_title = p9.element_text(size = 33,face = 'bold'))
-                + p9.scale_x_datetime(date_labels = '%Y-%m', date_breaks = datebreaks)
-                + p9.labs(x='',y='')
-                )    
-            
-            #Creating and saving TL_2
+            plot = (p9.ggplot(data=data_with_missing_times, mapping=p9.aes(x='Date', 
+                                                                           y='Duration'))
+            + p9.geom_smooth(color = 'red', size = 5, method="loess", se=False)
+            + p9.theme_classic()
+            + p9.theme(axis_text = p9.element_text(size=33), 
+                       axis_title = p9.element_text(size = 33,face = 'bold'))
+            + p9.scale_x_datetime(date_labels = '%Y-%m', date_breaks = datebreaks)
+            + p9.labs(x='',y=''))    
+
             if (len(data_with_missing_times) > 0):
-                #TL2 = TL_2(data_with_missing_times)
+
                 plot.save(filename = 'TL_2.jpeg',
                          plot = plot,
                          path = "pdf/iteration/",
                          width = 25, height = 5,
                          dpi = 320)
+                
+
             else: 
                 print('Plot not created; no data found.')
         return(print('=================================duration_TL DONE ============================='))
-#%% TIME LINE 3
-#Function TL_3
+
+
+
 def intensity_TL(Data):
     print('======= Creating intensity_TL =======')    
     x = Data.Intensity[pd.isna(Data.Intensity) == True]
@@ -185,8 +173,9 @@ def intensity_TL(Data):
     else: 
         print('Plot not created; no data found.')
     return(print('=================================intensity_TL DONE ============================='))
-#%% TIME LINE 4
-#Function TL_4
+
+
+
 def frequency_TL(Data):
     print('======= Creating frequency_TL =======')
     #Filtering
@@ -246,8 +235,9 @@ def frequency_TL(Data):
     else: 
         print('Plot not created; no data found.')
     return(print('=================================frequency_TL DONE ============================='))
-#%% GRAPH 1
-#Function Graph_1
+
+
+
 def intensity_graph(Data, Data_m):
     print('======= Creating intensity_graph =======')
     x = Data.Intensity[pd.isna(Data.Intensity) == True]
@@ -311,8 +301,9 @@ def intensity_graph(Data, Data_m):
     else: 
         print('Plot not created; no data found.')
     return(print('=================================intensity_graph DONE ============================='))
-#%% GRAPH 2
-#Function Graph_2
+
+
+
 def duration_graph(Data, Data_m):
     print('======= Creating duration_graph =======')
     #Filter current year and month, and correct Duration
@@ -358,8 +349,10 @@ def duration_graph(Data, Data_m):
         else: 
                 print('Plot not created; no data found.')
     return(print('=================================duration_graph DONE ============================='))
-#%% GRAPH 3
-#Function Graph_3
+
+
+
+
 def day_night_attacks(Data, Data_m):
     print('======= Creating day_night_attacks =======')
     #Filter montlhy and ever Symptomes
@@ -425,7 +418,9 @@ def day_night_attacks(Data, Data_m):
         print('Plot not created; no data found.')
 
     return(print('=================================day_night_attacks DONE ============================='))    
-#%% MEDICINE
+
+
+
 def medicine(Data):
     print('======= Creating medicine =======')
     
@@ -475,28 +470,14 @@ def medicine(Data):
         + p9.labs(title = '', x='',y='')
         )
         
-        print("OK 3")
             
         f_tl1.save(filename = 'Medicine.jpeg',
                    plot = f_tl1,
                    path = "pdf/iteration/",
                    width = 25, height = 5,
                    dpi = 320)
-        print("OK 4")
         
     except:
         print("Medicical graph failed")
 
     return(print('=================================medicine DONE ============================='))    
-
-
-#%% Extra information
-#day_nb = (datetime.datetime.now() - Data.TimeLine.min()).days
-#LISTE['DAY_OLD'] = str(day_nb)
-
-# Replace NA value by 0 in the liste
-#if LISTE.isnull().sum().sum() > 0:
- #       LISTE.fillna()
-
-#####################
-#list_json <- toJSON(LISTE)
