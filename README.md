@@ -4,7 +4,7 @@ Nobism is a free and open source medical application.
 
 The goal was to build a script that could load, pre-process, and send individual PDF to each users according to their own data.
 
-I used a mix of Pyhon and R.
+I used a mix of Python and R.
 
 This project was incredibly interested, because of the wide scale of technique I had to use in order to build that script.
 
